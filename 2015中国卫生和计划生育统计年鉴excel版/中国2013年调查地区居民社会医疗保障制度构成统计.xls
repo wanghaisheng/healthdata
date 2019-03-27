@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2013年调查地区居民社会医疗保障制度构成统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" rowspan="2">合计</td>
+<td class="biaotou" colspan="4">城市</td>
+<td class="biaotou" colspan="4">农村</td>
+</tr><tr><td class="biaotou">小计</td>
+<td class="biaotou">东</td>
+<td class="biaotou">中</td>
+<td class="biaotou">西</td>
+<td class="biaotou">小计</td>
+<td class="biaotou">东</td>
+<td class="biaotou">中</td>
+<td class="biaotou">西</td>
+</tr><tr><td class="zhibiao">城镇职工医疗保险</td>
+<td class="shuju">21.0</td>
+<td class="shuju">38.1</td>
+<td class="shuju">48.8</td>
+<td class="shuju">36.7</td>
+<td class="shuju">28.8</td>
+<td class="shuju">4.6</td>
+<td class="shuju">8.2</td>
+<td class="shuju">3.8</td>
+<td class="shuju">2.1</td>
+</tr>
+<tr><td class="zhibiao">城镇居民医疗保险</td>
+<td class="shuju">13.2</td>
+<td class="shuju">22.0</td>
+<td class="shuju">27.2</td>
+<td class="shuju">21.7</td>
+<td class="shuju">17.2</td>
+<td class="shuju">4.7</td>
+<td class="shuju">8.0</td>
+<td class="shuju">4.2</td>
+<td class="shuju">2.2</td>
+</tr>
+<tr><td class="zhibiao">新型农村合作医疗</td>
+<td class="shuju">51.1</td>
+<td class="shuju">26.9</td>
+<td class="shuju">13.4</td>
+<td class="shuju">29.6</td>
+<td class="shuju">37.8</td>
+<td class="shuju">74.1</td>
+<td class="shuju">57.9</td>
+<td class="shuju">81.7</td>
+<td class="shuju">82.2</td>
+</tr>
+<tr><td class="zhibiao">城乡居民合作医疗</td>
+<td class="shuju">9.9</td>
+<td class="shuju">5.7</td>
+<td class="shuju">4.3</td>
+<td class="shuju">3.2</td>
+<td class="shuju">9.8</td>
+<td class="shuju">13.8</td>
+<td class="shuju">22.9</td>
+<td class="shuju">7.3</td>
+<td class="shuju">11.3</td>
+</tr>
+<tr><td class="zhibiao">其他社保</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1.0</td>
+<td class="shuju">0.9</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.1</td>
+</tr>
+<tr><td class="zhibiao">无社保</td>
+<td class="shuju">4.4</td>
+<td class="shuju">6.4</td>
+<td class="shuju">5.4</td>
+<td class="shuju">8.0</td>
+<td class="shuju">5.7</td>
+<td class="shuju">2.6</td>
+<td class="shuju">2.8</td>
+<td class="shuju">2.8</td>
+<td class="shuju">2.2</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

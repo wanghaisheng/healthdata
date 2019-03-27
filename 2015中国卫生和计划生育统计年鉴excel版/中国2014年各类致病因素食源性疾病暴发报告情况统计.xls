@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年各类致病因素食源性疾病暴发报告情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">致病因素</td>
+<td class="biaotou" colspan="2">事件数(个)</td>
+<td class="biaotou" colspan="2">事件构成(%)</td>
+<td class="biaotou" colspan="2">患者数(个)</td>
+<td class="biaotou" colspan="2">患者构成(%)</td>
+</tr><tr><td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">动植物及毒蘑菇</td>
+<td class="shuju">409</td>
+<td class="shuju">606</td>
+<td class="shuju">40.9</td>
+<td class="shuju">40.9</td>
+<td class="shuju">3347</td>
+<td class="shuju">4872</td>
+<td class="shuju">23.2</td>
+<td class="shuju">27.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;毒蘑菇</td>
+<td class="shuju">226</td>
+<td class="shuju">354</td>
+<td class="shuju">22.6</td>
+<td class="shuju">23.9</td>
+<td class="shuju">1309</td>
+<td class="shuju">1783</td>
+<td class="shuju">9.1</td>
+<td class="shuju">10.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;菜豆</td>
+<td class="shuju">77</td>
+<td class="shuju">105</td>
+<td class="shuju">7.7</td>
+<td class="shuju">7.1</td>
+<td class="shuju">941</td>
+<td class="shuju">1553</td>
+<td class="shuju">6.5</td>
+<td class="shuju">8.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;桐油果</td>
+<td class="shuju">10</td>
+<td class="shuju">17</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1.2</td>
+<td class="shuju">114</td>
+<td class="shuju">332</td>
+<td class="shuju">0.8</td>
+<td class="shuju">1.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;蓖麻子</td>
+<td class="shuju">5</td>
+<td class="shuju">6</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.4</td>
+<td class="shuju">64</td>
+<td class="shuju">157</td>
+<td class="shuju">0.4</td>
+<td class="shuju">0.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;苦瓠瓜子甙</td>
+<td class="shuju">3</td>
+<td class="shuju">7</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.5</td>
+<td class="shuju">11</td>
+<td class="shuju">42</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.2</td>
+</tr>
+<tr><td class="zhibiao">微生物</td>
+<td class="shuju">320</td>
+<td class="shuju">437</td>
+<td class="shuju">32.0</td>
+<td class="shuju">29.5</td>
+<td class="shuju">7162</td>
+<td class="shuju">8181</td>
+<td class="shuju">49.7</td>
+<td class="shuju">46.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;沙门氏菌</td>
+<td class="shuju">74</td>
+<td class="shuju">73</td>
+<td class="shuju">7.4</td>
+<td class="shuju">4.9</td>
+<td class="shuju">1898</td>
+<td class="shuju">2122</td>
+<td class="shuju">13.2</td>
+<td class="shuju">12.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;副溶血性弧菌</td>
+<td class="shuju">89</td>
+<td class="shuju">134</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.1</td>
+<td class="shuju">1636</td>
+<td class="shuju">1812</td>
+<td class="shuju">11.4</td>
+<td class="shuju">10.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;金黄色葡萄球菌及其毒素</td>
+<td class="shuju">40</td>
+<td class="shuju">52</td>
+<td class="shuju">4.0</td>
+<td class="shuju">3.5</td>
+<td class="shuju">859</td>
+<td class="shuju">825</td>
+<td class="shuju">6.0</td>
+<td class="shuju">4.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;蜡样芽孢杆菌</td>
+<td class="shuju">31</td>
+<td class="shuju">27</td>
+<td class="shuju">3.1</td>
+<td class="shuju">1.8</td>
+<td class="shuju">809</td>
+<td class="shuju">617</td>
+<td class="shuju">5.6</td>
+<td class="shuju">3.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大肠埃希菌</td>
+<td class="shuju">14</td>
+<td class="shuju">20</td>
+<td class="shuju">1.4</td>
+<td class="shuju">1.4</td>
+<td class="shuju">557</td>
+<td class="shuju">457</td>
+<td class="shuju">3.9</td>
+<td class="shuju">2.6</td>
+</tr>
+<tr><td class="zhibiao">化学物</td>
+<td class="shuju">108</td>
+<td class="shuju">108</td>
+<td class="shuju">10.8</td>
+<td class="shuju">7.3</td>
+<td class="shuju">1018</td>
+<td class="shuju">1040</td>
+<td class="shuju">7.1</td>
+<td class="shuju">5.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;亚硝酸盐</td>
+<td class="shuju">56</td>
+<td class="shuju">79</td>
+<td class="shuju">5.6</td>
+<td class="shuju">5.3</td>
+<td class="shuju">452</td>
+<td class="shuju">814</td>
+<td class="shuju">3.1</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乌头碱</td>
+<td class="shuju">21</td>
+<td class="shuju">18</td>
+<td class="shuju">2.1</td>
+<td class="shuju">1.2</td>
+<td class="shuju">185</td>
+<td class="shuju">77</td>
+<td class="shuju">1.3</td>
+<td class="shuju">0.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;胰蛋白酶抑制剂</td>
+<td class="shuju">7</td>
+<td class="shuju">5</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.3</td>
+<td class="shuju">146</td>
+<td class="shuju">74</td>
+<td class="shuju">1.0</td>
+<td class="shuju">0.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;漂白剂</td>
+<td class="shuju">0</td>
+<td class="shuju">1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0</td>
+<td class="shuju">3</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;盐酸塞拉嗪</td>
+<td class="shuju">0</td>
+<td class="shuju">0</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0</td>
+<td class="shuju">0</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.0</td>
+</tr>
+<tr><td class="zhibiao">不明原因</td>
+<td class="shuju">188</td>
+<td class="shuju">329</td>
+<td class="shuju">19</td>
+<td class="shuju">22.2</td>
+<td class="shuju">3170</td>
+<td class="shuju">3558</td>
+<td class="shuju">22</td>
+<td class="shuju">20.2</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

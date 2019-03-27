@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份婴儿死亡率与预期寿命统计(1973-2010)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">年份</td>
+<td class="biaotou" rowspan="2">婴儿死亡率(‰)</td>
+<td class="biaotou" colspan="3">预期寿命(岁)</td>
+</tr><tr><td class="biaotou">合计</td>
+<td class="biaotou">男</td>
+<td class="biaotou">女</td>
+</tr><tr><td class="zhibiao">新中国成立</td>
+<td class="shuju">200左右</td>
+<td class="shuju">35.0</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">1973-1975</td>
+<td class="shuju">47.0</td>
+<td class="shuju">-</td>
+<td class="shuju">63.6</td>
+<td class="shuju">66.3</td>
+</tr>
+<tr><td class="zhibiao">1981</td>
+<td class="shuju">34.7</td>
+<td class="shuju">67.9</td>
+<td class="shuju">66.4</td>
+<td class="shuju">69.3</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">68.6</td>
+<td class="shuju">66.9</td>
+<td class="shuju">70.5</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">32.2</td>
+<td class="shuju">71.4</td>
+<td class="shuju">69.6</td>
+<td class="shuju">73.3</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">19.0</td>
+<td class="shuju">73.0</td>
+<td class="shuju">71.0</td>
+<td class="shuju">74.0</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">13.1</td>
+<td class="shuju">74.8</td>
+<td class="shuju">72.4</td>
+<td class="shuju">77.4</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>资料来源:①1973-1975年系全国三年肿瘤死亡回顾调查数字.</td></tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>②1981.1990.2000.2010年预期寿命系人口普查数.2005年系1%人口抽样调查数.</td></tr>
+</table>
+<table class="exp" id="tab3">
+<tr><td>③2000.2005.2010年婴儿死亡率系妇幼卫生监测地区数字.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医院出院病人年龄别疾病构成统计(男)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">疾病名称(ICD-10)</td>
+<td class="biaotou">5岁以下</td>
+<td class="biaotou">5-14岁</td>
+<td class="biaotou">15-44岁</td>
+<td class="biaotou">45-59岁</td>
+<td class="biaotou">60岁及以上</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乳房良性肿瘤</td>
+<td class="shuju">0.7</td>
+<td class="shuju">2.2</td>
+<td class="shuju">42.7</td>
+<td class="shuju">25.5</td>
+<td class="shuju">29.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;子宫平滑肌瘤</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;卵巢良性肿瘤</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;前列腺良性肿瘤</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.6</td>
+<td class="shuju">4.9</td>
+<td class="shuju">12.8</td>
+<td class="shuju">81.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;甲状腺良性肿瘤</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.9</td>
+<td class="shuju">28.3</td>
+<td class="shuju">41.8</td>
+<td class="shuju">28.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;交界恶性和动态未知的肿瘤</td>
+<td class="shuju">0.8</td>
+<td class="shuju">1.9</td>
+<td class="shuju">16.0</td>
+<td class="shuju">26.1</td>
+<td class="shuju">55.1</td>
+</tr>
+<tr><td class="zhibiao">3.血液.造血器官及免疫疾病小计</td>
+<td class="shuju">13.5</td>
+<td class="shuju">24.2</td>
+<td class="shuju">20.0</td>
+<td class="shuju">14.0</td>
+<td class="shuju">28.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;贫血</td>
+<td class="shuju">14.1</td>
+<td class="shuju">16.1</td>
+<td class="shuju">17.8</td>
+<td class="shuju">14.7</td>
+<td class="shuju">37.4</td>
+</tr>
+<tr><td class="zhibiao">4.内分泌.营养和代谢疾病小计</td>
+<td class="shuju">1.6</td>
+<td class="shuju">1.0</td>
+<td class="shuju">19.6</td>
+<td class="shuju">36.4</td>
+<td class="shuju">41.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;甲状腺功能亢进</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.7</td>
+<td class="shuju">46.7</td>
+<td class="shuju">32.9</td>
+<td class="shuju">19.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;糖尿病</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.3</td>
+<td class="shuju">17.0</td>
+<td class="shuju">38.2</td>
+<td class="shuju">44.1</td>
+</tr>
+<tr><td class="zhibiao">5.精神和行为障碍小计</td>
+<td class="shuju">4.4</td>
+<td class="shuju">3.4</td>
+<td class="shuju">44.3</td>
+<td class="shuju">25.9</td>
+<td class="shuju">21.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;依赖性物质引起的精神和行为障碍</td>
+<td class="shuju">1.3</td>
+<td class="shuju">2.0</td>
+<td class="shuju">57.7</td>
+<td class="shuju">28.8</td>
+<td class="shuju">10.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;酒精引起的精神和行为障碍</td>
+<td class="shuju">1.1</td>
+<td class="shuju">2.0</td>
+<td class="shuju">57.0</td>
+<td class="shuju">29.5</td>
+<td class="shuju">10.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;精神分裂症.分裂型和妄想性障碍</td>
+<td class="shuju">0.1</td>
+<td class="shuju">1.0</td>
+<td class="shuju">66.6</td>
+<td class="shuju">23.9</td>
+<td class="shuju">8.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;情感障碍</td>
+<td class="shuju">0.1</td>
+<td class="shuju">1.5</td>
+<td class="shuju">50.9</td>
+<td class="shuju">26.5</td>
+<td class="shuju">21.0</td>
+</tr>
+<tr><td class="zhibiao">6.神经系统疾病小计</td>
+<td class="shuju">5.7</td>
+<td class="shuju">4.5</td>
+<td class="shuju">17.1</td>
+<td class="shuju">24.6</td>
+<td class="shuju">48.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中枢神经系统炎性疾病</td>
+<td class="shuju">27.6</td>
+<td class="shuju">30.9</td>
+<td class="shuju">19.4</td>
+<td class="shuju">12.2</td>
+<td class="shuju">9.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;帕金森病</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1.8</td>
+<td class="shuju">12.9</td>
+<td class="shuju">85.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;癫痫</td>
+<td class="shuju">12.0</td>
+<td class="shuju">13.1</td>
+<td class="shuju">27.9</td>
+<td class="shuju">19.9</td>
+<td class="shuju">27.2</td>
+</tr>
+<tr><td class="zhibiao">7.眼和附器疾病小计</td>
+<td class="shuju">2.1</td>
+<td class="shuju">3.1</td>
+<td class="shuju">13.7</td>
+<td class="shuju">21.3</td>
+<td class="shuju">59.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;晶状体疾患</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.5</td>
+<td class="shuju">4.3</td>
+<td class="shuju">14.8</td>
+<td class="shuju">79.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;内:老年性白内障</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.7</td>
+<td class="shuju">10.7</td>
+<td class="shuju">88.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;视网膜脱离和断裂</td>
+<td class="shuju">1.3</td>
+<td class="shuju">2.8</td>
+<td class="shuju">34.4</td>
+<td class="shuju">33.5</td>
+<td class="shuju">28.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;青光眼</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1.3</td>
+<td class="shuju">15.4</td>
+<td class="shuju">24.2</td>
+<td class="shuju">58.2</td>
+</tr>
+<tr><td class="zhibiao">8.耳和乳突疾病小计</td>
+<td class="shuju">4.2</td>
+<td class="shuju">6.4</td>
+<td class="shuju">29.8</td>
+<td class="shuju">28.1</td>
+<td class="shuju">31.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中耳和乳突疾病</td>
+<td class="shuju">10.4</td>
+<td class="shuju">16.3</td>
+<td class="shuju">40.1</td>
+<td class="shuju">20.6</td>
+<td class="shuju">12.6</td>
+</tr>
+<tr><td class="zhibiao">9.循环系统疾病小计</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.6</td>
+<td class="shuju">9.1</td>
+<td class="shuju">24.6</td>
+<td class="shuju">65.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急性风湿热</td>
+<td class="shuju">1.0</td>
+<td class="shuju">7.6</td>
+<td class="shuju">25.0</td>
+<td class="shuju">24.1</td>
+<td class="shuju">42.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;慢性风湿性心脏病</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.1</td>
+<td class="shuju">10.3</td>
+<td class="shuju">33.8</td>
+<td class="shuju">55.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;高血压</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.1</td>
+<td class="shuju">11.2</td>
+<td class="shuju">25.9</td>
+<td class="shuju">62.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:高血压性心脏.肾脏病</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.0</td>
+<td class="shuju">7.3</td>
+<td class="shuju">19.3</td>
+<td class="shuju">73.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;缺血性心脏病</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.0</td>
+<td class="shuju">4.5</td>
+<td class="shuju">23.9</td>
+<td class="shuju">71.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:心绞痛</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">5.0</td>
+<td class="shuju">29.8</td>
+<td class="shuju">65.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;急性心肌梗死</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.0</td>
+<td class="shuju">8.5</td>
+<td class="shuju">32.4</td>
+<td class="shuju">58.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肺栓塞</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">13.2</td>
+<td class="shuju">23.4</td>
+<td class="shuju">63.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;心律失常</td>
+<td class="shuju">0.7</td>
+<td class="shuju">1.4</td>
+<td class="shuju">16.2</td>
+<td class="shuju">26.0</td>
+<td class="shuju">55.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;心力衰竭</td>
+<td class="shuju">1.8</td>
+<td class="shuju">0.4</td>
+<td class="shuju">4.5</td>
+<td class="shuju">15.0</td>
+<td class="shuju">78.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;脑血管病</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.2</td>
+<td class="shuju">5.5</td>
+<td class="shuju">24.6</td>
+<td class="shuju">69.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:颅内出血</td>
+<td class="shuju">1.2</td>
+<td class="shuju">0.6</td>
+<td class="shuju">11.2</td>
+<td class="shuju">30.9</td>
+<td class="shuju">56.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;脑梗死</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.0</td>
+<td class="shuju">3.8</td>
+<td class="shuju">23.5</td>
+<td class="shuju">72.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;大脑动脉闭塞和狭窄</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.1</td>
+<td class="shuju">4.7</td>
+<td class="shuju">25.9</td>
+<td class="shuju">69.1</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

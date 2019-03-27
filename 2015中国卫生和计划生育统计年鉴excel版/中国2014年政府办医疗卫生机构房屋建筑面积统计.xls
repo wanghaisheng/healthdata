@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年政府办医疗卫生机构房屋建筑面积统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:平方米</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="3">机构分类</td>
+<td class="biaotou" colspan="4">合计</td>
+<td class="biaotou" rowspan="3">租房面积</td>
+<td class="biaotou" rowspan="3">每床占用业务用房面积</td>
+</tr><tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" rowspan="2">房屋建筑面积</td>
+<td class="biaotou" colspan="2">业务用房</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">危房%</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">466779739</td>
+<td class="shuju">452169161</td>
+<td class="shuju">354161737</td>
+<td class="shuju">1.93</td>
+<td class="shuju">14610578</td>
+<td class="shuju">76.82</td>
+</tr>
+<tr><td class="zhibiao">医院</td>
+<td class="shuju">286558946</td>
+<td class="shuju">280586703</td>
+<td class="shuju">227297638</td>
+<td class="shuju">1.34</td>
+<td class="shuju">5972243</td>
+<td class="shuju">75.04</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;综合医院</td>
+<td class="shuju">211173855</td>
+<td class="shuju">207322832</td>
+<td class="shuju">167786941</td>
+<td class="shuju">1.24</td>
+<td class="shuju">3851023</td>
+<td class="shuju">79.26</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医医院</td>
+<td class="shuju">41481999</td>
+<td class="shuju">40290157</td>
+<td class="shuju">33251247</td>
+<td class="shuju">1.92</td>
+<td class="shuju">1191842</td>
+<td class="shuju">65.74</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">3481038</td>
+<td class="shuju">3363292</td>
+<td class="shuju">2908655</td>
+<td class="shuju">0.73</td>
+<td class="shuju">117746</td>
+<td class="shuju">71.16</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医院</td>
+<td class="shuju">1458790</td>
+<td class="shuju">1425466</td>
+<td class="shuju">1072905</td>
+<td class="shuju">2.87</td>
+<td class="shuju">33324</td>
+<td class="shuju">72.19</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科医院</td>
+<td class="shuju">28814381</td>
+<td class="shuju">28040962</td>
+<td class="shuju">22176195</td>
+<td class="shuju">1.16</td>
+<td class="shuju">773419</td>
+<td class="shuju">63.49</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;护理院</td>
+<td class="shuju">148883</td>
+<td class="shuju">143994</td>
+<td class="shuju">101695</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4889</td>
+<td class="shuju">62.56</td>
+</tr>
+<tr><td class="zhibiao">基层医疗卫生机构</td>
+<td class="shuju">123517047</td>
+<td class="shuju">117785342</td>
+<td class="shuju">84193591</td>
+<td class="shuju">3.5</td>
+<td class="shuju">5731705</td>
+<td class="shuju">81.84</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社区卫生服务中心(站)</td>
+<td class="shuju">20392847</td>
+<td class="shuju">15941982</td>
+<td class="shuju">13502557</td>
+<td class="shuju">1.34</td>
+<td class="shuju">4450865</td>
+<td class="shuju">84.88</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;社区卫生服务中心</td>
+<td class="shuju">19104186</td>
+<td class="shuju">14992735</td>
+<td class="shuju">12698659</td>
+<td class="shuju">1.36</td>
+<td class="shuju">4111451</td>
+<td class="shuju">85.82</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;社区卫生服务站</td>
+<td class="shuju">1288661</td>
+<td class="shuju">949247</td>
+<td class="shuju">803898</td>
+<td class="shuju">1.03</td>
+<td class="shuju">339414</td>
+<td class="shuju">55.19</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生院</td>
+<td class="shuju">97130428</td>
+<td class="shuju">95849588</td>
+<td class="shuju">70691034</td>
+<td class="shuju">3.91</td>
+<td class="shuju">1280840</td>
+<td class="shuju">81.48</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;街道卫生院</td>
+<td class="shuju">606146</td>
+<td class="shuju">556661</td>
+<td class="shuju">453644</td>
+<td class="shuju">8.79</td>
+<td class="shuju">49485</td>
+<td class="shuju">62.59</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乡镇卫生院</td>
+<td class="shuju">96524282</td>
+<td class="shuju">95292927</td>
+<td class="shuju">70237390</td>
+<td class="shuju">3.88</td>
+<td class="shuju">1231355</td>
+<td class="shuju">81.62</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;门诊部</td>
+<td class="shuju">196008</td>
+<td class="shuju">196008</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">专业公共卫生机构</td>
+<td class="shuju">49706701</td>
+<td class="shuju">47252912</td>
+<td class="shuju">37752212</td>
+<td class="shuju">2.09</td>
+<td class="shuju">2453789</td>
+<td class="shuju">77.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科疾病防治院(所.站)</td>
+<td class="shuju">3188889</td>
+<td class="shuju">3032407</td>
+<td class="shuju">2275777</td>
+<td class="shuju">2.41</td>
+<td class="shuju">156482</td>
+<td class="shuju">65.81</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;专科疾病防治院</td>
+<td class="shuju">1142830</td>
+<td class="shuju">1090522</td>
+<td class="shuju">867482</td>
+<td class="shuju">1.31</td>
+<td class="shuju">52308</td>
+<td class="shuju">61.13</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;专科疾病防治所(中心)</td>
+<td class="shuju">2046059</td>
+<td class="shuju">1941885</td>
+<td class="shuju">1408295</td>
+<td class="shuju">3.08</td>
+<td class="shuju">104174</td>
+<td class="shuju">70.35</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健院(所.站)</td>
+<td class="shuju">16458472</td>
+<td class="shuju">15613996</td>
+<td class="shuju">13027681</td>
+<td class="shuju">2.3</td>
+<td class="shuju">844476</td>
+<td class="shuju">80.12</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:妇幼保健院</td>
+<td class="shuju">14368233</td>
+<td class="shuju">13643077</td>
+<td class="shuju">11339542</td>
+<td class="shuju">2.24</td>
+<td class="shuju">725156</td>
+<td class="shuju">79.45</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;妇幼保健所(站)</td>
+<td class="shuju">2058442</td>
+<td class="shuju">1939122</td>
+<td class="shuju">1662172</td>
+<td class="shuju">2.76</td>
+<td class="shuju">119320</td>
+<td class="shuju">88.32</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急救中心(站)</td>
+<td class="shuju">520556</td>
+<td class="shuju">481776</td>
+<td class="shuju">417198</td>
+<td class="shuju">0.24</td>
+<td class="shuju">38780</td>
+<td class="shuju">86.07</td>
+</tr>
+<tr><td class="zhibiao">其他医疗卫生机构</td>
+<td class="shuju">6997045</td>
+<td class="shuju">6544204</td>
+<td class="shuju">4918296</td>
+<td class="shuju">1.45</td>
+<td class="shuju">452841</td>
+<td class="shuju">71.28</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;疗养院</td>
+<td class="shuju">1711732</td>
+<td class="shuju">1653435</td>
+<td class="shuju">1101270</td>
+<td class="shuju">1.82</td>
+<td class="shuju">58297</td>
+<td class="shuju">71.28</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;临床检验中心(所.站)</td>
+<td class="shuju">26207</td>
+<td class="shuju">26006</td>
+<td class="shuju">21936</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">201</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

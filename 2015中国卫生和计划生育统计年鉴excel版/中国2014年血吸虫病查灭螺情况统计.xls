@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年血吸虫病查灭螺情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">地区</td>
+<td class="biaotou" colspan="3">实际钉螺情况</td>
+<td class="biaotou" colspan="4">年内查螺情况</td>
+<td class="biaotou" colspan="2">灭螺总面积(万平方米)</td>
+</tr><tr><td class="biaotou">有螺乡数(个)</td>
+<td class="biaotou">有螺村数(个)</td>
+<td class="biaotou">实有钉螺面积(万平方米)</td>
+<td class="biaotou">年内查螺乡数(个)</td>
+<td class="biaotou">年内查出有螺乡数(个)</td>
+<td class="biaotou">查出钉螺面积(万平方米)</td>
+<td class="biaotou">内:新发现有螺面积(万平方米)</td>
+<td class="biaotou">&nbsp;</td>
+<td class="biaotou">环改灭螺面积(万平方米)</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">1454</td>
+<td class="shuju">7543</td>
+<td class="shuju">364324.4</td>
+<td class="shuju">2995</td>
+<td class="shuju">1105</td>
+<td class="shuju">169518.9</td>
+<td class="shuju">531.1</td>
+<td class="shuju">138923.9</td>
+<td class="shuju">5331</td>
+</tr>
+<tr><td class="zhibiao">上海</td>
+<td class="shuju">11</td>
+<td class="shuju">22</td>
+<td class="shuju">1.7</td>
+<td class="shuju">63</td>
+<td class="shuju">10</td>
+<td class="shuju">1.3</td>
+<td class="shuju">1.2</td>
+<td class="shuju">122.7</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">江苏</td>
+<td class="shuju">42</td>
+<td class="shuju">124</td>
+<td class="shuju">2253.8</td>
+<td class="shuju">454</td>
+<td class="shuju">42</td>
+<td class="shuju">2190</td>
+<td class="shuju">14.9</td>
+<td class="shuju">12686</td>
+<td class="shuju">336</td>
+</tr>
+<tr><td class="zhibiao">浙江</td>
+<td class="shuju">91</td>
+<td class="shuju">323</td>
+<td class="shuju">69.5</td>
+<td class="shuju">420</td>
+<td class="shuju">81</td>
+<td class="shuju">36.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2325</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">安徽</td>
+<td class="shuju">208</td>
+<td class="shuju">957</td>
+<td class="shuju">27279.9</td>
+<td class="shuju">305</td>
+<td class="shuju">197</td>
+<td class="shuju">19773.8</td>
+<td class="shuju">5.6</td>
+<td class="shuju">11463.6</td>
+<td class="shuju">36</td>
+</tr>
+<tr><td class="zhibiao">福建</td>
+<td class="shuju">10</td>
+<td class="shuju">16</td>
+<td class="shuju">3.2</td>
+<td class="shuju">39</td>
+<td class="shuju">10</td>
+<td class="shuju">6.3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">35.2</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">江西</td>
+<td class="shuju">138</td>
+<td class="shuju">596</td>
+<td class="shuju">78721</td>
+<td class="shuju">248</td>
+<td class="shuju">121</td>
+<td class="shuju">30564.1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">16075.3</td>
+<td class="shuju">321</td>
+</tr>
+<tr><td class="zhibiao">湖北</td>
+<td class="shuju">357</td>
+<td class="shuju">2666</td>
+<td class="shuju">76165.1</td>
+<td class="shuju">477</td>
+<td class="shuju">342</td>
+<td class="shuju">56622.6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">41321.8</td>
+<td class="shuju">4343</td>
+</tr>
+<tr><td class="zhibiao">湖南</td>
+<td class="shuju">200</td>
+<td class="shuju">924</td>
+<td class="shuju">175910.5</td>
+<td class="shuju">279</td>
+<td class="shuju">180</td>
+<td class="shuju">59099</td>
+<td class="shuju">419.3</td>
+<td class="shuju">18510.7</td>
+<td class="shuju">233</td>
+</tr>
+<tr><td class="zhibiao">广东</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">14</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">广西</td>
+<td class="shuju">5</td>
+<td class="shuju">6</td>
+<td class="shuju">5.4</td>
+<td class="shuju">59</td>
+<td class="shuju">5</td>
+<td class="shuju">5.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">19.6</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">四川</td>
+<td class="shuju">344</td>
+<td class="shuju">1682</td>
+<td class="shuju">2525.3</td>
+<td class="shuju">563</td>
+<td class="shuju">62</td>
+<td class="shuju">175.2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">24754.2</td>
+<td class="shuju">58</td>
+</tr>
+<tr><td class="zhibiao">云南</td>
+<td class="shuju">48</td>
+<td class="shuju">227</td>
+<td class="shuju">1389.1</td>
+<td class="shuju">74</td>
+<td class="shuju">55</td>
+<td class="shuju">1045.9</td>
+<td class="shuju">90.2</td>
+<td class="shuju">11609.8</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

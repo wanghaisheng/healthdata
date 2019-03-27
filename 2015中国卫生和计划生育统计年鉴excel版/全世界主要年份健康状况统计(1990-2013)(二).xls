@@ -1,0 +1,1033 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">全世界主要年份健康状况统计(1990-2013)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">序列</td>
+<td class="biaotou" rowspan="3">国家</td>
+<td class="biaotou" colspan="9">预期寿命(岁)</td>
+<td class="biaotou" colspan="3">2012年标化死亡率(1/10万)</td>
+<td class="biaotou" colspan="3">2012年寿命损失人年归因(1/10万)</td>
+<td class="biaotou" colspan="2">孕产妇死亡率(1/10万)</td>
+</tr><tr><td class="biaotou" colspan="3">合计</td>
+<td class="biaotou" colspan="3">男</td>
+<td class="biaotou" colspan="3">女</td>
+<td class="biaotou" rowspan="2">传染性疾病</td>
+<td class="biaotou" rowspan="2">非传染性疾病</td>
+<td class="biaotou" rowspan="2">伤害</td>
+<td class="biaotou" rowspan="2">传染性疾病</td>
+<td class="biaotou" rowspan="2">非传染性疾病</td>
+<td class="biaotou" rowspan="2">伤害</td>
+<td class="biaotou" rowspan="2">2010</td>
+<td class="biaotou" rowspan="2">2013</td>
+</tr><tr><td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2013</td>
+</tr><tr><td class="zhibiao">49</td>
+<td class="shuju">丹麦</td>
+<td class="shuju">75</td>
+<td class="shuju">77</td>
+<td class="shuju">80</td>
+<td class="shuju">72</td>
+<td class="shuju">75</td>
+<td class="shuju">78</td>
+<td class="shuju">78</td>
+<td class="shuju">79</td>
+<td class="shuju">82</td>
+<td class="shuju">29</td>
+<td class="shuju">406</td>
+<td class="shuju">23</td>
+<td class="shuju">1114</td>
+<td class="shuju">15722</td>
+<td class="shuju">1023</td>
+<td class="shuju">12</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">50</td>
+<td class="shuju">吉布提</td>
+<td class="shuju">57</td>
+<td class="shuju">58</td>
+<td class="shuju">62</td>
+<td class="shuju">55</td>
+<td class="shuju">56</td>
+<td class="shuju">60</td>
+<td class="shuju">59</td>
+<td class="shuju">60</td>
+<td class="shuju">63</td>
+<td class="shuju">626</td>
+<td class="shuju">631</td>
+<td class="shuju">106</td>
+<td class="shuju">32528</td>
+<td class="shuju">12131</td>
+<td class="shuju">4795</td>
+<td class="shuju">200</td>
+<td class="shuju">230</td>
+</tr>
+<tr><td class="zhibiao">51</td>
+<td class="shuju">多米尼加</td>
+<td class="shuju">74</td>
+<td class="shuju">74</td>
+<td class="shuju">75</td>
+<td class="shuju">72</td>
+<td class="shuju">72</td>
+<td class="shuju">72</td>
+<td class="shuju">76</td>
+<td class="shuju">76</td>
+<td class="shuju">77</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">52</td>
+<td class="shuju">多米尼加共和国</td>
+<td class="shuju">69</td>
+<td class="shuju">73</td>
+<td class="shuju">74</td>
+<td class="shuju">68</td>
+<td class="shuju">72</td>
+<td class="shuju">73</td>
+<td class="shuju">70</td>
+<td class="shuju">74</td>
+<td class="shuju">74</td>
+<td class="shuju">77</td>
+<td class="shuju">396</td>
+<td class="shuju">66</td>
+<td class="shuju">5127</td>
+<td class="shuju">8525</td>
+<td class="shuju">3236</td>
+<td class="shuju">150</td>
+<td class="shuju">100</td>
+</tr>
+<tr><td class="zhibiao">53</td>
+<td class="shuju">厄瓜多尔</td>
+<td class="shuju">69</td>
+<td class="shuju">73</td>
+<td class="shuju">76</td>
+<td class="shuju">67</td>
+<td class="shuju">70</td>
+<td class="shuju">73</td>
+<td class="shuju">72</td>
+<td class="shuju">76</td>
+<td class="shuju">79</td>
+<td class="shuju">97</td>
+<td class="shuju">410</td>
+<td class="shuju">84</td>
+<td class="shuju">4586</td>
+<td class="shuju">9122</td>
+<td class="shuju">4176</td>
+<td class="shuju">110</td>
+<td class="shuju">87</td>
+</tr>
+<tr><td class="zhibiao">54</td>
+<td class="shuju">埃及</td>
+<td class="shuju">65</td>
+<td class="shuju">68</td>
+<td class="shuju">71</td>
+<td class="shuju">63</td>
+<td class="shuju">66</td>
+<td class="shuju">69</td>
+<td class="shuju">67</td>
+<td class="shuju">71</td>
+<td class="shuju">74</td>
+<td class="shuju">74</td>
+<td class="shuju">782</td>
+<td class="shuju">33</td>
+<td class="shuju">4268</td>
+<td class="shuju">15168</td>
+<td class="shuju">1513</td>
+<td class="shuju">66</td>
+<td class="shuju">45</td>
+</tr>
+<tr><td class="zhibiao">55</td>
+<td class="shuju">萨尔瓦多</td>
+<td class="shuju">65</td>
+<td class="shuju">70</td>
+<td class="shuju">73</td>
+<td class="shuju">61</td>
+<td class="shuju">67</td>
+<td class="shuju">68</td>
+<td class="shuju">70</td>
+<td class="shuju">74</td>
+<td class="shuju">77</td>
+<td class="shuju">96</td>
+<td class="shuju">475</td>
+<td class="shuju">158</td>
+<td class="shuju">4079</td>
+<td class="shuju">10914</td>
+<td class="shuju">7994</td>
+<td class="shuju">81</td>
+<td class="shuju">69</td>
+</tr>
+<tr><td class="zhibiao">56</td>
+<td class="shuju">赤道几内亚</td>
+<td class="shuju">48</td>
+<td class="shuju">52</td>
+<td class="shuju">56</td>
+<td class="shuju">46</td>
+<td class="shuju">51</td>
+<td class="shuju">55</td>
+<td class="shuju">49</td>
+<td class="shuju">53</td>
+<td class="shuju">57</td>
+<td class="shuju">757</td>
+<td class="shuju">729</td>
+<td class="shuju">134</td>
+<td class="shuju">48783</td>
+<td class="shuju">15054</td>
+<td class="shuju">7887</td>
+<td class="shuju">240</td>
+<td class="shuju">290</td>
+</tr>
+<tr><td class="zhibiao">57</td>
+<td class="shuju">厄立特里亚</td>
+<td class="shuju">48</td>
+<td class="shuju">61</td>
+<td class="shuju">64</td>
+<td class="shuju">46</td>
+<td class="shuju">58</td>
+<td class="shuju">61</td>
+<td class="shuju">50</td>
+<td class="shuju">63</td>
+<td class="shuju">66</td>
+<td class="shuju">506</td>
+<td class="shuju">672</td>
+<td class="shuju">119</td>
+<td class="shuju">22640</td>
+<td class="shuju">9469</td>
+<td class="shuju">4519</td>
+<td class="shuju">240</td>
+<td class="shuju">380</td>
+</tr>
+<tr><td class="zhibiao">58</td>
+<td class="shuju">爱沙尼亚</td>
+<td class="shuju">70</td>
+<td class="shuju">71</td>
+<td class="shuju">77</td>
+<td class="shuju">64</td>
+<td class="shuju">65</td>
+<td class="shuju">72</td>
+<td class="shuju">75</td>
+<td class="shuju">76</td>
+<td class="shuju">82</td>
+<td class="shuju">19</td>
+<td class="shuju">511</td>
+<td class="shuju">47</td>
+<td class="shuju">1810</td>
+<td class="shuju">20218</td>
+<td class="shuju">2189</td>
+<td class="shuju">2</td>
+<td class="shuju">11</td>
+</tr>
+<tr><td class="zhibiao">59</td>
+<td class="shuju">埃塞俄比亚</td>
+<td class="shuju">45</td>
+<td class="shuju">48</td>
+<td class="shuju">65</td>
+<td class="shuju">42</td>
+<td class="shuju">46</td>
+<td class="shuju">63</td>
+<td class="shuju">48</td>
+<td class="shuju">51</td>
+<td class="shuju">66</td>
+<td class="shuju">559</td>
+<td class="shuju">476</td>
+<td class="shuju">94</td>
+<td class="shuju">29697</td>
+<td class="shuju">8571</td>
+<td class="shuju">4697</td>
+<td class="shuju">350</td>
+<td class="shuju">420</td>
+</tr>
+<tr><td class="zhibiao">60</td>
+<td class="shuju">斐济</td>
+<td class="shuju">66</td>
+<td class="shuju">68</td>
+<td class="shuju">70</td>
+<td class="shuju">64</td>
+<td class="shuju">65</td>
+<td class="shuju">67</td>
+<td class="shuju">68</td>
+<td class="shuju">71</td>
+<td class="shuju">73</td>
+<td class="shuju">105</td>
+<td class="shuju">804</td>
+<td class="shuju">64</td>
+<td class="shuju">4602</td>
+<td class="shuju">16839</td>
+<td class="shuju">2791</td>
+<td class="shuju">26</td>
+<td class="shuju">59</td>
+</tr>
+<tr><td class="zhibiao">61</td>
+<td class="shuju">芬兰</td>
+<td class="shuju">75</td>
+<td class="shuju">78</td>
+<td class="shuju">81</td>
+<td class="shuju">71</td>
+<td class="shuju">74</td>
+<td class="shuju">78</td>
+<td class="shuju">79</td>
+<td class="shuju">81</td>
+<td class="shuju">84</td>
+<td class="shuju">9</td>
+<td class="shuju">367</td>
+<td class="shuju">39</td>
+<td class="shuju">413</td>
+<td class="shuju">15028</td>
+<td class="shuju">1830</td>
+<td class="shuju">5</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">62</td>
+<td class="shuju">法国</td>
+<td class="shuju">78</td>
+<td class="shuju">79</td>
+<td class="shuju">82</td>
+<td class="shuju">73</td>
+<td class="shuju">75</td>
+<td class="shuju">79</td>
+<td class="shuju">82</td>
+<td class="shuju">83</td>
+<td class="shuju">85</td>
+<td class="shuju">21</td>
+<td class="shuju">313</td>
+<td class="shuju">35</td>
+<td class="shuju">936</td>
+<td class="shuju">12899</td>
+<td class="shuju">1600</td>
+<td class="shuju">8</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">63</td>
+<td class="shuju">加蓬</td>
+<td class="shuju">61</td>
+<td class="shuju">60</td>
+<td class="shuju">64</td>
+<td class="shuju">60</td>
+<td class="shuju">58</td>
+<td class="shuju">62</td>
+<td class="shuju">63</td>
+<td class="shuju">63</td>
+<td class="shuju">65</td>
+<td class="shuju">589</td>
+<td class="shuju">505</td>
+<td class="shuju">77</td>
+<td class="shuju">30028</td>
+<td class="shuju">10127</td>
+<td class="shuju">4197</td>
+<td class="shuju">230</td>
+<td class="shuju">240</td>
+</tr>
+<tr><td class="zhibiao">64</td>
+<td class="shuju">冈比亚</td>
+<td class="shuju">52</td>
+<td class="shuju">57</td>
+<td class="shuju">61</td>
+<td class="shuju">50</td>
+<td class="shuju">55</td>
+<td class="shuju">60</td>
+<td class="shuju">53</td>
+<td class="shuju">58</td>
+<td class="shuju">63</td>
+<td class="shuju">590</td>
+<td class="shuju">630</td>
+<td class="shuju">96</td>
+<td class="shuju">35805</td>
+<td class="shuju">11970</td>
+<td class="shuju">5295</td>
+<td class="shuju">360</td>
+<td class="shuju">430</td>
+</tr>
+<tr><td class="zhibiao">65</td>
+<td class="shuju">格鲁吉亚</td>
+<td class="shuju">71</td>
+<td class="shuju">71</td>
+<td class="shuju">74</td>
+<td class="shuju">67</td>
+<td class="shuju">68</td>
+<td class="shuju">71</td>
+<td class="shuju">75</td>
+<td class="shuju">74</td>
+<td class="shuju">78</td>
+<td class="shuju">39</td>
+<td class="shuju">615</td>
+<td class="shuju">32</td>
+<td class="shuju">2419</td>
+<td class="shuju">21490</td>
+<td class="shuju">1647</td>
+<td class="shuju">67</td>
+<td class="shuju">41</td>
+</tr>
+<tr><td class="zhibiao">66</td>
+<td class="shuju">德国</td>
+<td class="shuju">76</td>
+<td class="shuju">78</td>
+<td class="shuju">81</td>
+<td class="shuju">72</td>
+<td class="shuju">75</td>
+<td class="shuju">79</td>
+<td class="shuju">79</td>
+<td class="shuju">81</td>
+<td class="shuju">83</td>
+<td class="shuju">22</td>
+<td class="shuju">365</td>
+<td class="shuju">23</td>
+<td class="shuju">926</td>
+<td class="shuju">16246</td>
+<td class="shuju">1113</td>
+<td class="shuju">7</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">67</td>
+<td class="shuju">加纳</td>
+<td class="shuju">57</td>
+<td class="shuju">58</td>
+<td class="shuju">63</td>
+<td class="shuju">55</td>
+<td class="shuju">56</td>
+<td class="shuju">62</td>
+<td class="shuju">58</td>
+<td class="shuju">59</td>
+<td class="shuju">64</td>
+<td class="shuju">476</td>
+<td class="shuju">670</td>
+<td class="shuju">76</td>
+<td class="shuju">28629</td>
+<td class="shuju">12863</td>
+<td class="shuju">4084</td>
+<td class="shuju">350</td>
+<td class="shuju">380</td>
+</tr>
+<tr><td class="zhibiao">68</td>
+<td class="shuju">希腊</td>
+<td class="shuju">77</td>
+<td class="shuju">78</td>
+<td class="shuju">81</td>
+<td class="shuju">75</td>
+<td class="shuju">76</td>
+<td class="shuju">79</td>
+<td class="shuju">80</td>
+<td class="shuju">81</td>
+<td class="shuju">84</td>
+<td class="shuju">24</td>
+<td class="shuju">365</td>
+<td class="shuju">27</td>
+<td class="shuju">1027</td>
+<td class="shuju">15467</td>
+<td class="shuju">1298</td>
+<td class="shuju">3</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">69</td>
+<td class="shuju">格林纳达</td>
+<td class="shuju">70</td>
+<td class="shuju">72</td>
+<td class="shuju">73</td>
+<td class="shuju">67</td>
+<td class="shuju">68</td>
+<td class="shuju">70</td>
+<td class="shuju">74</td>
+<td class="shuju">75</td>
+<td class="shuju">77</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">24</td>
+<td class="shuju">23</td>
+</tr>
+<tr><td class="zhibiao">70</td>
+<td class="shuju">危地马拉</td>
+<td class="shuju">62</td>
+<td class="shuju">67</td>
+<td class="shuju">72</td>
+<td class="shuju">60</td>
+<td class="shuju">64</td>
+<td class="shuju">68</td>
+<td class="shuju">65</td>
+<td class="shuju">70</td>
+<td class="shuju">75</td>
+<td class="shuju">213</td>
+<td class="shuju">409</td>
+<td class="shuju">111</td>
+<td class="shuju">10458</td>
+<td class="shuju">7885</td>
+<td class="shuju">5929</td>
+<td class="shuju">120</td>
+<td class="shuju">140</td>
+</tr>
+<tr><td class="zhibiao">71</td>
+<td class="shuju">几内亚</td>
+<td class="shuju">47</td>
+<td class="shuju">50</td>
+<td class="shuju">58</td>
+<td class="shuju">46</td>
+<td class="shuju">48</td>
+<td class="shuju">57</td>
+<td class="shuju">48</td>
+<td class="shuju">53</td>
+<td class="shuju">59</td>
+<td class="shuju">680</td>
+<td class="shuju">681</td>
+<td class="shuju">96</td>
+<td class="shuju">45952</td>
+<td class="shuju">12912</td>
+<td class="shuju">5574</td>
+<td class="shuju">610</td>
+<td class="shuju">650</td>
+</tr>
+<tr><td class="zhibiao">72</td>
+<td class="shuju">几内亚比绍</td>
+<td class="shuju">49</td>
+<td class="shuju">47</td>
+<td class="shuju">54</td>
+<td class="shuju">47</td>
+<td class="shuju">44</td>
+<td class="shuju">53</td>
+<td class="shuju">52</td>
+<td class="shuju">49</td>
+<td class="shuju">55</td>
+<td class="shuju">870</td>
+<td class="shuju">765</td>
+<td class="shuju">112</td>
+<td class="shuju">56025</td>
+<td class="shuju">13835</td>
+<td class="shuju">6094</td>
+<td class="shuju">790</td>
+<td class="shuju">560</td>
+</tr>
+<tr><td class="zhibiao">73</td>
+<td class="shuju">圭亚那</td>
+<td class="shuju">63</td>
+<td class="shuju">66</td>
+<td class="shuju">64</td>
+<td class="shuju">59</td>
+<td class="shuju">61</td>
+<td class="shuju">60</td>
+<td class="shuju">67</td>
+<td class="shuju">71</td>
+<td class="shuju">67</td>
+<td class="shuju">177</td>
+<td class="shuju">1024</td>
+<td class="shuju">150</td>
+<td class="shuju">8533</td>
+<td class="shuju">17196</td>
+<td class="shuju">6621</td>
+<td class="shuju">280</td>
+<td class="shuju">250</td>
+</tr>
+<tr><td class="zhibiao">74</td>
+<td class="shuju">海地</td>
+<td class="shuju">54</td>
+<td class="shuju">55</td>
+<td class="shuju">63</td>
+<td class="shuju">52</td>
+<td class="shuju">54</td>
+<td class="shuju">61</td>
+<td class="shuju">56</td>
+<td class="shuju">57</td>
+<td class="shuju">64</td>
+<td class="shuju">405</td>
+<td class="shuju">725</td>
+<td class="shuju">89</td>
+<td class="shuju">25017</td>
+<td class="shuju">13728</td>
+<td class="shuju">5232</td>
+<td class="shuju">350</td>
+<td class="shuju">380</td>
+</tr>
+<tr><td class="zhibiao">75</td>
+<td class="shuju">洪都拉斯</td>
+<td class="shuju">67</td>
+<td class="shuju">67</td>
+<td class="shuju">74</td>
+<td class="shuju">65</td>
+<td class="shuju">64</td>
+<td class="shuju">72</td>
+<td class="shuju">69</td>
+<td class="shuju">70</td>
+<td class="shuju">77</td>
+<td class="shuju">118</td>
+<td class="shuju">441</td>
+<td class="shuju">81</td>
+<td class="shuju">6564</td>
+<td class="shuju">8031</td>
+<td class="shuju">4121</td>
+<td class="shuju">100</td>
+<td class="shuju">120</td>
+</tr>
+<tr><td class="zhibiao">76</td>
+<td class="shuju">匈牙利</td>
+<td class="shuju">69</td>
+<td class="shuju">72</td>
+<td class="shuju">75</td>
+<td class="shuju">65</td>
+<td class="shuju">68</td>
+<td class="shuju">71</td>
+<td class="shuju">74</td>
+<td class="shuju">76</td>
+<td class="shuju">79</td>
+<td class="shuju">17</td>
+<td class="shuju">603</td>
+<td class="shuju">44</td>
+<td class="shuju">795</td>
+<td class="shuju">24235</td>
+<td class="shuju">2081</td>
+<td class="shuju">21</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">77</td>
+<td class="shuju">冰岛</td>
+<td class="shuju">78</td>
+<td class="shuju">80</td>
+<td class="shuju">82</td>
+<td class="shuju">75</td>
+<td class="shuju">78</td>
+<td class="shuju">81</td>
+<td class="shuju">81</td>
+<td class="shuju">82</td>
+<td class="shuju">84</td>
+<td class="shuju">14</td>
+<td class="shuju">312</td>
+<td class="shuju">29</td>
+<td class="shuju">462</td>
+<td class="shuju">9207</td>
+<td class="shuju">1289</td>
+<td class="shuju">5</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">78</td>
+<td class="shuju">印度</td>
+<td class="shuju">58</td>
+<td class="shuju">61</td>
+<td class="shuju">66</td>
+<td class="shuju">57</td>
+<td class="shuju">60</td>
+<td class="shuju">65</td>
+<td class="shuju">58</td>
+<td class="shuju">62</td>
+<td class="shuju">68</td>
+<td class="shuju">253</td>
+<td class="shuju">682</td>
+<td class="shuju">116</td>
+<td class="shuju">13613</td>
+<td class="shuju">14186</td>
+<td class="shuju">4785</td>
+<td class="shuju">200</td>
+<td class="shuju">190</td>
+</tr>
+<tr><td class="zhibiao">79</td>
+<td class="shuju">印尼</td>
+<td class="shuju">62</td>
+<td class="shuju">68</td>
+<td class="shuju">71</td>
+<td class="shuju">60</td>
+<td class="shuju">66</td>
+<td class="shuju">69</td>
+<td class="shuju">64</td>
+<td class="shuju">70</td>
+<td class="shuju">73</td>
+<td class="shuju">162</td>
+<td class="shuju">680</td>
+<td class="shuju">49</td>
+<td class="shuju">7905</td>
+<td class="shuju">12030</td>
+<td class="shuju">2116</td>
+<td class="shuju">220</td>
+<td class="shuju">190</td>
+</tr>
+<tr><td class="zhibiao">80</td>
+<td class="shuju">伊朗</td>
+<td class="shuju">64</td>
+<td class="shuju">67</td>
+<td class="shuju">74</td>
+<td class="shuju">63</td>
+<td class="shuju">65</td>
+<td class="shuju">72</td>
+<td class="shuju">64</td>
+<td class="shuju">70</td>
+<td class="shuju">76</td>
+<td class="shuju">56</td>
+<td class="shuju">569</td>
+<td class="shuju">75</td>
+<td class="shuju">3118</td>
+<td class="shuju">10302</td>
+<td class="shuju">3799</td>
+<td class="shuju">21</td>
+<td class="shuju">23</td>
+</tr>
+<tr><td class="zhibiao">81</td>
+<td class="shuju">伊拉克</td>
+<td class="shuju">69</td>
+<td class="shuju">68</td>
+<td class="shuju">70</td>
+<td class="shuju">67</td>
+<td class="shuju">65</td>
+<td class="shuju">67</td>
+<td class="shuju">71</td>
+<td class="shuju">70</td>
+<td class="shuju">74</td>
+<td class="shuju">87</td>
+<td class="shuju">715</td>
+<td class="shuju">128</td>
+<td class="shuju">7823</td>
+<td class="shuju">9610</td>
+<td class="shuju">5647</td>
+<td class="shuju">63</td>
+<td class="shuju">67</td>
+</tr>
+<tr><td class="zhibiao">82</td>
+<td class="shuju">爱尔兰</td>
+<td class="shuju">75</td>
+<td class="shuju">76</td>
+<td class="shuju">81</td>
+<td class="shuju">72</td>
+<td class="shuju">74</td>
+<td class="shuju">79</td>
+<td class="shuju">78</td>
+<td class="shuju">79</td>
+<td class="shuju">83</td>
+<td class="shuju">22</td>
+<td class="shuju">344</td>
+<td class="shuju">32</td>
+<td class="shuju">728</td>
+<td class="shuju">9828</td>
+<td class="shuju">1512</td>
+<td class="shuju">6</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">83</td>
+<td class="shuju">以色列</td>
+<td class="shuju">77</td>
+<td class="shuju">79</td>
+<td class="shuju">82</td>
+<td class="shuju">75</td>
+<td class="shuju">77</td>
+<td class="shuju">81</td>
+<td class="shuju">79</td>
+<td class="shuju">81</td>
+<td class="shuju">84</td>
+<td class="shuju">31</td>
+<td class="shuju">311</td>
+<td class="shuju">21</td>
+<td class="shuju">1024</td>
+<td class="shuju">8286</td>
+<td class="shuju">846</td>
+<td class="shuju">7</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">84</td>
+<td class="shuju">意大利</td>
+<td class="shuju">77</td>
+<td class="shuju">79</td>
+<td class="shuju">83</td>
+<td class="shuju">74</td>
+<td class="shuju">76</td>
+<td class="shuju">80</td>
+<td class="shuju">80</td>
+<td class="shuju">82</td>
+<td class="shuju">85</td>
+<td class="shuju">15</td>
+<td class="shuju">304</td>
+<td class="shuju">20</td>
+<td class="shuju">712</td>
+<td class="shuju">13583</td>
+<td class="shuju">953</td>
+<td class="shuju">4</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">85</td>
+<td class="shuju">牙买加</td>
+<td class="shuju">71</td>
+<td class="shuju">72</td>
+<td class="shuju">74</td>
+<td class="shuju">69</td>
+<td class="shuju">71</td>
+<td class="shuju">72</td>
+<td class="shuju">74</td>
+<td class="shuju">74</td>
+<td class="shuju">77</td>
+<td class="shuju">97</td>
+<td class="shuju">519</td>
+<td class="shuju">51</td>
+<td class="shuju">5142</td>
+<td class="shuju">12320</td>
+<td class="shuju">2729</td>
+<td class="shuju">110</td>
+<td class="shuju">80</td>
+</tr>
+<tr><td class="zhibiao">86</td>
+<td class="shuju">日本</td>
+<td class="shuju">79</td>
+<td class="shuju">81</td>
+<td class="shuju">84</td>
+<td class="shuju">76</td>
+<td class="shuju">78</td>
+<td class="shuju">80</td>
+<td class="shuju">82</td>
+<td class="shuju">85</td>
+<td class="shuju">87</td>
+<td class="shuju">34</td>
+<td class="shuju">244</td>
+<td class="shuju">40</td>
+<td class="shuju">1604</td>
+<td class="shuju">12212</td>
+<td class="shuju">2005</td>
+<td class="shuju">5</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">87</td>
+<td class="shuju">约旦</td>
+<td class="shuju">70</td>
+<td class="shuju">70</td>
+<td class="shuju">74</td>
+<td class="shuju">68</td>
+<td class="shuju">68</td>
+<td class="shuju">72</td>
+<td class="shuju">71</td>
+<td class="shuju">73</td>
+<td class="shuju">76</td>
+<td class="shuju">53</td>
+<td class="shuju">640</td>
+<td class="shuju">53</td>
+<td class="shuju">3691</td>
+<td class="shuju">8584</td>
+<td class="shuju">2299</td>
+<td class="shuju">63</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">88</td>
+<td class="shuju">哈萨克斯坦</td>
+<td class="shuju">66</td>
+<td class="shuju">63</td>
+<td class="shuju">68</td>
+<td class="shuju">61</td>
+<td class="shuju">58</td>
+<td class="shuju">63</td>
+<td class="shuju">70</td>
+<td class="shuju">68</td>
+<td class="shuju">73</td>
+<td class="shuju">55</td>
+<td class="shuju">950</td>
+<td class="shuju">102</td>
+<td class="shuju">3834</td>
+<td class="shuju">21333</td>
+<td class="shuju">5254</td>
+<td class="shuju">51</td>
+<td class="shuju">26</td>
+</tr>
+<tr><td class="zhibiao">89</td>
+<td class="shuju">肯尼亚</td>
+<td class="shuju">60</td>
+<td class="shuju">54</td>
+<td class="shuju">61</td>
+<td class="shuju">58</td>
+<td class="shuju">52</td>
+<td class="shuju">60</td>
+<td class="shuju">62</td>
+<td class="shuju">56</td>
+<td class="shuju">63</td>
+<td class="shuju">657</td>
+<td class="shuju">515</td>
+<td class="shuju">101</td>
+<td class="shuju">37031</td>
+<td class="shuju">9133</td>
+<td class="shuju">5271</td>
+<td class="shuju">360</td>
+<td class="shuju">400</td>
+</tr>
+<tr><td class="zhibiao">90</td>
+<td class="shuju">基里巴斯</td>
+<td class="shuju">60</td>
+<td class="shuju">66</td>
+<td class="shuju">67</td>
+<td class="shuju">57</td>
+<td class="shuju">64</td>
+<td class="shuju">64</td>
+<td class="shuju">62</td>
+<td class="shuju">68</td>
+<td class="shuju">69</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">130</td>
+</tr>
+<tr><td class="zhibiao">91</td>
+<td class="shuju">科威特</td>
+<td class="shuju">73</td>
+<td class="shuju">76</td>
+<td class="shuju">78</td>
+<td class="shuju">73</td>
+<td class="shuju">75</td>
+<td class="shuju">78</td>
+<td class="shuju">74</td>
+<td class="shuju">76</td>
+<td class="shuju">79</td>
+<td class="shuju">82</td>
+<td class="shuju">406</td>
+<td class="shuju">25</td>
+<td class="shuju">1468</td>
+<td class="shuju">4400</td>
+<td class="shuju">1199</td>
+<td class="shuju">14</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">92</td>
+<td class="shuju">吉尔吉斯</td>
+<td class="shuju">66</td>
+<td class="shuju">65</td>
+<td class="shuju">69</td>
+<td class="shuju">62</td>
+<td class="shuju">62</td>
+<td class="shuju">66</td>
+<td class="shuju">69</td>
+<td class="shuju">69</td>
+<td class="shuju">73</td>
+<td class="shuju">66</td>
+<td class="shuju">835</td>
+<td class="shuju">65</td>
+<td class="shuju">5767</td>
+<td class="shuju">15300</td>
+<td class="shuju">3421</td>
+<td class="shuju">71</td>
+<td class="shuju">75</td>
+</tr>
+<tr><td class="zhibiao">93</td>
+<td class="shuju">老挝</td>
+<td class="shuju">53</td>
+<td class="shuju">59</td>
+<td class="shuju">66</td>
+<td class="shuju">51</td>
+<td class="shuju">58</td>
+<td class="shuju">65</td>
+<td class="shuju">54</td>
+<td class="shuju">60</td>
+<td class="shuju">68</td>
+<td class="shuju">329</td>
+<td class="shuju">680</td>
+<td class="shuju">75</td>
+<td class="shuju">21052</td>
+<td class="shuju">10183</td>
+<td class="shuju">3846</td>
+<td class="shuju">470</td>
+<td class="shuju">220</td>
+</tr>
+<tr><td class="zhibiao">94</td>
+<td class="shuju">拉脱维亚</td>
+<td class="shuju">69</td>
+<td class="shuju">71</td>
+<td class="shuju">74</td>
+<td class="shuju">64</td>
+<td class="shuju">65</td>
+<td class="shuju">69</td>
+<td class="shuju">74</td>
+<td class="shuju">76</td>
+<td class="shuju">79</td>
+<td class="shuju">26</td>
+<td class="shuju">624</td>
+<td class="shuju">55</td>
+<td class="shuju">2076</td>
+<td class="shuju">25436</td>
+<td class="shuju">2564</td>
+<td class="shuju">34</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">95</td>
+<td class="shuju">黎巴嫩</td>
+<td class="shuju">67</td>
+<td class="shuju">71</td>
+<td class="shuju">80</td>
+<td class="shuju">64</td>
+<td class="shuju">68</td>
+<td class="shuju">78</td>
+<td class="shuju">71</td>
+<td class="shuju">75</td>
+<td class="shuju">82</td>
+<td class="shuju">30</td>
+<td class="shuju">385</td>
+<td class="shuju">41</td>
+<td class="shuju">1196</td>
+<td class="shuju">7934</td>
+<td class="shuju">1377</td>
+<td class="shuju">25</td>
+<td class="shuju">16</td>
+</tr>
+<tr><td class="zhibiao">96</td>
+<td class="shuju">莱索托</td>
+<td class="shuju">61</td>
+<td class="shuju">47</td>
+<td class="shuju">50</td>
+<td class="shuju">59</td>
+<td class="shuju">44</td>
+<td class="shuju">48</td>
+<td class="shuju">62</td>
+<td class="shuju">50</td>
+<td class="shuju">52</td>
+<td class="shuju">1110</td>
+<td class="shuju">672</td>
+<td class="shuju">142</td>
+<td class="shuju">57102</td>
+<td class="shuju">11697</td>
+<td class="shuju">7939</td>
+<td class="shuju">620</td>
+<td class="shuju">490</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

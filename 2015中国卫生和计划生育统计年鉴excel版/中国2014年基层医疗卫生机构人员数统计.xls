@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年基层医疗卫生机构人员数统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">机构分类</td>
+<td class="biaotou" rowspan="3">合计</td>
+<td class="biaotou" colspan="7">卫生技术人员</td>
+<td class="biaotou" rowspan="3">乡村医生和卫生员</td>
+<td class="biaotou" rowspan="3">其他技术人员</td>
+<td class="biaotou" rowspan="3">管理人员</td>
+<td class="biaotou" rowspan="3">工勤技能人员</td>
+</tr><tr><td class="biaotou" rowspan="2">小计</td>
+<td class="biaotou" colspan="2">执业(助理)医师</td>
+<td class="biaotou" rowspan="2">注册护士</td>
+<td class="biaotou" rowspan="2">药师(±)</td>
+<td class="biaotou" rowspan="2">技师(士)</td>
+<td class="biaotou" rowspan="2">其他</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">执业医师</td>
+</tr><tr><td class="zhibiao">2010</td>
+<td class="shuju">3282091</td>
+<td class="shuju">1913948</td>
+<td class="shuju">949054</td>
+<td class="shuju">645480</td>
+<td class="shuju">466503</td>
+<td class="shuju">125467</td>
+<td class="shuju">79485</td>
+<td class="shuju">293439</td>
+<td class="shuju">1091863</td>
+<td class="shuju">73848</td>
+<td class="shuju">71825</td>
+<td class="shuju">130607</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">3536753</td>
+<td class="shuju">2176823</td>
+<td class="shuju">1064136</td>
+<td class="shuju">704759</td>
+<td class="shuju">603900</td>
+<td class="shuju">131493</td>
+<td class="shuju">84441</td>
+<td class="shuju">292853</td>
+<td class="shuju">1058182</td>
+<td class="shuju">75276</td>
+<td class="shuju">62438</td>
+<td class="shuju">164034</td>
+</tr>
+<tr><td class="zhibiao">按城乡分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城市</td>
+<td class="shuju">757613</td>
+<td class="shuju">675200</td>
+<td class="shuju">338817</td>
+<td class="shuju">291289</td>
+<td class="shuju">227856</td>
+<td class="shuju">42904</td>
+<td class="shuju">22435</td>
+<td class="shuju">43188</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">14402</td>
+<td class="shuju">16438</td>
+<td class="shuju">51573</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;农村</td>
+<td class="shuju">2779140</td>
+<td class="shuju">1501623</td>
+<td class="shuju">725319</td>
+<td class="shuju">413470</td>
+<td class="shuju">376044</td>
+<td class="shuju">88589</td>
+<td class="shuju">62006</td>
+<td class="shuju">249665</td>
+<td class="shuju">1058182</td>
+<td class="shuju">60874</td>
+<td class="shuju">46000</td>
+<td class="shuju">112461</td>
+</tr>
+<tr><td class="zhibiao">按登记注册类型分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;公立</td>
+<td class="shuju">2565931</td>
+<td class="shuju">1607038</td>
+<td class="shuju">726416</td>
+<td class="shuju">442200</td>
+<td class="shuju">441068</td>
+<td class="shuju">107237</td>
+<td class="shuju">75702</td>
+<td class="shuju">256615</td>
+<td class="shuju">696391</td>
+<td class="shuju">72316</td>
+<td class="shuju">57719</td>
+<td class="shuju">132467</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非公立</td>
+<td class="shuju">970822</td>
+<td class="shuju">569785</td>
+<td class="shuju">337720</td>
+<td class="shuju">262559</td>
+<td class="shuju">162832</td>
+<td class="shuju">24256</td>
+<td class="shuju">8739</td>
+<td class="shuju">36238</td>
+<td class="shuju">361791</td>
+<td class="shuju">2960</td>
+<td class="shuju">4719</td>
+<td class="shuju">31567</td>
+</tr>
+<tr><td class="zhibiao">按主办单位分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;政府办</td>
+<td class="shuju">1704319</td>
+<td class="shuju">1341592</td>
+<td class="shuju">554840</td>
+<td class="shuju">343146</td>
+<td class="shuju">376308</td>
+<td class="shuju">97764</td>
+<td class="shuju">69689</td>
+<td class="shuju">242991</td>
+<td class="shuju">117864</td>
+<td class="shuju">69423</td>
+<td class="shuju">53892</td>
+<td class="shuju">121548</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社会办</td>
+<td class="shuju">1099001</td>
+<td class="shuju">339737</td>
+<td class="shuju">218480</td>
+<td class="shuju">130033</td>
+<td class="shuju">85344</td>
+<td class="shuju">12480</td>
+<td class="shuju">7959</td>
+<td class="shuju">15474</td>
+<td class="shuju">733326</td>
+<td class="shuju">3388</td>
+<td class="shuju">4552</td>
+<td class="shuju">17998</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;个人办</td>
+<td class="shuju">733433</td>
+<td class="shuju">495494</td>
+<td class="shuju">290816</td>
+<td class="shuju">231580</td>
+<td class="shuju">142248</td>
+<td class="shuju">21249</td>
+<td class="shuju">6793</td>
+<td class="shuju">34388</td>
+<td class="shuju">206992</td>
+<td class="shuju">2465</td>
+<td class="shuju">3994</td>
+<td class="shuju">24488</td>
+</tr>
+<tr><td class="zhibiao">按管理类别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非营利性</td>
+<td class="shuju">2979573</td>
+<td class="shuju">1735110</td>
+<td class="shuju">805551</td>
+<td class="shuju">490095</td>
+<td class="shuju">476114</td>
+<td class="shuju">112230</td>
+<td class="shuju">78397</td>
+<td class="shuju">262818</td>
+<td class="shuju">969749</td>
+<td class="shuju">74917</td>
+<td class="shuju">61869</td>
+<td class="shuju">137928</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;营利性</td>
+<td class="shuju">557180</td>
+<td class="shuju">441713</td>
+<td class="shuju">258585</td>
+<td class="shuju">214664</td>
+<td class="shuju">127786</td>
+<td class="shuju">19263</td>
+<td class="shuju">6044</td>
+<td class="shuju">30035</td>
+<td class="shuju">88433</td>
+<td class="shuju">359</td>
+<td class="shuju">569</td>
+<td class="shuju">26106</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年传染病防治监督处罚案件统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:件</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">总计</td>
+<td class="biaotou">疾病预防控制机构</td>
+<td class="biaotou">医疗机构</td>
+<td class="biaotou">采供血机构</td>
+<td class="biaotou">消毒产品生产单位</td>
+<td class="biaotou">消毒产品经营单位</td>
+<td class="biaotou">其他有关单位</td>
+<td class="biaotou">个人</td>
+</tr>
+<tr><td class="zhibiao">案件数</td>
+<td class="shuju">12195</td>
+<td class="shuju">49</td>
+<td class="shuju">8484</td>
+<td class="shuju">5</td>
+<td class="shuju">346</td>
+<td class="shuju">827</td>
+<td class="shuju">2471</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">结案数</td>
+<td class="shuju">12034</td>
+<td class="shuju">51</td>
+<td class="shuju">8389</td>
+<td class="shuju">5</td>
+<td class="shuju">329</td>
+<td class="shuju">782</td>
+<td class="shuju">2464</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">违法事实</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《传染病防治法》规定</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;违反传染病疫情监测信息报告管理规定</td>
+<td class="shuju">80</td>
+<td class="shuju">2</td>
+<td class="shuju">63</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">14</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;未依据职责采取/承担传染病疫情防控措施</td>
+<td class="shuju">11</td>
+<td class="shuju">1</td>
+<td class="shuju">8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;未按规定提供医疗救治</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;违反消毒隔离制度</td>
+<td class="shuju">208</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">179</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">27</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;违反病历管理规定</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;违反规定导致经血液传播疾病的发生</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;非法采集或组织他人出卖血液</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;在国家确认的自然疫源地违法建大型建设项目</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;用于传染病防治消毒产品不符卫生标准(规范)</td>
+<td class="shuju">143</td>
+<td class="shuju">3</td>
+<td class="shuju">22</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">14</td>
+<td class="shuju">76</td>
+<td class="shuju">26</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;导致或可能导致传染病传播流行的</td>
+<td class="shuju">273</td>
+<td class="shuju">6</td>
+<td class="shuju">23</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">96</td>
+<td class="shuju">108</td>
+<td class="shuju">39</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《突发公共卫生事件应急条例》规定</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《医疗废物管理条例》规定</td>
+<td class="shuju">6967</td>
+<td class="shuju">27</td>
+<td class="shuju">5648</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1280</td>
+<td class="shuju">8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《病原微生物实验室生物安全管理条例》规定</td>
+<td class="shuju">60</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">29</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《疫苗流通和预防接种管理条例》规定</td>
+<td class="shuju">21</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">7</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《艾滋病防治条例》规定</td>
+<td class="shuju">29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">29</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《血吸虫病防治条例》的规定</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《消毒管理办法》规定</td>
+<td class="shuju">4860</td>
+<td class="shuju">8</td>
+<td class="shuju">2922</td>
+<td class="shuju">1</td>
+<td class="shuju">285</td>
+<td class="shuju">766</td>
+<td class="shuju">875</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反《医院感染管理办法》的规定</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">28</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他违法行为</td>
+<td class="shuju">462</td>
+<td class="shuju">14</td>
+<td class="shuju">121</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">25</td>
+<td class="shuju">29</td>
+<td class="shuju">271</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">处罚程序</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;简易程序</td>
+<td class="shuju">4073</td>
+<td class="shuju">8</td>
+<td class="shuju">2854</td>
+<td class="shuju">1</td>
+<td class="shuju">35</td>
+<td class="shuju">65</td>
+<td class="shuju">1110</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;一般程序</td>
+<td class="shuju">7961</td>
+<td class="shuju">43</td>
+<td class="shuju">5535</td>
+<td class="shuju">4</td>
+<td class="shuju">294</td>
+<td class="shuju">717</td>
+<td class="shuju">1354</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;听证</td>
+<td class="shuju">55</td>
+<td class="shuju">1</td>
+<td class="shuju">36</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">13</td>
+<td class="shuju">1</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">处罚决定</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;警告</td>
+<td class="shuju">6326</td>
+<td class="shuju">36</td>
+<td class="shuju">4884</td>
+<td class="shuju">3</td>
+<td class="shuju">63</td>
+<td class="shuju">153</td>
+<td class="shuju">1180</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;罚款</td>
+<td class="shuju">10307</td>
+<td class="shuju">39</td>
+<td class="shuju">7057</td>
+<td class="shuju">4</td>
+<td class="shuju">327</td>
+<td class="shuju">754</td>
+<td class="shuju">2114</td>
+<td class="shuju">12</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;罚款金额(万元)</td>
+<td class="shuju">1946.9</td>
+<td class="shuju">18.9</td>
+<td class="shuju">1318.1</td>
+<td class="shuju">1.1</td>
+<td class="shuju">63.6</td>
+<td class="shuju">114.8</td>
+<td class="shuju">427.0</td>
+<td class="shuju">3.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;没收违法所得</td>
+<td class="shuju">34</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">26</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">4</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;没收金额(万元)</td>
+<td class="shuju">33.3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">30.5</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.1</td>
+<td class="shuju">2.3</td>
+<td class="shuju">0.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;暂扣或吊销许可证</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;吊销执业证书</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">72</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">60</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">行政复议</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">行政诉讼</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

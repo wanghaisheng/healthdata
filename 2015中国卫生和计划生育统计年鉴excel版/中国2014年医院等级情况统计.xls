@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医院等级情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">医院分类</td>
+<td class="biaotou" colspan="6">医院</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">综合医院</td>
+<td class="biaotou">中医医院</td>
+<td class="biaotou">中西医结合医院</td>
+<td class="biaotou">民族医院</td>
+<td class="biaotou">专科医院</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">25860</td>
+<td class="shuju">16524</td>
+<td class="shuju">3115</td>
+<td class="shuju">384</td>
+<td class="shuju">233</td>
+<td class="shuju">5478</td>
+</tr>
+<tr><td class="zhibiao">三级</td>
+<td class="shuju">1954</td>
+<td class="shuju">1116</td>
+<td class="shuju">368</td>
+<td class="shuju">47</td>
+<td class="shuju">10</td>
+<td class="shuju">413</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;甲等</td>
+<td class="shuju">1158</td>
+<td class="shuju">636</td>
+<td class="shuju">287</td>
+<td class="shuju">42</td>
+<td class="shuju">7</td>
+<td class="shuju">186</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乙等</td>
+<td class="shuju">391</td>
+<td class="shuju">272</td>
+<td class="shuju">71</td>
+<td class="shuju">2</td>
+<td class="shuju">3</td>
+<td class="shuju">43</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;丙等</td>
+<td class="shuju">36</td>
+<td class="shuju">25</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未定等</td>
+<td class="shuju">369</td>
+<td class="shuju">183</td>
+<td class="shuju">9</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">175</td>
+</tr>
+<tr><td class="zhibiao">二级</td>
+<td class="shuju">6850</td>
+<td class="shuju">4192</td>
+<td class="shuju">1629</td>
+<td class="shuju">70</td>
+<td class="shuju">92</td>
+<td class="shuju">864</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;甲等</td>
+<td class="shuju">3944</td>
+<td class="shuju">2486</td>
+<td class="shuju">1150</td>
+<td class="shuju">37</td>
+<td class="shuju">47</td>
+<td class="shuju">224</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乙等</td>
+<td class="shuju">1606</td>
+<td class="shuju">1086</td>
+<td class="shuju">310</td>
+<td class="shuju">16</td>
+<td class="shuju">28</td>
+<td class="shuju">165</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;丙等</td>
+<td class="shuju">73</td>
+<td class="shuju">51</td>
+<td class="shuju">5</td>
+<td class="shuju">1</td>
+<td class="shuju">3</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未定等</td>
+<td class="shuju">1227</td>
+<td class="shuju">569</td>
+<td class="shuju">164</td>
+<td class="shuju">16</td>
+<td class="shuju">14</td>
+<td class="shuju">462</td>
+</tr>
+<tr><td class="zhibiao">一级</td>
+<td class="shuju">7009</td>
+<td class="shuju">5389</td>
+<td class="shuju">400</td>
+<td class="shuju">100</td>
+<td class="shuju">37</td>
+<td class="shuju">1064</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;甲等</td>
+<td class="shuju">2252</td>
+<td class="shuju">1957</td>
+<td class="shuju">60</td>
+<td class="shuju">14</td>
+<td class="shuju">7</td>
+<td class="shuju">210</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乙等</td>
+<td class="shuju">535</td>
+<td class="shuju">431</td>
+<td class="shuju">20</td>
+<td class="shuju">10</td>
+<td class="shuju">4</td>
+<td class="shuju">69</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;丙等</td>
+<td class="shuju">174</td>
+<td class="shuju">108</td>
+<td class="shuju">41</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+<td class="shuju">19</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未定等</td>
+<td class="shuju">4048</td>
+<td class="shuju">2893</td>
+<td class="shuju">279</td>
+<td class="shuju">73</td>
+<td class="shuju">24</td>
+<td class="shuju">766</td>
+</tr>
+<tr><td class="zhibiao">未定级</td>
+<td class="shuju">10047</td>
+<td class="shuju">5827</td>
+<td class="shuju">718</td>
+<td class="shuju">167</td>
+<td class="shuju">94</td>
+<td class="shuju">3137</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

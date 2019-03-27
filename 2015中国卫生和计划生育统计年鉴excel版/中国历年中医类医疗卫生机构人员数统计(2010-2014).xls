@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年中医类医疗卫生机构人员数统计(2010-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">机构类别</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">700483</td>
+<td class="shuju">745985</td>
+<td class="shuju">818775</td>
+<td class="shuju">894690</td>
+<td class="shuju">966786</td>
+</tr>
+<tr><td class="zhibiao">中医类医院</td>
+<td class="shuju">618106</td>
+<td class="shuju">662074</td>
+<td class="shuju">731415</td>
+<td class="shuju">801408</td>
+<td class="shuju">869714</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医医院</td>
+<td class="shuju">558110</td>
+<td class="shuju">599200</td>
+<td class="shuju">655925</td>
+<td class="shuju">713816</td>
+<td class="shuju">769166</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医综合医院</td>
+<td class="shuju">530505</td>
+<td class="shuju">569023</td>
+<td class="shuju">628332</td>
+<td class="shuju">681462</td>
+<td class="shuju">733007</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医专科医院</td>
+<td class="shuju">27605</td>
+<td class="shuju">30177</td>
+<td class="shuju">27593</td>
+<td class="shuju">32354</td>
+<td class="shuju">36159</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">47480</td>
+<td class="shuju">49340</td>
+<td class="shuju">60831</td>
+<td class="shuju">70886</td>
+<td class="shuju">81144</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医医院</td>
+<td class="shuju">12516</td>
+<td class="shuju">13534</td>
+<td class="shuju">14659</td>
+<td class="shuju">16706</td>
+<td class="shuju">19404</td>
+</tr>
+<tr><td class="zhibiao">中医类门诊部</td>
+<td class="shuju">12156</td>
+<td class="shuju">13109</td>
+<td class="shuju">15076</td>
+<td class="shuju">16698</td>
+<td class="shuju">18597</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医门诊部</td>
+<td class="shuju">9822</td>
+<td class="shuju">10573</td>
+<td class="shuju">12045</td>
+<td class="shuju">13594</td>
+<td class="shuju">15144</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合门诊部</td>
+<td class="shuju">2260</td>
+<td class="shuju">2438</td>
+<td class="shuju">2915</td>
+<td class="shuju">2991</td>
+<td class="shuju">3361</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医门诊部</td>
+<td class="shuju">74</td>
+<td class="shuju">98</td>
+<td class="shuju">116</td>
+<td class="shuju">113</td>
+<td class="shuju">92</td>
+</tr>
+<tr><td class="zhibiao">中医类诊所</td>
+<td class="shuju">67165</td>
+<td class="shuju">67590</td>
+<td class="shuju">69199</td>
+<td class="shuju">73524</td>
+<td class="shuju">75153</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医诊所</td>
+<td class="shuju">47386</td>
+<td class="shuju">48539</td>
+<td class="shuju">50838</td>
+<td class="shuju">54822</td>
+<td class="shuju">56674</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合诊所</td>
+<td class="shuju">19142</td>
+<td class="shuju">18379</td>
+<td class="shuju">17643</td>
+<td class="shuju">17971</td>
+<td class="shuju">17752</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医诊所</td>
+<td class="shuju">637</td>
+<td class="shuju">672</td>
+<td class="shuju">718</td>
+<td class="shuju">731</td>
+<td class="shuju">727</td>
+</tr>
+<tr><td class="zhibiao">中医类研究机构</td>
+<td class="shuju">3056</td>
+<td class="shuju">3212</td>
+<td class="shuju">3085</td>
+<td class="shuju">3060</td>
+<td class="shuju">3322</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医(药)研究院(所)</td>
+<td class="shuju">2409</td>
+<td class="shuju">2594</td>
+<td class="shuju">2316</td>
+<td class="shuju">2460</td>
+<td class="shuju">2639</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合研究所</td>
+<td class="shuju">67</td>
+<td class="shuju">68</td>
+<td class="shuju">83</td>
+<td class="shuju">84</td>
+<td class="shuju">87</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医(药)学研究所</td>
+<td class="shuju">580</td>
+<td class="shuju">550</td>
+<td class="shuju">686</td>
+<td class="shuju">591</td>
+<td class="shuju">596</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

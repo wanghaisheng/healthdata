@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份医院平均住院日统计(2005-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">医院分类</td>
+<td class="biaotou">2005</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.5</td>
+<td class="shuju">10.3</td>
+<td class="shuju">10.0</td>
+<td class="shuju">9.8</td>
+<td class="shuju">9.6</td>
+</tr>
+<tr><td class="zhibiao">按登记注册类型分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;公立医院</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.7</td>
+<td class="shuju">10.5</td>
+<td class="shuju">10.2</td>
+<td class="shuju">10.0</td>
+<td class="shuju">9.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民营医院</td>
+<td class="shuju">9.6</td>
+<td class="shuju">8.4</td>
+<td class="shuju">8.5</td>
+<td class="shuju">8.3</td>
+<td class="shuju">8.4</td>
+<td class="shuju">8.4</td>
+</tr>
+<tr><td class="zhibiao">按主办单位分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;政府办</td>
+<td class="shuju">10.7</td>
+<td class="shuju">10.5</td>
+<td class="shuju">10.3</td>
+<td class="shuju">10.1</td>
+<td class="shuju">9.9</td>
+<td class="shuju">9.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社会办</td>
+<td class="shuju">12.4</td>
+<td class="shuju">11.7</td>
+<td class="shuju">11.4</td>
+<td class="shuju">11.1</td>
+<td class="shuju">10.8</td>
+<td class="shuju">10.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;个人办</td>
+<td class="shuju">9.3</td>
+<td class="shuju">8.0</td>
+<td class="shuju">8.1</td>
+<td class="shuju">7.9</td>
+<td class="shuju">8.0</td>
+<td class="shuju">8.2</td>
+</tr>
+<tr><td class="zhibiao">按管理类别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非营利性</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.6</td>
+<td class="shuju">10.4</td>
+<td class="shuju">10.1</td>
+<td class="shuju">10.0</td>
+<td class="shuju">9.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;营利性</td>
+<td class="shuju">9.5</td>
+<td class="shuju">8.0</td>
+<td class="shuju">8.0</td>
+<td class="shuju">7.7</td>
+<td class="shuju">7.7</td>
+<td class="shuju">7.7</td>
+</tr>
+<tr><td class="zhibiao">按医院等级分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;三级医院</td>
+<td class="shuju">13.1</td>
+<td class="shuju">12.5</td>
+<td class="shuju">12.0</td>
+<td class="shuju">11.4</td>
+<td class="shuju">11.0</td>
+<td class="shuju">10.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;二级医院</td>
+<td class="shuju">9.7</td>
+<td class="shuju">9.4</td>
+<td class="shuju">9.3</td>
+<td class="shuju">9.1</td>
+<td class="shuju">9.0</td>
+<td class="shuju">8.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;一级医院</td>
+<td class="shuju">9.8</td>
+<td class="shuju">9.1</td>
+<td class="shuju">9.1</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.0</td>
+<td class="shuju">9.1</td>
+</tr>
+<tr><td class="zhibiao">按机构类别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;综合医院</td>
+<td class="shuju">10.2</td>
+<td class="shuju">9.8</td>
+<td class="shuju">9.7</td>
+<td class="shuju">9.4</td>
+<td class="shuju">9.2</td>
+<td class="shuju">9.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医医院</td>
+<td class="shuju">10.8</td>
+<td class="shuju">10.6</td>
+<td class="shuju">10.5</td>
+<td class="shuju">10.2</td>
+<td class="shuju">10.1</td>
+<td class="shuju">10.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">11.6</td>
+<td class="shuju">10.8</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.8</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医院</td>
+<td class="shuju">9.4</td>
+<td class="shuju">11.6</td>
+<td class="shuju">11.9</td>
+<td class="shuju">11.2</td>
+<td class="shuju">10.9</td>
+<td class="shuju">10.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科医院</td>
+<td class="shuju">18.9</td>
+<td class="shuju">17.3</td>
+<td class="shuju">16.1</td>
+<td class="shuju">15.5</td>
+<td class="shuju">14.9</td>
+<td class="shuju">14.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;护理院</td>
+<td class="shuju">95.0</td>
+<td class="shuju">59.6</td>
+<td class="shuju">70.0</td>
+<td class="shuju">72.6</td>
+<td class="shuju">76.6</td>
+<td class="shuju">77.8</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

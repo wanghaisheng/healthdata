@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份调查地区居民经常就诊单位构成统计(2003-2013)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">合计</td>
+<td class="biaotou">城市</td>
+<td class="biaotou">农村</td>
+</tr>
+<tr><td class="zhibiao">2003年</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">患者两周就诊单位</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;门诊部.卫生室</td>
+<td class="shuju">47.1</td>
+<td class="shuju">25.7</td>
+<td class="shuju">53.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生院.社区中心</td>
+<td class="shuju">22.4</td>
+<td class="shuju">10.9</td>
+<td class="shuju">25.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;县市区医院</td>
+<td class="shuju">11.3</td>
+<td class="shuju">13.3</td>
+<td class="shuju">10.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;地市医院</td>
+<td class="shuju">8.1</td>
+<td class="shuju">28.4</td>
+<td class="shuju">2.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;省医院</td>
+<td class="shuju">3.8</td>
+<td class="shuju">13.4</td>
+<td class="shuju">0.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他医院</td>
+<td class="shuju">7.3</td>
+<td class="shuju">8.2</td>
+<td class="shuju">7.0</td>
+</tr>
+<tr><td class="zhibiao">2008年</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">患者两周首诊单位</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;私人诊所</td>
+<td class="shuju">16.5</td>
+<td class="shuju">12.5</td>
+<td class="shuju">17.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生室(站)</td>
+<td class="shuju">33.0</td>
+<td class="shuju">12.3</td>
+<td class="shuju">39.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生院.社区中心</td>
+<td class="shuju">24.2</td>
+<td class="shuju">23.5</td>
+<td class="shuju">24.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;县市区医院</td>
+<td class="shuju">17.3</td>
+<td class="shuju">23.7</td>
+<td class="shuju">15.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;地市医院</td>
+<td class="shuju">4.7</td>
+<td class="shuju">15.4</td>
+<td class="shuju">1.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;省医院</td>
+<td class="shuju">3.2</td>
+<td class="shuju">11.2</td>
+<td class="shuju">0.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他医院</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1.4</td>
+<td class="shuju">0.9</td>
+</tr>
+<tr><td class="zhibiao">2013年</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">患者一般性疾病就诊单位</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生室</td>
+<td class="shuju">47.4</td>
+<td class="shuju">30.4</td>
+<td class="shuju">64.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生服务站</td>
+<td class="shuju">11.2</td>
+<td class="shuju">18.5</td>
+<td class="shuju">3.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生院</td>
+<td class="shuju">13.9</td>
+<td class="shuju">5.4</td>
+<td class="shuju">22.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社区中心</td>
+<td class="shuju">8.6</td>
+<td class="shuju">14.6</td>
+<td class="shuju">2.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;综合医院</td>
+<td class="shuju">15.6</td>
+<td class="shuju">25.8</td>
+<td class="shuju">5.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医院</td>
+<td class="shuju">1.6</td>
+<td class="shuju">2.2</td>
+<td class="shuju">1.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">1.8</td>
+<td class="shuju">3.0</td>
+<td class="shuju">0.7</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

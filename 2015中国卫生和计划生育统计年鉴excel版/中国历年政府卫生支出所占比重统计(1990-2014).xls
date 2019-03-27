@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年政府卫生支出所占比重统计(1990-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">年份</td>
+<td class="biaotou">政府卫生支出(亿元)</td>
+<td class="biaotou">占财政支出比重(%)</td>
+<td class="biaotou">占卫生总费用比重(%)</td>
+<td class="biaotou">占国内生产总值比重(%)</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">187.28</td>
+<td class="shuju">6.07</td>
+<td class="shuju">25.06</td>
+<td class="shuju">1.00</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">204.05</td>
+<td class="shuju">6.03</td>
+<td class="shuju">22.84</td>
+<td class="shuju">0.93</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">228.61</td>
+<td class="shuju">6.11</td>
+<td class="shuju">20.84</td>
+<td class="shuju">0.84</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">272.06</td>
+<td class="shuju">5.86</td>
+<td class="shuju">19.75</td>
+<td class="shuju">0.77</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">342.28</td>
+<td class="shuju">5.91</td>
+<td class="shuju">19.43</td>
+<td class="shuju">0.71</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">387.34</td>
+<td class="shuju">5.68</td>
+<td class="shuju">17.97</td>
+<td class="shuju">0.63</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">461.61</td>
+<td class="shuju">5.82</td>
+<td class="shuju">17.04</td>
+<td class="shuju">0.64</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">523.56</td>
+<td class="shuju">5.67</td>
+<td class="shuju">16.38</td>
+<td class="shuju">0.66</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">590.06</td>
+<td class="shuju">5.46</td>
+<td class="shuju">16.04</td>
+<td class="shuju">0.7</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">640.96</td>
+<td class="shuju">4.86</td>
+<td class="shuju">15.84</td>
+<td class="shuju">0.71</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">709.52</td>
+<td class="shuju">4.47</td>
+<td class="shuju">15.47</td>
+<td class="shuju">0.71</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">800.61</td>
+<td class="shuju">4.24</td>
+<td class="shuju">15.93</td>
+<td class="shuju">0.73</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">908.51</td>
+<td class="shuju">4.12</td>
+<td class="shuju">15.69</td>
+<td class="shuju">0.75</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">1116.94</td>
+<td class="shuju">4.53</td>
+<td class="shuju">16.96</td>
+<td class="shuju">0.82</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">1293.58</td>
+<td class="shuju">4.54</td>
+<td class="shuju">17.04</td>
+<td class="shuju">0.8</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">1552.53</td>
+<td class="shuju">4.58</td>
+<td class="shuju">17.93</td>
+<td class="shuju">0.84</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">1778.86</td>
+<td class="shuju">4.4</td>
+<td class="shuju">18.07</td>
+<td class="shuju">0.82</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">2581.58</td>
+<td class="shuju">5.19</td>
+<td class="shuju">22.31</td>
+<td class="shuju">0.96</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">3593.94</td>
+<td class="shuju">5.74</td>
+<td class="shuju">24.73</td>
+<td class="shuju">1.13</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">4816.26</td>
+<td class="shuju">6.31</td>
+<td class="shuju">27.46</td>
+<td class="shuju">1.39</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">5732.49</td>
+<td class="shuju">6.38</td>
+<td class="shuju">28.69</td>
+<td class="shuju">1.40</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">7464.18</td>
+<td class="shuju">6.83</td>
+<td class="shuju">30.66</td>
+<td class="shuju">1.54</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">8431.98</td>
+<td class="shuju">6.69</td>
+<td class="shuju">29.99</td>
+<td class="shuju">1.58</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">9545.81</td>
+<td class="shuju">6.83</td>
+<td class="shuju">30.14</td>
+<td class="shuju">1.62</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">10579.23</td>
+<td class="shuju">6.98</td>
+<td class="shuju">29.96</td>
+<td class="shuju">1.66</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:①本表按当年价格计算.</td></tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>②2014年为初步测算数.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

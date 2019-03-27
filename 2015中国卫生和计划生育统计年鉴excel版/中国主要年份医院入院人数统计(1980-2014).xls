@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份医院入院人数统计(1980-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">年份</td>
+<td class="biaotou" colspan="4">入院人数(万人)</td>
+<td class="biaotou" rowspan="3">每百门急诊入院人数(人)</td>
+</tr><tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" colspan="3">卫生计生部门</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">综合医院</td>
+<td class="biaotou">中医医院</td>
+</tr><tr><td class="zhibiao">1980</td>
+<td class="shuju">2247</td>
+<td class="shuju">1667</td>
+<td class="shuju">1383</td>
+<td class="shuju">41</td>
+<td class="shuju">2.4</td>
+</tr>
+<tr><td class="zhibiao">1985</td>
+<td class="shuju">2560</td>
+<td class="shuju">1862</td>
+<td class="shuju">1485</td>
+<td class="shuju">79</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1986</td>
+<td class="shuju">2685</td>
+<td class="shuju">1960</td>
+<td class="shuju">1547</td>
+<td class="shuju">96</td>
+<td class="shuju">2.2</td>
+</tr>
+<tr><td class="zhibiao">1987</td>
+<td class="shuju">2926</td>
+<td class="shuju">2155</td>
+<td class="shuju">1670</td>
+<td class="shuju">133</td>
+<td class="shuju">2.1</td>
+</tr>
+<tr><td class="zhibiao">1988</td>
+<td class="shuju">3128</td>
+<td class="shuju">2292</td>
+<td class="shuju">1752</td>
+<td class="shuju">157</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1989</td>
+<td class="shuju">3157</td>
+<td class="shuju">2304</td>
+<td class="shuju">1750</td>
+<td class="shuju">174</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">3182</td>
+<td class="shuju">2341</td>
+<td class="shuju">1769</td>
+<td class="shuju">195</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">3276</td>
+<td class="shuju">2433</td>
+<td class="shuju">1825</td>
+<td class="shuju">223</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">3262</td>
+<td class="shuju">2428</td>
+<td class="shuju">1799</td>
+<td class="shuju">232</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">3066</td>
+<td class="shuju">2325</td>
+<td class="shuju">1723</td>
+<td class="shuju">231</td>
+<td class="shuju">2.5</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">3079</td>
+<td class="shuju">2344</td>
+<td class="shuju">1728</td>
+<td class="shuju">241</td>
+<td class="shuju">2.6</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">3073</td>
+<td class="shuju">2358</td>
+<td class="shuju">1710</td>
+<td class="shuju">251</td>
+<td class="shuju">2.6</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">3100</td>
+<td class="shuju">2379</td>
+<td class="shuju">1704</td>
+<td class="shuju">267</td>
+<td class="shuju">2.7</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">3121</td>
+<td class="shuju">2425</td>
+<td class="shuju">1725</td>
+<td class="shuju">274</td>
+<td class="shuju">2.7</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">3238</td>
+<td class="shuju">2538</td>
+<td class="shuju">1794</td>
+<td class="shuju">287</td>
+<td class="shuju">2.8</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">3379</td>
+<td class="shuju">2676</td>
+<td class="shuju">1884</td>
+<td class="shuju">298</td>
+<td class="shuju">2.9</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">3584</td>
+<td class="shuju">2862</td>
+<td class="shuju">1996</td>
+<td class="shuju">321</td>
+<td class="shuju">3.0</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">3759</td>
+<td class="shuju">3030</td>
+<td class="shuju">2100</td>
+<td class="shuju">349</td>
+<td class="shuju">3.2</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">3997</td>
+<td class="shuju">3209</td>
+<td class="shuju">2577</td>
+<td class="shuju">394</td>
+<td class="shuju">3.5</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">4159</td>
+<td class="shuju">3339</td>
+<td class="shuju">2727</td>
+<td class="shuju">438</td>
+<td class="shuju">3.6</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">4673</td>
+<td class="shuju">3752</td>
+<td class="shuju">3108</td>
+<td class="shuju">498</td>
+<td class="shuju">3.8</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">5108</td>
+<td class="shuju">4101</td>
+<td class="shuju">3394</td>
+<td class="shuju">544</td>
+<td class="shuju">3.8</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">5562</td>
+<td class="shuju">4465</td>
+<td class="shuju">3656</td>
+<td class="shuju">610</td>
+<td class="shuju">3.9</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">6487</td>
+<td class="shuju">5336</td>
+<td class="shuju">4257</td>
+<td class="shuju">693</td>
+<td class="shuju">4.1</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">7392</td>
+<td class="shuju">6193</td>
+<td class="shuju">4874</td>
+<td class="shuju">847</td>
+<td class="shuju">4.3</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">8488</td>
+<td class="shuju">7048</td>
+<td class="shuju">5525</td>
+<td class="shuju">986</td>
+<td class="shuju">4.5</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">9524</td>
+<td class="shuju">7890</td>
+<td class="shuju">6172</td>
+<td class="shuju">1113</td>
+<td class="shuju">4.8</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">10755</td>
+<td class="shuju">8849</td>
+<td class="shuju">6896</td>
+<td class="shuju">1285</td>
+<td class="shuju">4.9</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">12727</td>
+<td class="shuju">10324</td>
+<td class="shuju">7978</td>
+<td class="shuju">1564</td>
+<td class="shuju">5.1</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">14007</td>
+<td class="shuju">11251</td>
+<td class="shuju">8639</td>
+<td class="shuju">1736</td>
+<td class="shuju">5.2</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">16234</td>
+<td class="shuju">13116</td>
+<td class="shuju">9398</td>
+<td class="shuju">1889</td>
+<td class="shuju">5.2</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:①1993年以前入院人数系推算数.</td></tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>②2002年之前医院数字包括妇幼保健院.专科疾病防治院.</td></tr>
+</table>
+<table class="exp" id="tab3">
+<tr><td>③2002年以前综合医院不含高校附属医院.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

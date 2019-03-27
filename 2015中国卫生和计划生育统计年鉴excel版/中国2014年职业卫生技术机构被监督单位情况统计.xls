@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年职业卫生技术机构被监督单位情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">合计</td>
+<td class="biaotou">化学品毒性鉴定机构</td>
+<td class="biaotou">职业健康检查机构</td>
+<td class="biaotou">职业病诊断机构</td>
+<td class="biaotou">放射卫生技术服务机构</td>
+</tr>
+<tr><td class="zhibiao">机构数(个)</td>
+<td class="shuju">3259</td>
+<td class="shuju">4</td>
+<td class="shuju">2450</td>
+<td class="shuju">441</td>
+<td class="shuju">364</td>
+</tr>
+<tr><td class="zhibiao">职工总数(人)</td>
+<td class="shuju">883995</td>
+<td class="shuju">887</td>
+<td class="shuju">642448</td>
+<td class="shuju">198422</td>
+<td class="shuju">42238</td>
+</tr>
+<tr><td class="zhibiao">业务人员数(人)</td>
+<td class="shuju">116303</td>
+<td class="shuju">180</td>
+<td class="shuju">76550</td>
+<td class="shuju">31924</td>
+<td class="shuju">7649</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专业技术人数(人)</td>
+<td class="shuju">57762</td>
+<td class="shuju">76</td>
+<td class="shuju">45829</td>
+<td class="shuju">7531</td>
+<td class="shuju">4326</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:取得相应资格人数(人)</td>
+<td class="shuju">41499</td>
+<td class="shuju">43</td>
+<td class="shuju">33680</td>
+<td class="shuju">4498</td>
+<td class="shuju">3278</td>
+</tr>
+<tr><td class="zhibiao">有效资质证数(份)</td>
+<td class="shuju">3259</td>
+<td class="shuju">4</td>
+<td class="shuju">2450</td>
+<td class="shuju">441</td>
+<td class="shuju">364</td>
+</tr>
+<tr><td class="zhibiao">机构资质证发放情况(份)</td>
+<td class="shuju">853</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">660</td>
+<td class="shuju">107</td>
+<td class="shuju">86</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新发</td>
+<td class="shuju">344</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">255</td>
+<td class="shuju">33</td>
+<td class="shuju">56</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;变更</td>
+<td class="shuju">97</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">70</td>
+<td class="shuju">14</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;延续</td>
+<td class="shuju">397</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">320</td>
+<td class="shuju">60</td>
+<td class="shuju">17</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;注销</td>
+<td class="shuju">15</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">15</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">批准的职业卫生技术服务的业务范围</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;建设项目职业病危害评价资质等级</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;甲等</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乙等</td>
+<td class="shuju">190</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">190</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;职业病危害因素检测与评价</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;化学品毒性鉴定资质等级</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;甲等</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乙等</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;丙等</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;丁等</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;放射卫生防护检测与评价</td>
+<td class="shuju">320</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">320</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;放射防护器材和含放射性产品检测</td>
+<td class="shuju">8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">8</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

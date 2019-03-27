@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年放射卫生监督处罚案件统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:件</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">总计</td>
+<td class="biaotou">放射治疗</td>
+<td class="biaotou">核医学</td>
+<td class="biaotou">介入放射学</td>
+<td class="biaotou">X射线影像诊断</td>
+</tr>
+<tr><td class="zhibiao">案件数</td>
+<td class="shuju">1777</td>
+<td class="shuju">89</td>
+<td class="shuju">22</td>
+<td class="shuju">88</td>
+<td class="shuju">1578</td>
+</tr>
+<tr><td class="zhibiao">结案数</td>
+<td class="shuju">1761</td>
+<td class="shuju">90</td>
+<td class="shuju">22</td>
+<td class="shuju">90</td>
+<td class="shuju">1559</td>
+</tr>
+<tr><td class="zhibiao">违法事实</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未取得放射诊疗许可从事放射诊疗工作的</td>
+<td class="shuju">377</td>
+<td class="shuju">9</td>
+<td class="shuju">5</td>
+<td class="shuju">23</td>
+<td class="shuju">340</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未办理诊疗科目登记或未按照规定进行校验的</td>
+<td class="shuju">227</td>
+<td class="shuju">9</td>
+<td class="shuju">1</td>
+<td class="shuju">6</td>
+<td class="shuju">211</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未经批准擅自变更放射诊疗项目或超出批准范围从事放射诊疗工作的</td>
+<td class="shuju">164</td>
+<td class="shuju">21</td>
+<td class="shuju">6</td>
+<td class="shuju">12</td>
+<td class="shuju">125</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未给从事放射工作的人员办理《放射工作人员证》</td>
+<td class="shuju">145</td>
+<td class="shuju">3</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+<td class="shuju">139</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未按规定对放射工作人员进行健康检查并建立健康档案</td>
+<td class="shuju">260</td>
+<td class="shuju">11</td>
+<td class="shuju">1</td>
+<td class="shuju">10</td>
+<td class="shuju">238</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未按规定对放射工作人员进行个人剂量检测并建立个人剂量档案</td>
+<td class="shuju">251</td>
+<td class="shuju">7</td>
+<td class="shuju">1</td>
+<td class="shuju">8</td>
+<td class="shuju">235</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未按照规定组织放射工作人员培训</td>
+<td class="shuju">37</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">34</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未按照规定使用安全防护装置和个人防护用品</td>
+<td class="shuju">331</td>
+<td class="shuju">20</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11</td>
+<td class="shuju">300</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;购置.使用不合格或国家有关部门规定淘汰的放射诊疗设备</td>
+<td class="shuju">15</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;使用不具备相应资质的人员从事放射诊疗工作</td>
+<td class="shuju">87</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">77</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他违法行为</td>
+<td class="shuju">401</td>
+<td class="shuju">15</td>
+<td class="shuju">6</td>
+<td class="shuju">19</td>
+<td class="shuju">361</td>
+</tr>
+<tr><td class="zhibiao">处罚程序</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;简易程序</td>
+<td class="shuju">609</td>
+<td class="shuju">57</td>
+<td class="shuju">18</td>
+<td class="shuju">45</td>
+<td class="shuju">489</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;一般程序</td>
+<td class="shuju">1152</td>
+<td class="shuju">33</td>
+<td class="shuju">4</td>
+<td class="shuju">45</td>
+<td class="shuju">1070</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;听证</td>
+<td class="shuju">22</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">21</td>
+</tr>
+<tr><td class="zhibiao">处罚决定</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;责令限期改正</td>
+<td class="shuju">722</td>
+<td class="shuju">21</td>
+<td class="shuju">9</td>
+<td class="shuju">30</td>
+<td class="shuju">662</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;警告</td>
+<td class="shuju">1454</td>
+<td class="shuju">67</td>
+<td class="shuju">22</td>
+<td class="shuju">86</td>
+<td class="shuju">1279</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;罚款</td>
+<td class="shuju">1302</td>
+<td class="shuju">60</td>
+<td class="shuju">14</td>
+<td class="shuju">63</td>
+<td class="shuju">1165</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;罚款金额(万元)</td>
+<td class="shuju">6499.8</td>
+<td class="shuju">283.2</td>
+<td class="shuju">21.8</td>
+<td class="shuju">269.1</td>
+<td class="shuju">5925.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

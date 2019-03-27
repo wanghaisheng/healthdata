@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医院出院病人年龄别疾病构成统计(女)(一)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">疾病名称(ICD-10)</td>
+<td class="biaotou">5岁以下</td>
+<td class="biaotou">5-14岁</td>
+<td class="biaotou">15-44岁</td>
+<td class="biaotou">45-59岁</td>
+<td class="biaotou">60岁及以上</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">8.1</td>
+<td class="shuju">2.5</td>
+<td class="shuju">36.4</td>
+<td class="shuju">20.8</td>
+<td class="shuju">32.2</td>
+</tr>
+<tr><td class="zhibiao">1.传染病和寄生虫病小计</td>
+<td class="shuju">39.8</td>
+<td class="shuju">7.4</td>
+<td class="shuju">19.9</td>
+<td class="shuju">14.5</td>
+<td class="shuju">18.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肠道传染病</td>
+<td class="shuju">40.6</td>
+<td class="shuju">6.1</td>
+<td class="shuju">17.3</td>
+<td class="shuju">13.6</td>
+<td class="shuju">22.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:霍乱</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;伤寒和副伤寒</td>
+<td class="shuju">4.9</td>
+<td class="shuju">6.1</td>
+<td class="shuju">45.6</td>
+<td class="shuju">20.2</td>
+<td class="shuju">23.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;细菌性痢疾</td>
+<td class="shuju">31.6</td>
+<td class="shuju">9.7</td>
+<td class="shuju">18.1</td>
+<td class="shuju">17.1</td>
+<td class="shuju">23.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;结核病</td>
+<td class="shuju">0.7</td>
+<td class="shuju">1.8</td>
+<td class="shuju">42.6</td>
+<td class="shuju">22.6</td>
+<td class="shuju">32.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:肺结核</td>
+<td class="shuju">0.4</td>
+<td class="shuju">1.3</td>
+<td class="shuju">37.2</td>
+<td class="shuju">22.7</td>
+<td class="shuju">38.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;白喉</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;百日咳</td>
+<td class="shuju">85.3</td>
+<td class="shuju">9.4</td>
+<td class="shuju">3.1</td>
+<td class="shuju">0.7</td>
+<td class="shuju">1.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;猩红热</td>
+<td class="shuju">28.5</td>
+<td class="shuju">67.7</td>
+<td class="shuju">3.6</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;性传播模式疾病</td>
+<td class="shuju">10.6</td>
+<td class="shuju">0.5</td>
+<td class="shuju">57.3</td>
+<td class="shuju">21.5</td>
+<td class="shuju">10.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:梅毒</td>
+<td class="shuju">21.1</td>
+<td class="shuju">0.2</td>
+<td class="shuju">48.8</td>
+<td class="shuju">19.9</td>
+<td class="shuju">10.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;淋球菌感染</td>
+<td class="shuju">8.7</td>
+<td class="shuju">2.6</td>
+<td class="shuju">45.0</td>
+<td class="shuju">30.3</td>
+<td class="shuju">13.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乙型脑炎</td>
+<td class="shuju">12.9</td>
+<td class="shuju">50.8</td>
+<td class="shuju">16.9</td>
+<td class="shuju">12.1</td>
+<td class="shuju">7.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;斑疹伤寒</td>
+<td class="shuju">6.0</td>
+<td class="shuju">4.8</td>
+<td class="shuju">19.7</td>
+<td class="shuju">32.6</td>
+<td class="shuju">36.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;病毒性肝炎</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.9</td>
+<td class="shuju">43.8</td>
+<td class="shuju">35.8</td>
+<td class="shuju">18.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;人类免疫缺陷病毒病(HIV)</td>
+<td class="shuju">0.5</td>
+<td class="shuju">1.6</td>
+<td class="shuju">44.0</td>
+<td class="shuju">35.7</td>
+<td class="shuju">18.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;血吸虫病</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.3</td>
+<td class="shuju">13.6</td>
+<td class="shuju">26.0</td>
+<td class="shuju">59.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;丝虫病</td>
+<td class="shuju">0.0</td>
+<td class="shuju">0.0</td>
+<td class="shuju">3.7</td>
+<td class="shuju">11.1</td>
+<td class="shuju">85.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;钩虫病</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.4</td>
+<td class="shuju">6.5</td>
+<td class="shuju">27.8</td>
+<td class="shuju">65.0</td>
+</tr>
+<tr><td class="zhibiao">2.肿瘤小计</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.8</td>
+<td class="shuju">31.0</td>
+<td class="shuju">37.2</td>
+<td class="shuju">30.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;恶性肿瘤计</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.6</td>
+<td class="shuju">17.4</td>
+<td class="shuju">36.7</td>
+<td class="shuju">44.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;鼻咽恶性肿瘤</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.2</td>
+<td class="shuju">29.1</td>
+<td class="shuju">44.8</td>
+<td class="shuju">25.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;食管恶性肿瘤</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.0</td>
+<td class="shuju">1.0</td>
+<td class="shuju">15.9</td>
+<td class="shuju">82.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;胃恶性肿瘤</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.0</td>
+<td class="shuju">11.6</td>
+<td class="shuju">28.6</td>
+<td class="shuju">59.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;小肠恶性肿瘤</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">9.5</td>
+<td class="shuju">32.6</td>
+<td class="shuju">57.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;结肠恶性肿瘤</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">9.2</td>
+<td class="shuju">27.4</td>
+<td class="shuju">63.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;直肠乙状结肠连接处.直肠.肛门和肛管恶性肿瘤</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">9.4</td>
+<td class="shuju">32.1</td>
+<td class="shuju">58.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;肝和肝内胆管恶性肿瘤</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.2</td>
+<td class="shuju">9.8</td>
+<td class="shuju">29.8</td>
+<td class="shuju">59.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;喉恶性肿瘤</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.0</td>
+<td class="shuju">4.0</td>
+<td class="shuju">23.2</td>
+<td class="shuju">72.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;气管.支气管.肺恶性肿瘤</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.0</td>
+<td class="shuju">6.5</td>
+<td class="shuju">30.5</td>
+<td class="shuju">62.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;骨.关节软骨恶性肿瘤</td>
+<td class="shuju">0.8</td>
+<td class="shuju">9.1</td>
+<td class="shuju">28.5</td>
+<td class="shuju">26.8</td>
+<td class="shuju">34.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乳房恶性肿瘤</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.0</td>
+<td class="shuju">23.4</td>
+<td class="shuju">49.5</td>
+<td class="shuju">26.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;女性生殖器官恶性肿瘤</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.1</td>
+<td class="shuju">20.5</td>
+<td class="shuju">49.5</td>
+<td class="shuju">29.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;男性生殖器官恶性肿瘤</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;泌尿道恶性肿瘤</td>
+<td class="shuju">0.9</td>
+<td class="shuju">0.3</td>
+<td class="shuju">8.1</td>
+<td class="shuju">25.5</td>
+<td class="shuju">65.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;脑恶性肿瘤</td>
+<td class="shuju">1.8</td>
+<td class="shuju">5.5</td>
+<td class="shuju">33.2</td>
+<td class="shuju">32.2</td>
+<td class="shuju">27.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;白血病</td>
+<td class="shuju">4.0</td>
+<td class="shuju">8.4</td>
+<td class="shuju">32.2</td>
+<td class="shuju">26.0</td>
+<td class="shuju">29.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;原位癌计</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.1</td>
+<td class="shuju">43.9</td>
+<td class="shuju">38.1</td>
+<td class="shuju">17.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;子宫颈原位癌</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">55.3</td>
+<td class="shuju">37.1</td>
+<td class="shuju">7.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;良性肿瘤计</td>
+<td class="shuju">1.3</td>
+<td class="shuju">1.1</td>
+<td class="shuju">48.6</td>
+<td class="shuju">38.6</td>
+<td class="shuju">10.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;皮肤良性肿瘤</td>
+<td class="shuju">7.0</td>
+<td class="shuju">8.7</td>
+<td class="shuju">41.8</td>
+<td class="shuju">24.1</td>
+<td class="shuju">18.4</td>
+</tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>注:本表系卫生计生部门综合医院数字.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

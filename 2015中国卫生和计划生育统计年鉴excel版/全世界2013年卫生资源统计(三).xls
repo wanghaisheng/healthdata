@@ -1,0 +1,390 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">全世界2013年卫生资源统计(三)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">序列</td>
+<td class="biaotou" rowspan="2">国家</td>
+<td class="biaotou" colspan="3">每万人口2007-2013</td>
+<td class="biaotou" rowspan="2">每万人口医院床位2006-2012</td>
+</tr><tr><td class="biaotou">医师</td>
+<td class="biaotou">口腔医师</td>
+<td class="biaotou">护士和助产士</td>
+</tr><tr><td class="zhibiao">97</td>
+<td class="shuju">利比里亚</td>
+<td class="shuju">0.1</td>
+<td class="shuju">&lt;0.05</td>
+<td class="shuju">2.7</td>
+<td class="shuju">8</td>
+</tr>
+<tr><td class="zhibiao">98</td>
+<td class="shuju">利比亚</td>
+<td class="shuju">19.0</td>
+<td class="shuju">6.0</td>
+<td class="shuju">68.0</td>
+<td class="shuju">37</td>
+</tr>
+<tr><td class="zhibiao">99</td>
+<td class="shuju">立陶宛</td>
+<td class="shuju">41.2</td>
+<td class="shuju">7.5</td>
+<td class="shuju">71.7</td>
+<td class="shuju">70</td>
+</tr>
+<tr><td class="zhibiao">100</td>
+<td class="shuju">卢森堡</td>
+<td class="shuju">29.0</td>
+<td class="shuju">8.9</td>
+<td class="shuju">126.1</td>
+<td class="shuju">54</td>
+</tr>
+<tr><td class="zhibiao">101</td>
+<td class="shuju">马达加斯加</td>
+<td class="shuju">1.6</td>
+<td class="shuju">&lt;0.05</td>
+<td class="shuju">-</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">102</td>
+<td class="shuju">马拉维</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.1</td>
+<td class="shuju">3.4</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">103</td>
+<td class="shuju">马来西亚</td>
+<td class="shuju">12.0</td>
+<td class="shuju">3.6</td>
+<td class="shuju">32.8</td>
+<td class="shuju">19</td>
+</tr>
+<tr><td class="zhibiao">104</td>
+<td class="shuju">马尔代夫</td>
+<td class="shuju">14.2</td>
+<td class="shuju">0.9</td>
+<td class="shuju">50.4</td>
+<td class="shuju">43</td>
+</tr>
+<tr><td class="zhibiao">105</td>
+<td class="shuju">马里</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.1</td>
+<td class="shuju">4.3</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">106</td>
+<td class="shuju">马耳他</td>
+<td class="shuju">34.9</td>
+<td class="shuju">4.7</td>
+<td class="shuju">74.9</td>
+<td class="shuju">48</td>
+</tr>
+<tr><td class="zhibiao">107</td>
+<td class="shuju">马歇尔群岛</td>
+<td class="shuju">4</td>
+<td class="shuju">2</td>
+<td class="shuju">17</td>
+<td class="shuju">27</td>
+</tr>
+<tr><td class="zhibiao">108</td>
+<td class="shuju">毛利塔尼亚</td>
+<td class="shuju">1</td>
+<td class="shuju">0</td>
+<td class="shuju">7</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">109</td>
+<td class="shuju">毛里求斯</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">34</td>
+</tr>
+<tr><td class="zhibiao">110</td>
+<td class="shuju">墨西哥</td>
+<td class="shuju">21</td>
+<td class="shuju">1</td>
+<td class="shuju">25</td>
+<td class="shuju">15</td>
+</tr>
+<tr><td class="zhibiao">111</td>
+<td class="shuju">密克罗尼西亚</td>
+<td class="shuju">2</td>
+<td class="shuju">4</td>
+<td class="shuju">33</td>
+<td class="shuju">32</td>
+</tr>
+<tr><td class="zhibiao">112</td>
+<td class="shuju">摩纳哥</td>
+<td class="shuju">72</td>
+<td class="shuju">10</td>
+<td class="shuju">172</td>
+<td class="shuju">138</td>
+</tr>
+<tr><td class="zhibiao">113</td>
+<td class="shuju">蒙古</td>
+<td class="shuju">28</td>
+<td class="shuju">2</td>
+<td class="shuju">36</td>
+<td class="shuju">68</td>
+</tr>
+<tr><td class="zhibiao">114</td>
+<td class="shuju">黑山</td>
+<td class="shuju">21</td>
+<td class="shuju">0</td>
+<td class="shuju">54</td>
+<td class="shuju">40</td>
+</tr>
+<tr><td class="zhibiao">115</td>
+<td class="shuju">摩洛哥</td>
+<td class="shuju">6</td>
+<td class="shuju">1</td>
+<td class="shuju">9</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">116</td>
+<td class="shuju">莫桑比克</td>
+<td class="shuju">0</td>
+<td class="shuju">-</td>
+<td class="shuju">4</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">117</td>
+<td class="shuju">緬甸</td>
+<td class="shuju">6</td>
+<td class="shuju">1</td>
+<td class="shuju">10</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">118</td>
+<td class="shuju">纳米比亚</td>
+<td class="shuju">4</td>
+<td class="shuju">0</td>
+<td class="shuju">28</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">119</td>
+<td class="shuju">瑙鲁</td>
+<td class="shuju">7</td>
+<td class="shuju">2</td>
+<td class="shuju">49</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">120</td>
+<td class="shuju">尼泊尔</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">121</td>
+<td class="shuju">荷兰</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">84</td>
+<td class="shuju">47</td>
+</tr>
+<tr><td class="zhibiao">122</td>
+<td class="shuju">新西兰</td>
+<td class="shuju">27</td>
+<td class="shuju">5</td>
+<td class="shuju">109</td>
+<td class="shuju">23</td>
+</tr>
+<tr><td class="zhibiao">123</td>
+<td class="shuju">尼加拉瓜</td>
+<td class="shuju">9</td>
+<td class="shuju">0</td>
+<td class="shuju">14</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">124</td>
+<td class="shuju">尼日尔</td>
+<td class="shuju">0</td>
+<td class="shuju">&lt;0.05</td>
+<td class="shuju">1</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">125</td>
+<td class="shuju">尼日利亚</td>
+<td class="shuju">4</td>
+<td class="shuju">0</td>
+<td class="shuju">16</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">126</td>
+<td class="shuju">纽埃岛</td>
+<td class="shuju">30</td>
+<td class="shuju">40</td>
+<td class="shuju">160</td>
+<td class="shuju">52</td>
+</tr>
+<tr><td class="zhibiao">127</td>
+<td class="shuju">挪威</td>
+<td class="shuju">43</td>
+<td class="shuju">9</td>
+<td class="shuju">173</td>
+<td class="shuju">33</td>
+</tr>
+<tr><td class="zhibiao">128</td>
+<td class="shuju">阿曼</td>
+<td class="shuju">24</td>
+<td class="shuju">3</td>
+<td class="shuju">54</td>
+<td class="shuju">17</td>
+</tr>
+<tr><td class="zhibiao">129</td>
+<td class="shuju">巴基斯坦</td>
+<td class="shuju">8</td>
+<td class="shuju">1</td>
+<td class="shuju">6</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">130</td>
+<td class="shuju">帕劳群岛</td>
+<td class="shuju">14</td>
+<td class="shuju">3</td>
+<td class="shuju">57</td>
+<td class="shuju">48</td>
+</tr>
+<tr><td class="zhibiao">131</td>
+<td class="shuju">巴拿马</td>
+<td class="shuju">17</td>
+<td class="shuju">3</td>
+<td class="shuju">14</td>
+<td class="shuju">22</td>
+</tr>
+<tr><td class="zhibiao">132</td>
+<td class="shuju">巴布亚新几内亚</td>
+<td class="shuju">1</td>
+<td class="shuju">0</td>
+<td class="shuju">6</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">133</td>
+<td class="shuju">巴拉圭</td>
+<td class="shuju">12</td>
+<td class="shuju">2</td>
+<td class="shuju">10</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">134</td>
+<td class="shuju">秘鲁</td>
+<td class="shuju">11</td>
+<td class="shuju">2</td>
+<td class="shuju">15</td>
+<td class="shuju">15</td>
+</tr>
+<tr><td class="zhibiao">135</td>
+<td class="shuju">菲律宾</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">136</td>
+<td class="shuju">波兰</td>
+<td class="shuju">22</td>
+<td class="shuju">3</td>
+<td class="shuju">62</td>
+<td class="shuju">65</td>
+</tr>
+<tr><td class="zhibiao">137</td>
+<td class="shuju">葡萄牙</td>
+<td class="shuju">41</td>
+<td class="shuju">8</td>
+<td class="shuju">61</td>
+<td class="shuju">34</td>
+</tr>
+<tr><td class="zhibiao">138</td>
+<td class="shuju">卡塔尔</td>
+<td class="shuju">77</td>
+<td class="shuju">-</td>
+<td class="shuju">119</td>
+<td class="shuju">12</td>
+</tr>
+<tr><td class="zhibiao">139</td>
+<td class="shuju">韩国</td>
+<td class="shuju">21</td>
+<td class="shuju">5</td>
+<td class="shuju">50</td>
+<td class="shuju">103</td>
+</tr>
+<tr><td class="zhibiao">140</td>
+<td class="shuju">摩尔多瓦</td>
+<td class="shuju">30</td>
+<td class="shuju">5</td>
+<td class="shuju">64</td>
+<td class="shuju">62</td>
+</tr>
+<tr><td class="zhibiao">141</td>
+<td class="shuju">罗马尼亚</td>
+<td class="shuju">25</td>
+<td class="shuju">6</td>
+<td class="shuju">56</td>
+<td class="shuju">61</td>
+</tr>
+<tr><td class="zhibiao">142</td>
+<td class="shuju">俄罗斯</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">97</td>
+</tr>
+<tr><td class="zhibiao">143</td>
+<td class="shuju">卢旺达</td>
+<td class="shuju">1</td>
+<td class="shuju">0</td>
+<td class="shuju">7</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">144</td>
+<td class="shuju">圣基茨和尼维斯</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">23</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年血吸虫病防治情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">地区</td>
+<td class="biaotou">流行县数(个)</td>
+<td class="biaotou">流行乡数(个)</td>
+<td class="biaotou">流行村人口数(万人)</td>
+<td class="biaotou">达到传播控制标准县数(个)</td>
+<td class="biaotou">达到传播阻断标准县数(个)</td>
+<td class="biaotou">未达控制标准县数(个)</td>
+<td class="biaotou">现有病人数(人)</td>
+<td class="biaotou">其中晚期病人数(人)</td>
+<td class="biaotou">急性血吸虫病感染人数(人)</td>
+<td class="biaotou">治疗及扩大化疗人数(人)</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">453</td>
+<td class="shuju">3479</td>
+<td class="shuju">6851</td>
+<td class="shuju">135</td>
+<td class="shuju">313</td>
+<td class="shuju">5</td>
+<td class="shuju">115614</td>
+<td class="shuju">30880</td>
+<td class="shuju">2</td>
+<td class="shuju">2846410</td>
+</tr>
+<tr><td class="zhibiao">上海</td>
+<td class="shuju">8</td>
+<td class="shuju">81</td>
+<td class="shuju">256.4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">江苏</td>
+<td class="shuju">67</td>
+<td class="shuju">474</td>
+<td class="shuju">1342.4</td>
+<td class="shuju">9</td>
+<td class="shuju">58</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2909</td>
+<td class="shuju">2909</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">5962</td>
+</tr>
+<tr><td class="zhibiao">浙江</td>
+<td class="shuju">55</td>
+<td class="shuju">471</td>
+<td class="shuju">906.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">55</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1062</td>
+<td class="shuju">1053</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1867</td>
+</tr>
+<tr><td class="zhibiao">安徽</td>
+<td class="shuju">51</td>
+<td class="shuju">366</td>
+<td class="shuju">698.6</td>
+<td class="shuju">32</td>
+<td class="shuju">19</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">16510</td>
+<td class="shuju">5804</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">304155</td>
+</tr>
+<tr><td class="zhibiao">福建</td>
+<td class="shuju">16</td>
+<td class="shuju">75</td>
+<td class="shuju">84.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">16</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">江西</td>
+<td class="shuju">39</td>
+<td class="shuju">316</td>
+<td class="shuju">495.4</td>
+<td class="shuju">11</td>
+<td class="shuju">24</td>
+<td class="shuju">4</td>
+<td class="shuju">25989</td>
+<td class="shuju">4997</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">454672</td>
+</tr>
+<tr><td class="zhibiao">湖北</td>
+<td class="shuju">63</td>
+<td class="shuju">519</td>
+<td class="shuju">996.2</td>
+<td class="shuju">39</td>
+<td class="shuju">24</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">34455</td>
+<td class="shuju">8906</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">711821</td>
+</tr>
+<tr><td class="zhibiao">湖南</td>
+<td class="shuju">41</td>
+<td class="shuju">339</td>
+<td class="shuju">639.1</td>
+<td class="shuju">30</td>
+<td class="shuju">10</td>
+<td class="shuju">1</td>
+<td class="shuju">31669</td>
+<td class="shuju">4625</td>
+<td class="shuju">2</td>
+<td class="shuju">596451</td>
+</tr>
+<tr><td class="zhibiao">广东</td>
+<td class="shuju">13</td>
+<td class="shuju">33</td>
+<td class="shuju">41.2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">37</td>
+</tr>
+<tr><td class="zhibiao">广西</td>
+<td class="shuju">19</td>
+<td class="shuju">69</td>
+<td class="shuju">89.5</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">19</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">四川</td>
+<td class="shuju">63</td>
+<td class="shuju">661</td>
+<td class="shuju">1112.1</td>
+<td class="shuju">7</td>
+<td class="shuju">56</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1794</td>
+<td class="shuju">1794</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">507730</td>
+</tr>
+<tr><td class="zhibiao">云南</td>
+<td class="shuju">18</td>
+<td class="shuju">75</td>
+<td class="shuju">189.1</td>
+<td class="shuju">7</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1225</td>
+<td class="shuju">792</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">263708</td>
+</tr>
+<tr><td class="zhibiao">重庆</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

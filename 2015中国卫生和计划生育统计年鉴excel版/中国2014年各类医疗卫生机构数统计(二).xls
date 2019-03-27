@@ -1,0 +1,832 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年各类医疗卫生机构数统计(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">机构分类</td>
+<td class="biaotou" rowspan="3">合计</td>
+<td class="biaotou" colspan="2">按城乡分</td>
+<td class="biaotou" colspan="6">按登记注册类型分</td>
+<td class="biaotou" colspan="4">按主办单位分</td>
+</tr><tr><td class="biaotou" rowspan="2">城市</td>
+<td class="biaotou" rowspan="2">农村</td>
+<td class="biaotou" colspan="3">公立</td>
+<td class="biaotou" colspan="3">非公立</td>
+<td class="biaotou" colspan="2">政府办</td>
+<td class="biaotou" rowspan="2">社会办</td>
+<td class="biaotou" rowspan="2">个人办</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">国有</td>
+<td class="biaotou">集体</td>
+<td class="biaotou">&nbsp;</td>
+<td class="biaotou">联营</td>
+<td class="biaotou">私营</td>
+<td class="biaotou">&nbsp;</td>
+<td class="biaotou">卫生计生部门</td>
+</tr><tr><td class="zhibiao">三.专业公共卫生机构</td>
+<td class="shuju">35029</td>
+<td class="shuju">9198</td>
+<td class="shuju">25831</td>
+<td class="shuju">34382</td>
+<td class="shuju">33524</td>
+<td class="shuju">858</td>
+<td class="shuju">647</td>
+<td class="shuju">4</td>
+<td class="shuju">28</td>
+<td class="shuju">31140</td>
+<td class="shuju">20169</td>
+<td class="shuju">3617</td>
+<td class="shuju">26</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;疾病预防控制中心</td>
+<td class="shuju">3490</td>
+<td class="shuju">1279</td>
+<td class="shuju">2211</td>
+<td class="shuju">3490</td>
+<td class="shuju">3479</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3389</td>
+<td class="shuju">3277</td>
+<td class="shuju">101</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;省属</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">32</td>
+<td class="shuju">32</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;地级市(地区)属</td>
+<td class="shuju">407</td>
+<td class="shuju">346</td>
+<td class="shuju">61</td>
+<td class="shuju">407</td>
+<td class="shuju">406</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">407</td>
+<td class="shuju">407</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县级市(区)属</td>
+<td class="shuju">1171</td>
+<td class="shuju">795</td>
+<td class="shuju">376</td>
+<td class="shuju">1160</td>
+<td class="shuju">1159</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1171</td>
+<td class="shuju">1171</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县属</td>
+<td class="shuju">1645</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1645</td>
+<td class="shuju">1656</td>
+<td class="shuju">1655</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1645</td>
+<td class="shuju">1645</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;其他</td>
+<td class="shuju">236</td>
+<td class="shuju">107</td>
+<td class="shuju">129</td>
+<td class="shuju">235</td>
+<td class="shuju">227</td>
+<td class="shuju">8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">135</td>
+<td class="shuju">23</td>
+<td class="shuju">101</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科疾病防治院(所.站)</td>
+<td class="shuju">1242</td>
+<td class="shuju">470</td>
+<td class="shuju">772</td>
+<td class="shuju">1213</td>
+<td class="shuju">1159</td>
+<td class="shuju">54</td>
+<td class="shuju">29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17</td>
+<td class="shuju">1132</td>
+<td class="shuju">1109</td>
+<td class="shuju">92</td>
+<td class="shuju">18</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;专科疾病防治院</td>
+<td class="shuju">194</td>
+<td class="shuju">116</td>
+<td class="shuju">78</td>
+<td class="shuju">185</td>
+<td class="shuju">177</td>
+<td class="shuju">8</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">172</td>
+<td class="shuju">167</td>
+<td class="shuju">17</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传染病防治院</td>
+<td class="shuju">11</td>
+<td class="shuju">5</td>
+<td class="shuju">6</td>
+<td class="shuju">10</td>
+<td class="shuju">9</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">10</td>
+<td class="shuju">10</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结核病防治院</td>
+<td class="shuju">21</td>
+<td class="shuju">14</td>
+<td class="shuju">7</td>
+<td class="shuju">21</td>
+<td class="shuju">21</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">21</td>
+<td class="shuju">20</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职业病防治院</td>
+<td class="shuju">37</td>
+<td class="shuju">35</td>
+<td class="shuju">2</td>
+<td class="shuju">35</td>
+<td class="shuju">35</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">26</td>
+<td class="shuju">24</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他</td>
+<td class="shuju">125</td>
+<td class="shuju">62</td>
+<td class="shuju">63</td>
+<td class="shuju">119</td>
+<td class="shuju">112</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">115</td>
+<td class="shuju">113</td>
+<td class="shuju">5</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;专科疾病防治所(站.中心)</td>
+<td class="shuju">1048</td>
+<td class="shuju">354</td>
+<td class="shuju">694</td>
+<td class="shuju">1028</td>
+<td class="shuju">982</td>
+<td class="shuju">46</td>
+<td class="shuju">20</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11</td>
+<td class="shuju">960</td>
+<td class="shuju">942</td>
+<td class="shuju">75</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;口腔病防治所(站.中心)</td>
+<td class="shuju">97</td>
+<td class="shuju">60</td>
+<td class="shuju">37</td>
+<td class="shuju">84</td>
+<td class="shuju">50</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">8</td>
+<td class="shuju">76</td>
+<td class="shuju">75</td>
+<td class="shuju">11</td>
+<td class="shuju">10</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;精神病防治所(站.中心)</td>
+<td class="shuju">28</td>
+<td class="shuju">8</td>
+<td class="shuju">20</td>
+<td class="shuju">27</td>
+<td class="shuju">24</td>
+<td class="shuju">3</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">24</td>
+<td class="shuju">22</td>
+<td class="shuju">3</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;皮肤病与性病防治所(中心)</td>
+<td class="shuju">236</td>
+<td class="shuju">59</td>
+<td class="shuju">177</td>
+<td class="shuju">234</td>
+<td class="shuju">229</td>
+<td class="shuju">5</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">220</td>
+<td class="shuju">216</td>
+<td class="shuju">14</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结核病防治所(站.中心)</td>
+<td class="shuju">355</td>
+<td class="shuju">119</td>
+<td class="shuju">236</td>
+<td class="shuju">355</td>
+<td class="shuju">354</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">338</td>
+<td class="shuju">338</td>
+<td class="shuju">17</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职业病防治所(站.中心)</td>
+<td class="shuju">35</td>
+<td class="shuju">32</td>
+<td class="shuju">3</td>
+<td class="shuju">33</td>
+<td class="shuju">32</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17</td>
+<td class="shuju">17</td>
+<td class="shuju">18</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地方病防治所(站.中心)</td>
+<td class="shuju">31</td>
+<td class="shuju">8</td>
+<td class="shuju">23</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">30</td>
+<td class="shuju">30</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;血吸虫病防治所(站.中心)</td>
+<td class="shuju">164</td>
+<td class="shuju">28</td>
+<td class="shuju">136</td>
+<td class="shuju">164</td>
+<td class="shuju">163</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">162</td>
+<td class="shuju">160</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;药物戒毒所(中心)</td>
+<td class="shuju">16</td>
+<td class="shuju">13</td>
+<td class="shuju">3</td>
+<td class="shuju">15</td>
+<td class="shuju">14</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">12</td>
+<td class="shuju">3</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他</td>
+<td class="shuju">86</td>
+<td class="shuju">27</td>
+<td class="shuju">59</td>
+<td class="shuju">85</td>
+<td class="shuju">85</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">81</td>
+<td class="shuju">81</td>
+<td class="shuju">5</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;健康教育所(站.中心)</td>
+<td class="shuju">172</td>
+<td class="shuju">110</td>
+<td class="shuju">62</td>
+<td class="shuju">168</td>
+<td class="shuju">164</td>
+<td class="shuju">4</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">155</td>
+<td class="shuju">151</td>
+<td class="shuju">15</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健院(所.站)</td>
+<td class="shuju">3098</td>
+<td class="shuju">1096</td>
+<td class="shuju">2002</td>
+<td class="shuju">3092</td>
+<td class="shuju">3074</td>
+<td class="shuju">18</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">3040</td>
+<td class="shuju">2981</td>
+<td class="shuju">54</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;省属</td>
+<td class="shuju">27</td>
+<td class="shuju">27</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">27</td>
+<td class="shuju">27</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">27</td>
+<td class="shuju">27</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;地级市(地区)属</td>
+<td class="shuju">368</td>
+<td class="shuju">333</td>
+<td class="shuju">35</td>
+<td class="shuju">368</td>
+<td class="shuju">368</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">368</td>
+<td class="shuju">368</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县级市(区)属</td>
+<td class="shuju">1035</td>
+<td class="shuju">672</td>
+<td class="shuju">363</td>
+<td class="shuju">1035</td>
+<td class="shuju">1025</td>
+<td class="shuju">10</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1035</td>
+<td class="shuju">1035</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县属</td>
+<td class="shuju">1543</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1543</td>
+<td class="shuju">1543</td>
+<td class="shuju">1537</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1543</td>
+<td class="shuju">1543</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;其他</td>
+<td class="shuju">125</td>
+<td class="shuju">64</td>
+<td class="shuju">61</td>
+<td class="shuju">119</td>
+<td class="shuju">117</td>
+<td class="shuju">2</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">67</td>
+<td class="shuju">8</td>
+<td class="shuju">54</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健院</td>
+<td class="shuju">1931</td>
+<td class="shuju">627</td>
+<td class="shuju">1304</td>
+<td class="shuju">1927</td>
+<td class="shuju">1915</td>
+<td class="shuju">12</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">1907</td>
+<td class="shuju">1875</td>
+<td class="shuju">21</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健所</td>
+<td class="shuju">579</td>
+<td class="shuju">289</td>
+<td class="shuju">290</td>
+<td class="shuju">579</td>
+<td class="shuju">577</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">569</td>
+<td class="shuju">569</td>
+<td class="shuju">10</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健站</td>
+<td class="shuju">562</td>
+<td class="shuju">171</td>
+<td class="shuju">391</td>
+<td class="shuju">561</td>
+<td class="shuju">557</td>
+<td class="shuju">4</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">545</td>
+<td class="shuju">531</td>
+<td class="shuju">17</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;生殖保健中心</td>
+<td class="shuju">26</td>
+<td class="shuju">9</td>
+<td class="shuju">17</td>
+<td class="shuju">25</td>
+<td class="shuju">25</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">19</td>
+<td class="shuju">6</td>
+<td class="shuju">6</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急救中心(站)</td>
+<td class="shuju">325</td>
+<td class="shuju">211</td>
+<td class="shuju">114</td>
+<td class="shuju">322</td>
+<td class="shuju">319</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">290</td>
+<td class="shuju">285</td>
+<td class="shuju">34</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;采供血机构</td>
+<td class="shuju">541</td>
+<td class="shuju">335</td>
+<td class="shuju">206</td>
+<td class="shuju">495</td>
+<td class="shuju">488</td>
+<td class="shuju">7</td>
+<td class="shuju">46</td>
+<td class="shuju">4</td>
+<td class="shuju">4</td>
+<td class="shuju">474</td>
+<td class="shuju">466</td>
+<td class="shuju">66</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生监督所(中心)</td>
+<td class="shuju">2975</td>
+<td class="shuju">1062</td>
+<td class="shuju">1913</td>
+<td class="shuju">2975</td>
+<td class="shuju">2963</td>
+<td class="shuju">12</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2975</td>
+<td class="shuju">2953</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;省属</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">31</td>
+<td class="shuju">31</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;地级市(地区)属</td>
+<td class="shuju">391</td>
+<td class="shuju">337</td>
+<td class="shuju">54</td>
+<td class="shuju">389</td>
+<td class="shuju">388</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">391</td>
+<td class="shuju">391</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县级市(区)属</td>
+<td class="shuju">1030</td>
+<td class="shuju">691</td>
+<td class="shuju">339</td>
+<td class="shuju">1018</td>
+<td class="shuju">1015</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1030</td>
+<td class="shuju">1030</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;县属</td>
+<td class="shuju">1500</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1500</td>
+<td class="shuju">1514</td>
+<td class="shuju">1507</td>
+<td class="shuju">7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1500</td>
+<td class="shuju">1500</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;其他</td>
+<td class="shuju">23</td>
+<td class="shuju">3</td>
+<td class="shuju">20</td>
+<td class="shuju">23</td>
+<td class="shuju">22</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">23</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;计划生育技术服务机构</td>
+<td class="shuju">23186</td>
+<td class="shuju">4635</td>
+<td class="shuju">18551</td>
+<td class="shuju">22627</td>
+<td class="shuju">21878</td>
+<td class="shuju">749</td>
+<td class="shuju">559</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">19685</td>
+<td class="shuju">8947</td>
+<td class="shuju">3255</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">四.其他医疗卫生机构</td>
+<td class="shuju">3208</td>
+<td class="shuju">1294</td>
+<td class="shuju">1914</td>
+<td class="shuju">3035</td>
+<td class="shuju">2967</td>
+<td class="shuju">68</td>
+<td class="shuju">173</td>
+<td class="shuju">3</td>
+<td class="shuju">71</td>
+<td class="shuju">2625</td>
+<td class="shuju">2079</td>
+<td class="shuju">521</td>
+<td class="shuju">61</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;疗养院</td>
+<td class="shuju">172</td>
+<td class="shuju">113</td>
+<td class="shuju">59</td>
+<td class="shuju">159</td>
+<td class="shuju">155</td>
+<td class="shuju">4</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4</td>
+<td class="shuju">84</td>
+<td class="shuju">38</td>
+<td class="shuju">85</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生监督检验(监测)机构</td>
+<td class="shuju">16</td>
+<td class="shuju">10</td>
+<td class="shuju">6</td>
+<td class="shuju">13</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">11</td>
+<td class="shuju">10</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医学科学研究机构</td>
+<td class="shuju">206</td>
+<td class="shuju">182</td>
+<td class="shuju">24</td>
+<td class="shuju">206</td>
+<td class="shuju">204</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">178</td>
+<td class="shuju">173</td>
+<td class="shuju">28</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医学在职培训机构</td>
+<td class="shuju">414</td>
+<td class="shuju">118</td>
+<td class="shuju">296</td>
+<td class="shuju">413</td>
+<td class="shuju">410</td>
+<td class="shuju">3</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">401</td>
+<td class="shuju">398</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;临床检验中心(所.站)</td>
+<td class="shuju">105</td>
+<td class="shuju">101</td>
+<td class="shuju">4</td>
+<td class="shuju">21</td>
+<td class="shuju">18</td>
+<td class="shuju">3</td>
+<td class="shuju">84</td>
+<td class="shuju">3</td>
+<td class="shuju">47</td>
+<td class="shuju">12</td>
+<td class="shuju">12</td>
+<td class="shuju">55</td>
+<td class="shuju">38</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;统计信息中心</td>
+<td class="shuju">63</td>
+<td class="shuju">57</td>
+<td class="shuju">6</td>
+<td class="shuju">62</td>
+<td class="shuju">62</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">58</td>
+<td class="shuju">55</td>
+<td class="shuju">5</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">2232</td>
+<td class="shuju">713</td>
+<td class="shuju">1519</td>
+<td class="shuju">2161</td>
+<td class="shuju">2105</td>
+<td class="shuju">56</td>
+<td class="shuju">71</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">18</td>
+<td class="shuju">1881</td>
+<td class="shuju">1393</td>
+<td class="shuju">332</td>
+<td class="shuju">18</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

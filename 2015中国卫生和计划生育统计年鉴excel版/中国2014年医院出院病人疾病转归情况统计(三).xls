@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医院出院病人疾病转归情况统计(三)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">疾病名称(ICD-10)</td>
+<td class="biaotou">出院人数(人)</td>
+<td class="biaotou">疾病构成(%)</td>
+<td class="biaotou">病死率(%)</td>
+<td class="biaotou">平均住院日(日)</td>
+<td class="biaotou">人均医药费用(元)</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;静脉炎和血栓形成</td>
+<td class="shuju">51982</td>
+<td class="shuju">0.12</td>
+<td class="shuju">0.25</td>
+<td class="shuju">11.97</td>
+<td class="shuju">14128.69</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;下肢静脉曲张</td>
+<td class="shuju">95109</td>
+<td class="shuju">0.21</td>
+<td class="shuju">0.06</td>
+<td class="shuju">8.94</td>
+<td class="shuju">7886.5</td>
+</tr>
+<tr><td class="zhibiao">10.呼吸系统疾病小计</td>
+<td class="shuju">6302917</td>
+<td class="shuju">13.97</td>
+<td class="shuju">0.69</td>
+<td class="shuju">8.05</td>
+<td class="shuju">5337.68</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急性上呼吸道感染</td>
+<td class="shuju">1015400</td>
+<td class="shuju">2.25</td>
+<td class="shuju">0.06</td>
+<td class="shuju">4.96</td>
+<td class="shuju">1930.77</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;流行性感冒</td>
+<td class="shuju">6452</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.45</td>
+<td class="shuju">5.08</td>
+<td class="shuju">3439.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:人禽流感</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肺炎</td>
+<td class="shuju">1873178</td>
+<td class="shuju">4.15</td>
+<td class="shuju">0.64</td>
+<td class="shuju">7.9</td>
+<td class="shuju">4488.43</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;慢性鼻窦炎</td>
+<td class="shuju">114306</td>
+<td class="shuju">0.25</td>
+<td class="shuju">0.02</td>
+<td class="shuju">7.94</td>
+<td class="shuju">7230.62</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;慢性扁桃体和腺样体疾病</td>
+<td class="shuju">100413</td>
+<td class="shuju">0.22</td>
+<td class="shuju">0.02</td>
+<td class="shuju">6.81</td>
+<td class="shuju">6073.15</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;慢性下呼吸道疾病</td>
+<td class="shuju">1492633</td>
+<td class="shuju">3.31</td>
+<td class="shuju">0.78</td>
+<td class="shuju">10.05</td>
+<td class="shuju">7734.36</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:哮喘</td>
+<td class="shuju">140784</td>
+<td class="shuju">0.31</td>
+<td class="shuju">0.23</td>
+<td class="shuju">8.12</td>
+<td class="shuju">5708.21</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;外部物质引起的肺病</td>
+<td class="shuju">39561</td>
+<td class="shuju">0.09</td>
+<td class="shuju">2.92</td>
+<td class="shuju">20.86</td>
+<td class="shuju">10755.24</td>
+</tr>
+<tr><td class="zhibiao">11.消化系统疾病小计</td>
+<td class="shuju">4710861</td>
+<td class="shuju">10.44</td>
+<td class="shuju">0.37</td>
+<td class="shuju">8.1</td>
+<td class="shuju">7659.73</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;口腔疾病</td>
+<td class="shuju">129057</td>
+<td class="shuju">0.29</td>
+<td class="shuju">0.03</td>
+<td class="shuju">7.02</td>
+<td class="shuju">5236.69</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;胃及十二指肠溃疡</td>
+<td class="shuju">269903</td>
+<td class="shuju">0.6</td>
+<td class="shuju">0.35</td>
+<td class="shuju">8.74</td>
+<td class="shuju">8044.64</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;阑尾疾病</td>
+<td class="shuju">518532</td>
+<td class="shuju">1.15</td>
+<td class="shuju">0.1</td>
+<td class="shuju">6.91</td>
+<td class="shuju">6479.32</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;疝</td>
+<td class="shuju">382867</td>
+<td class="shuju">0.85</td>
+<td class="shuju">0.06</td>
+<td class="shuju">7.18</td>
+<td class="shuju">7072.37</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:腹股沟疝</td>
+<td class="shuju">353196</td>
+<td class="shuju">0.78</td>
+<td class="shuju">0.05</td>
+<td class="shuju">6.93</td>
+<td class="shuju">6601.82</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肠梗阻</td>
+<td class="shuju">219409</td>
+<td class="shuju">0.49</td>
+<td class="shuju">0.62</td>
+<td class="shuju">7.48</td>
+<td class="shuju">7526.33</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;酒精性肝病</td>
+<td class="shuju">31833</td>
+<td class="shuju">0.07</td>
+<td class="shuju">1.39</td>
+<td class="shuju">11.53</td>
+<td class="shuju">8889.05</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肝硬化</td>
+<td class="shuju">201320</td>
+<td class="shuju">0.45</td>
+<td class="shuju">1.56</td>
+<td class="shuju">12.2</td>
+<td class="shuju">10798.95</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;胆石病和胆囊炎</td>
+<td class="shuju">722973</td>
+<td class="shuju">1.60</td>
+<td class="shuju">0.15</td>
+<td class="shuju">8.83</td>
+<td class="shuju">11002.12</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急性胰腺炎</td>
+<td class="shuju">171608</td>
+<td class="shuju">0.38</td>
+<td class="shuju">0.45</td>
+<td class="shuju">9.92</td>
+<td class="shuju">12331.39</td>
+</tr>
+<tr><td class="zhibiao">12.皮肤和皮下组织疾病小计</td>
+<td class="shuju">357840</td>
+<td class="shuju">0.79</td>
+<td class="shuju">0.14</td>
+<td class="shuju">9.67</td>
+<td class="shuju">5592.91</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;皮炎及湿疹</td>
+<td class="shuju">56958</td>
+<td class="shuju">0.13</td>
+<td class="shuju">0.05</td>
+<td class="shuju">8.7</td>
+<td class="shuju">4525.74</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;牛皮癣</td>
+<td class="shuju">16006</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.02</td>
+<td class="shuju">13.53</td>
+<td class="shuju">7646.24</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;荨麻疹</td>
+<td class="shuju">33120</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.02</td>
+<td class="shuju">5.74</td>
+<td class="shuju">2641.89</td>
+</tr>
+<tr><td class="zhibiao">13.肌肉骨骼系统和结缔组织疾病小计</td>
+<td class="shuju">1488676</td>
+<td class="shuju">3.3</td>
+<td class="shuju">0.08</td>
+<td class="shuju">10.58</td>
+<td class="shuju">10159.96</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;炎性多关节炎</td>
+<td class="shuju">183173</td>
+<td class="shuju">0.41</td>
+<td class="shuju">0.08</td>
+<td class="shuju">10.67</td>
+<td class="shuju">9091.06</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:类风湿关节炎</td>
+<td class="shuju">82227</td>
+<td class="shuju">0.18</td>
+<td class="shuju">0.1</td>
+<td class="shuju">10.98</td>
+<td class="shuju">8125.14</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;痛风</td>
+<td class="shuju">54203</td>
+<td class="shuju">0.12</td>
+<td class="shuju">0.09</td>
+<td class="shuju">9.86</td>
+<td class="shuju">6053.33</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他关节病</td>
+<td class="shuju">90203</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.03</td>
+<td class="shuju">11.88</td>
+<td class="shuju">16610.76</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;系统性结缔组织病</td>
+<td class="shuju">122421</td>
+<td class="shuju">0.27</td>
+<td class="shuju">0.43</td>
+<td class="shuju">10.27</td>
+<td class="shuju">8640.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:系统性红斑狼疮</td>
+<td class="shuju">61175</td>
+<td class="shuju">0.14</td>
+<td class="shuju">0.44</td>
+<td class="shuju">9.86</td>
+<td class="shuju">8052.97</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;脊椎关节强硬</td>
+<td class="shuju">176013</td>
+<td class="shuju">0.39</td>
+<td class="shuju">0.02</td>
+<td class="shuju">10.1</td>
+<td class="shuju">8142.45</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;椎间盘疾病</td>
+<td class="shuju">378460</td>
+<td class="shuju">0.84</td>
+<td class="shuju">0.02</td>
+<td class="shuju">10.93</td>
+<td class="shuju">8424.11</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;骨密度和骨结构疾病</td>
+<td class="shuju">87053</td>
+<td class="shuju">0.19</td>
+<td class="shuju">0.13</td>
+<td class="shuju">11.53</td>
+<td class="shuju">11987.45</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:骨质疏松</td>
+<td class="shuju">63028</td>
+<td class="shuju">0.14</td>
+<td class="shuju">0.14</td>
+<td class="shuju">11.23</td>
+<td class="shuju">10781.23</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;骨髓炎</td>
+<td class="shuju">10897</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.06</td>
+<td class="shuju">19.67</td>
+<td class="shuju">13680.68</td>
+</tr>
+<tr><td class="zhibiao">14.泌尿生殖系统疾病小计</td>
+<td class="shuju">2702830</td>
+<td class="shuju">5.99</td>
+<td class="shuju">0.24</td>
+<td class="shuju">9.03</td>
+<td class="shuju">7645.22</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肾小球疾病</td>
+<td class="shuju">179286</td>
+<td class="shuju">0.4</td>
+<td class="shuju">0.23</td>
+<td class="shuju">10.76</td>
+<td class="shuju">7421.08</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肾盂肾炎</td>
+<td class="shuju">38169</td>
+<td class="shuju">0.08</td>
+<td class="shuju">0.12</td>
+<td class="shuju">9.8</td>
+<td class="shuju">6072.37</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肾衰竭</td>
+<td class="shuju">367682</td>
+<td class="shuju">0.82</td>
+<td class="shuju">1.31</td>
+<td class="shuju">15.24</td>
+<td class="shuju">10543.83</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;尿石病</td>
+<td class="shuju">414259</td>
+<td class="shuju">0.92</td>
+<td class="shuju">0.05</td>
+<td class="shuju">7.28</td>
+<td class="shuju">7566.47</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;膀胱炎</td>
+<td class="shuju">27434</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.07</td>
+<td class="shuju">9.12</td>
+<td class="shuju">6576.74</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;尿道狭窄</td>
+<td class="shuju">12450</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.03</td>
+<td class="shuju">10.76</td>
+<td class="shuju">9784.30</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

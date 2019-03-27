@@ -1,0 +1,285 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2013年农村7岁以下儿童身体发育情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">年龄</td>
+<td class="biaotou" colspan="4">男性</td>
+<td class="biaotou" colspan="4">女性</td>
+</tr><tr><td class="biaotou" colspan="2">体重(千克)</td>
+<td class="biaotou" colspan="2">身高(厘米)</td>
+<td class="biaotou" colspan="2">体重(千克)</td>
+<td class="biaotou" colspan="2">身高(厘米)</td>
+</tr><tr><td class="biaotou">平均值</td>
+<td class="biaotou">标准差</td>
+<td class="biaotou">平均值</td>
+<td class="biaotou">标准差</td>
+<td class="biaotou">平均值</td>
+<td class="biaotou">标准差</td>
+<td class="biaotou">平均值</td>
+<td class="biaotou">标准差</td>
+</tr><tr><td class="zhibiao">0-3天</td>
+<td class="shuju">3.32</td>
+<td class="shuju">0.4</td>
+<td class="shuju">50.4</td>
+<td class="shuju">1.7</td>
+<td class="shuju">3.19</td>
+<td class="shuju">0.39</td>
+<td class="shuju">49.8</td>
+<td class="shuju">1.7</td>
+</tr>
+<tr><td class="zhibiao">1月</td>
+<td class="shuju">5.12</td>
+<td class="shuju">0.73</td>
+<td class="shuju">56.6</td>
+<td class="shuju">2.5</td>
+<td class="shuju">4.79</td>
+<td class="shuju">0.61</td>
+<td class="shuju">55.6</td>
+<td class="shuju">2.2</td>
+</tr>
+<tr><td class="zhibiao">2月</td>
+<td class="shuju">6.29</td>
+<td class="shuju">0.75</td>
+<td class="shuju">60.5</td>
+<td class="shuju">2.4</td>
+<td class="shuju">5.75</td>
+<td class="shuju">0.72</td>
+<td class="shuju">59.0</td>
+<td class="shuju">2.4</td>
+</tr>
+<tr><td class="zhibiao">3月</td>
+<td class="shuju">7.08</td>
+<td class="shuju">0.82</td>
+<td class="shuju">63.0</td>
+<td class="shuju">2.3</td>
+<td class="shuju">6.51</td>
+<td class="shuju">0.76</td>
+<td class="shuju">61.7</td>
+<td class="shuju">2.2</td>
+</tr>
+<tr><td class="zhibiao">4月</td>
+<td class="shuju">7.63</td>
+<td class="shuju">0.89</td>
+<td class="shuju">65.0</td>
+<td class="shuju">2.2</td>
+<td class="shuju">7.08</td>
+<td class="shuju">0.83</td>
+<td class="shuju">63.6</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">5月</td>
+<td class="shuju">8.15</td>
+<td class="shuju">0.93</td>
+<td class="shuju">67.0</td>
+<td class="shuju">2.2</td>
+<td class="shuju">7.54</td>
+<td class="shuju">0.91</td>
+<td class="shuju">65.5</td>
+<td class="shuju">2.4</td>
+</tr>
+<tr><td class="zhibiao">6月</td>
+<td class="shuju">8.57</td>
+<td class="shuju">1.01</td>
+<td class="shuju">69.2</td>
+<td class="shuju">2.5</td>
+<td class="shuju">7.98</td>
+<td class="shuju">0.94</td>
+<td class="shuju">67.6</td>
+<td class="shuju">2.5</td>
+</tr>
+<tr><td class="zhibiao">8月</td>
+<td class="shuju">9.18</td>
+<td class="shuju">1.07</td>
+<td class="shuju">72.1</td>
+<td class="shuju">2.6</td>
+<td class="shuju">8.54</td>
+<td class="shuju">1.05</td>
+<td class="shuju">70.5</td>
+<td class="shuju">2.7</td>
+</tr>
+<tr><td class="zhibiao">10月</td>
+<td class="shuju">9.65</td>
+<td class="shuju">1.1</td>
+<td class="shuju">74.7</td>
+<td class="shuju">2.8</td>
+<td class="shuju">9</td>
+<td class="shuju">1.04</td>
+<td class="shuju">73.2</td>
+<td class="shuju">2.7</td>
+</tr>
+<tr><td class="zhibiao">12月</td>
+<td class="shuju">10.11</td>
+<td class="shuju">1.15</td>
+<td class="shuju">77.5</td>
+<td class="shuju">2.8</td>
+<td class="shuju">9.44</td>
+<td class="shuju">1.12</td>
+<td class="shuju">75.8</td>
+<td class="shuju">2.8</td>
+</tr>
+<tr><td class="zhibiao">15月</td>
+<td class="shuju">10.59</td>
+<td class="shuju">1.20</td>
+<td class="shuju">80.2</td>
+<td class="shuju">3.1</td>
+<td class="shuju">9.97</td>
+<td class="shuju">1.13</td>
+<td class="shuju">78.9</td>
+<td class="shuju">3.1</td>
+</tr>
+<tr><td class="zhibiao">18月</td>
+<td class="shuju">11.21</td>
+<td class="shuju">1.25</td>
+<td class="shuju">82.8</td>
+<td class="shuju">3.2</td>
+<td class="shuju">10.63</td>
+<td class="shuju">1.20</td>
+<td class="shuju">81.7</td>
+<td class="shuju">3.3</td>
+</tr>
+<tr><td class="zhibiao">21月</td>
+<td class="shuju">11.82</td>
+<td class="shuju">1.36</td>
+<td class="shuju">85.8</td>
+<td class="shuju">3.4</td>
+<td class="shuju">11.21</td>
+<td class="shuju">1.27</td>
+<td class="shuju">84.4</td>
+<td class="shuju">3.3</td>
+</tr>
+<tr><td class="zhibiao">2岁</td>
+<td class="shuju">12.65</td>
+<td class="shuju">1.43</td>
+<td class="shuju">89.5</td>
+<td class="shuju">3.8</td>
+<td class="shuju">12.04</td>
+<td class="shuju">1.38</td>
+<td class="shuju">88.2</td>
+<td class="shuju">3.7</td>
+</tr>
+<tr><td class="zhibiao">2.5岁</td>
+<td class="shuju">13.81</td>
+<td class="shuju">1.60</td>
+<td class="shuju">93.7</td>
+<td class="shuju">3.8</td>
+<td class="shuju">13.18</td>
+<td class="shuju">1.52</td>
+<td class="shuju">92.4</td>
+<td class="shuju">3.7</td>
+</tr>
+<tr><td class="zhibiao">3岁</td>
+<td class="shuju">14.65</td>
+<td class="shuju">1.65</td>
+<td class="shuju">97.2</td>
+<td class="shuju">3.9</td>
+<td class="shuju">14.22</td>
+<td class="shuju">1.66</td>
+<td class="shuju">96.2</td>
+<td class="shuju">3.9</td>
+</tr>
+<tr><td class="zhibiao">3.5岁</td>
+<td class="shuju">15.51</td>
+<td class="shuju">1.77</td>
+<td class="shuju">100.5</td>
+<td class="shuju">4.0</td>
+<td class="shuju">15.09</td>
+<td class="shuju">1.82</td>
+<td class="shuju">99.5</td>
+<td class="shuju">4.2</td>
+</tr>
+<tr><td class="zhibiao">4岁</td>
+<td class="shuju">16.49</td>
+<td class="shuju">1.95</td>
+<td class="shuju">103.9</td>
+<td class="shuju">4.4</td>
+<td class="shuju">15.99</td>
+<td class="shuju">1.89</td>
+<td class="shuju">103.1</td>
+<td class="shuju">4.1</td>
+</tr>
+<tr><td class="zhibiao">4.5岁</td>
+<td class="shuju">17.47</td>
+<td class="shuju">2.18</td>
+<td class="shuju">107.4</td>
+<td class="shuju">4.3</td>
+<td class="shuju">16.84</td>
+<td class="shuju">2.07</td>
+<td class="shuju">106.2</td>
+<td class="shuju">4.5</td>
+</tr>
+<tr><td class="zhibiao">5岁</td>
+<td class="shuju">18.46</td>
+<td class="shuju">2.32</td>
+<td class="shuju">110.7</td>
+<td class="shuju">4.5</td>
+<td class="shuju">17.85</td>
+<td class="shuju">2.35</td>
+<td class="shuju">109.7</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">5.5岁</td>
+<td class="shuju">19.58</td>
+<td class="shuju">2.72</td>
+<td class="shuju">113.6</td>
+<td class="shuju">4.7</td>
+<td class="shuju">18.83</td>
+<td class="shuju">2.49</td>
+<td class="shuju">112.7</td>
+<td class="shuju">4.7</td>
+</tr>
+<tr><td class="zhibiao">6-7岁</td>
+<td class="shuju">20.79</td>
+<td class="shuju">2.89</td>
+<td class="shuju">117.4</td>
+<td class="shuju">5.0</td>
+<td class="shuju">20.11</td>
+<td class="shuju">2.87</td>
+<td class="shuju">116.5</td>
+<td class="shuju">5.0</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>资料来源:《2005年中国九市7岁以下儿童体格发育调查研究资料》.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年消毒产品被监督单位情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">产品类别</td>
+<td class="biaotou" rowspan="2">单位数</td>
+<td class="biaotou" rowspan="2">职工总数(人)</td>
+<td class="biaotou" rowspan="2">从业人员数(人)</td>
+<td class="biaotou" rowspan="2">有检验室数</td>
+<td class="biaotou" rowspan="2">有效卫生许可证(份)</td>
+<td class="biaotou" colspan="4">卫生许可证发放情况(份)</td>
+</tr><tr><td class="biaotou">新发</td>
+<td class="biaotou">变更</td>
+<td class="biaotou">延续</td>
+<td class="biaotou">注销</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">4668</td>
+<td class="shuju">214080</td>
+<td class="shuju">72131</td>
+<td class="shuju">2600</td>
+<td class="shuju">4668</td>
+<td class="shuju">691</td>
+<td class="shuju">178</td>
+<td class="shuju">353</td>
+<td class="shuju">64</td>
+</tr>
+<tr><td class="zhibiao">消毒剂类</td>
+<td class="shuju">778</td>
+<td class="shuju">38107</td>
+<td class="shuju">7922</td>
+<td class="shuju">627</td>
+<td class="shuju">778</td>
+<td class="shuju">115</td>
+<td class="shuju">33</td>
+<td class="shuju">67</td>
+<td class="shuju">10</td>
+</tr>
+<tr><td class="zhibiao">消毒器械</td>
+<td class="shuju">319</td>
+<td class="shuju">29372</td>
+<td class="shuju">4697</td>
+<td class="shuju">266</td>
+<td class="shuju">319</td>
+<td class="shuju">60</td>
+<td class="shuju">13</td>
+<td class="shuju">11</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">卫生用品</td>
+<td class="shuju">3571</td>
+<td class="shuju">146601</td>
+<td class="shuju">59512</td>
+<td class="shuju">1707</td>
+<td class="shuju">3571</td>
+<td class="shuju">516</td>
+<td class="shuju">132</td>
+<td class="shuju">275</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;泄物卫生用品</td>
+<td class="shuju">589</td>
+<td class="shuju">27559</td>
+<td class="shuju">15746</td>
+<td class="shuju">231</td>
+<td class="shuju">589</td>
+<td class="shuju">66</td>
+<td class="shuju">24</td>
+<td class="shuju">61</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;湿巾/卫生湿巾</td>
+<td class="shuju">437</td>
+<td class="shuju">9514</td>
+<td class="shuju">5134</td>
+<td class="shuju">221</td>
+<td class="shuju">437</td>
+<td class="shuju">54</td>
+<td class="shuju">12</td>
+<td class="shuju">22</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;抗(抑)菌制剂</td>
+<td class="shuju">787</td>
+<td class="shuju">34464</td>
+<td class="shuju">8171</td>
+<td class="shuju">633</td>
+<td class="shuju">787</td>
+<td class="shuju">122</td>
+<td class="shuju">45</td>
+<td class="shuju">78</td>
+<td class="shuju">8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;隐形眼镜护理用品</td>
+<td class="shuju">6</td>
+<td class="shuju">1326</td>
+<td class="shuju">210</td>
+<td class="shuju">6</td>
+<td class="shuju">6</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;纸巾(纸)</td>
+<td class="shuju">1512</td>
+<td class="shuju">62281</td>
+<td class="shuju">24531</td>
+<td class="shuju">501</td>
+<td class="shuju">1512</td>
+<td class="shuju">239</td>
+<td class="shuju">47</td>
+<td class="shuju">98</td>
+<td class="shuju">22</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生棉/化妆棉</td>
+<td class="shuju">48</td>
+<td class="shuju">1782</td>
+<td class="shuju">876</td>
+<td class="shuju">26</td>
+<td class="shuju">48</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;手(指)套</td>
+<td class="shuju">6</td>
+<td class="shuju">182</td>
+<td class="shuju">117</td>
+<td class="shuju">3</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;纸质餐饮具</td>
+<td class="shuju">186</td>
+<td class="shuju">9493</td>
+<td class="shuju">4727</td>
+<td class="shuju">86</td>
+<td class="shuju">186</td>
+<td class="shuju">28</td>
+<td class="shuju">4</td>
+<td class="shuju">12</td>
+<td class="shuju">7</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份城乡居民每人每日营养素摄入量统计(1992-2012)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">营养素名称</td>
+<td class="biaotou" colspan="3">合计</td>
+<td class="biaotou" colspan="3">城市</td>
+<td class="biaotou" colspan="3">农村</td>
+</tr><tr><td class="biaotou">1992</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">1992</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">1992</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+</tr><tr><td class="zhibiao">能量(卡)</td>
+<td class="shuju">2328.3</td>
+<td class="shuju">2250.5</td>
+<td class="shuju">2172.1</td>
+<td class="shuju">2394.6</td>
+<td class="shuju">2134.0</td>
+<td class="shuju">2052.6</td>
+<td class="shuju">2294</td>
+<td class="shuju">2295.5</td>
+<td class="shuju">2286.4</td>
+</tr>
+<tr><td class="zhibiao">蛋白质(克)</td>
+<td class="shuju">68.0</td>
+<td class="shuju">65.9</td>
+<td class="shuju">64.5</td>
+<td class="shuju">75.1</td>
+<td class="shuju">69.0</td>
+<td class="shuju">65.4</td>
+<td class="shuju">64.3</td>
+<td class="shuju">64.6</td>
+<td class="shuju">63.6</td>
+</tr>
+<tr><td class="zhibiao">脂肪(克)</td>
+<td class="shuju">58.3</td>
+<td class="shuju">76.2</td>
+<td class="shuju">79.9</td>
+<td class="shuju">77.7</td>
+<td class="shuju">85.5</td>
+<td class="shuju">83.8</td>
+<td class="shuju">48.3</td>
+<td class="shuju">72.7</td>
+<td class="shuju">76.2</td>
+</tr>
+<tr><td class="zhibiao">碳水化合物(克)</td>
+<td class="shuju">378.4</td>
+<td class="shuju">321.2</td>
+<td class="shuju">300.8</td>
+<td class="shuju">340.5</td>
+<td class="shuju">268.3</td>
+<td class="shuju">261.1</td>
+<td class="shuju">397.9</td>
+<td class="shuju">341.6</td>
+<td class="shuju">338.8</td>
+</tr>
+<tr><td class="zhibiao">膳食纤维(克)</td>
+<td class="shuju">13.3</td>
+<td class="shuju">12.0</td>
+<td class="shuju">10.8</td>
+<td class="shuju">11.6</td>
+<td class="shuju">11.1</td>
+<td class="shuju">10.8</td>
+<td class="shuju">14.1</td>
+<td class="shuju">12.4</td>
+<td class="shuju">10.9</td>
+</tr>
+<tr><td class="zhibiao">视黄醇当量(微克)</td>
+<td class="shuju">476.0</td>
+<td class="shuju">469.2</td>
+<td class="shuju">443.5</td>
+<td class="shuju">605.5</td>
+<td class="shuju">547.2</td>
+<td class="shuju">514.5</td>
+<td class="shuju">409.0</td>
+<td class="shuju">439.1</td>
+<td class="shuju">375.4</td>
+</tr>
+<tr><td class="zhibiao">硫胺素(毫克)</td>
+<td class="shuju">1.2</td>
+<td class="shuju">1.0</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1.1</td>
+<td class="shuju">1.0</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1.2</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1.0</td>
+</tr>
+<tr><td class="zhibiao">核黄素(毫克)</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.9</td>
+<td class="shuju">0.9</td>
+<td class="shuju">0.8</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.7</td>
+<td class="shuju">0.7</td>
+</tr>
+<tr><td class="zhibiao">维生素E(毫克)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">35.6</td>
+<td class="shuju">35.9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">37.3</td>
+<td class="shuju">37.5</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">35.0</td>
+<td class="shuju">34.3</td>
+</tr>
+<tr><td class="zhibiao">钾(毫克)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1700.1</td>
+<td class="shuju">1616.9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1722.4</td>
+<td class="shuju">1660.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1691.5</td>
+<td class="shuju">1574.3</td>
+</tr>
+<tr><td class="zhibiao">钠(毫克)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6268.2</td>
+<td class="shuju">5702.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6007.7</td>
+<td class="shuju">5858.8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6368.8</td>
+<td class="shuju">5554.6</td>
+</tr>
+<tr><td class="zhibiao">钙(毫克)</td>
+<td class="shuju">405.4</td>
+<td class="shuju">388.8</td>
+<td class="shuju">366.1</td>
+<td class="shuju">457.9</td>
+<td class="shuju">438.6</td>
+<td class="shuju">412.4</td>
+<td class="shuju">378.2</td>
+<td class="shuju">369.6</td>
+<td class="shuju">321.4</td>
+</tr>
+<tr><td class="zhibiao">铁(毫克)</td>
+<td class="shuju">23.4</td>
+<td class="shuju">23.2</td>
+<td class="shuju">21.5</td>
+<td class="shuju">25.5</td>
+<td class="shuju">23.7</td>
+<td class="shuju">21.9</td>
+<td class="shuju">22.4</td>
+<td class="shuju">23.1</td>
+<td class="shuju">21.2</td>
+</tr>
+<tr><td class="zhibiao">锌(毫克)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11.3</td>
+<td class="shuju">10.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11.5</td>
+<td class="shuju">10.6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11.2</td>
+<td class="shuju">10.8</td>
+</tr>
+<tr><td class="zhibiao">硒(毫克)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">39.9</td>
+<td class="shuju">44.6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">46.5</td>
+<td class="shuju">47.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">37.4</td>
+<td class="shuju">42.2</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>资料来源:1992全国营养调查.2002.2012中国居民营养与健康监测.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

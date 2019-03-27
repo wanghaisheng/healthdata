@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年中医类医疗机构卫生技术人员数统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">机构类别</td>
+<td class="biaotou" colspan="2">中医类别执业(助理)医师(人)</td>
+<td class="biaotou" colspan="2">中药师(士)(人)</td>
+<td class="biaotou" colspan="2">注册护士(人)</td>
+<td class="biaotou" colspan="2">中医类别占同类机构执业(助理)医师总数的%</td>
+<td class="biaotou" colspan="2">中药师(士)占同类机构药师(士)总数的%</td>
+</tr><tr><td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">154821</td>
+<td class="shuju">164289</td>
+<td class="shuju">38016</td>
+<td class="shuju">39714</td>
+<td class="shuju">286083</td>
+<td class="shuju">317876</td>
+<td class="shuju">51.5</td>
+<td class="shuju">51.7</td>
+<td class="shuju">59.2</td>
+<td class="shuju">58.7</td>
+</tr>
+<tr><td class="zhibiao">中医类医院</td>
+<td class="shuju">117067</td>
+<td class="shuju">123946</td>
+<td class="shuju">30453</td>
+<td class="shuju">31737</td>
+<td class="shuju">270831</td>
+<td class="shuju">301936</td>
+<td class="shuju">47.3</td>
+<td class="shuju">47.2</td>
+<td class="shuju">55.4</td>
+<td class="shuju">54.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医医院</td>
+<td class="shuju">106620</td>
+<td class="shuju">112418</td>
+<td class="shuju">27801</td>
+<td class="shuju">28859</td>
+<td class="shuju">241723</td>
+<td class="shuju">267493</td>
+<td class="shuju">48.4</td>
+<td class="shuju">48.6</td>
+<td class="shuju">56</td>
+<td class="shuju">55.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医综合医院</td>
+<td class="shuju">101636</td>
+<td class="shuju">106807</td>
+<td class="shuju">26788</td>
+<td class="shuju">27726</td>
+<td class="shuju">231944</td>
+<td class="shuju">256210</td>
+<td class="shuju">48.2</td>
+<td class="shuju">48.3</td>
+<td class="shuju">56</td>
+<td class="shuju">55.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医专科医院</td>
+<td class="shuju">4984</td>
+<td class="shuju">5611</td>
+<td class="shuju">1013</td>
+<td class="shuju">1133</td>
+<td class="shuju">9779</td>
+<td class="shuju">11283</td>
+<td class="shuju">53.1</td>
+<td class="shuju">53.3</td>
+<td class="shuju">55.4</td>
+<td class="shuju">54.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">6597</td>
+<td class="shuju">7529</td>
+<td class="shuju">1590</td>
+<td class="shuju">1678</td>
+<td class="shuju">25228</td>
+<td class="shuju">29732</td>
+<td class="shuju">30.8</td>
+<td class="shuju">30.9</td>
+<td class="shuju">41</td>
+<td class="shuju">39.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医医院</td>
+<td class="shuju">3850</td>
+<td class="shuju">3999</td>
+<td class="shuju">1062</td>
+<td class="shuju">1200</td>
+<td class="shuju">3880</td>
+<td class="shuju">4711</td>
+<td class="shuju">64.6</td>
+<td class="shuju">60.9</td>
+<td class="shuju">72.5</td>
+<td class="shuju">71.7</td>
+</tr>
+<tr><td class="zhibiao">中医类门诊部</td>
+<td class="shuju">5327</td>
+<td class="shuju">6111</td>
+<td class="shuju">1268</td>
+<td class="shuju">1376</td>
+<td class="shuju">2800</td>
+<td class="shuju">3139</td>
+<td class="shuju">72</td>
+<td class="shuju">72.7</td>
+<td class="shuju">75.8</td>
+<td class="shuju">75.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医门诊部</td>
+<td class="shuju">4829</td>
+<td class="shuju">5568</td>
+<td class="shuju">1167</td>
+<td class="shuju">1258</td>
+<td class="shuju">1947</td>
+<td class="shuju">2196</td>
+<td class="shuju">80.6</td>
+<td class="shuju">81.5</td>
+<td class="shuju">80.6</td>
+<td class="shuju">80.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合门诊部</td>
+<td class="shuju">454</td>
+<td class="shuju">510</td>
+<td class="shuju">94</td>
+<td class="shuju">109</td>
+<td class="shuju">837</td>
+<td class="shuju">926</td>
+<td class="shuju">33.5</td>
+<td class="shuju">33.2</td>
+<td class="shuju">43.5</td>
+<td class="shuju">44.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医门诊部</td>
+<td class="shuju">44</td>
+<td class="shuju">33</td>
+<td class="shuju">7</td>
+<td class="shuju">9</td>
+<td class="shuju">16</td>
+<td class="shuju">17</td>
+<td class="shuju">81.5</td>
+<td class="shuju">86.8</td>
+<td class="shuju">87.5</td>
+<td class="shuju">100</td>
+</tr>
+<tr><td class="zhibiao">中医类诊所</td>
+<td class="shuju">32427</td>
+<td class="shuju">34232</td>
+<td class="shuju">6295</td>
+<td class="shuju">6601</td>
+<td class="shuju">12452</td>
+<td class="shuju">12801</td>
+<td class="shuju">70.8</td>
+<td class="shuju">72.4</td>
+<td class="shuju">83.4</td>
+<td class="shuju">84.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医诊所</td>
+<td class="shuju">27760</td>
+<td class="shuju">29353</td>
+<td class="shuju">5740</td>
+<td class="shuju">6028</td>
+<td class="shuju">7600</td>
+<td class="shuju">7824</td>
+<td class="shuju">79.2</td>
+<td class="shuju">80.2</td>
+<td class="shuju">87.4</td>
+<td class="shuju">88.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中西医结合诊所</td>
+<td class="shuju">4396</td>
+<td class="shuju">4563</td>
+<td class="shuju">507</td>
+<td class="shuju">519</td>
+<td class="shuju">4743</td>
+<td class="shuju">4891</td>
+<td class="shuju">42.7</td>
+<td class="shuju">44.6</td>
+<td class="shuju">54.8</td>
+<td class="shuju">57.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;民族医诊所</td>
+<td class="shuju">271</td>
+<td class="shuju">316</td>
+<td class="shuju">48</td>
+<td class="shuju">54</td>
+<td class="shuju">109</td>
+<td class="shuju">86</td>
+<td class="shuju">62.3</td>
+<td class="shuju">69.9</td>
+<td class="shuju">84.2</td>
+<td class="shuju">87.1</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

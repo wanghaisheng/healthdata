@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2013年调查地区居民两周就诊率统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" rowspan="2">合计</td>
+<td class="biaotou" colspan="4">城市</td>
+<td class="biaotou" colspan="4">农村</td>
+</tr><tr><td class="biaotou">小计</td>
+<td class="biaotou">东</td>
+<td class="biaotou">中</td>
+<td class="biaotou">西</td>
+<td class="biaotou">小计</td>
+<td class="biaotou">东</td>
+<td class="biaotou">中</td>
+<td class="biaotou">西</td>
+</tr><tr><td class="zhibiao">调查人数</td>
+<td class="shuju">273688</td>
+<td class="shuju">133393</td>
+<td class="shuju">44499</td>
+<td class="shuju">44774</td>
+<td class="shuju">44120</td>
+<td class="shuju">140295</td>
+<td class="shuju">45875</td>
+<td class="shuju">44883</td>
+<td class="shuju">49537</td>
+</tr>
+<tr><td class="zhibiao">就诊人次数</td>
+<td class="shuju">35681</td>
+<td class="shuju">17728</td>
+<td class="shuju">6835</td>
+<td class="shuju">3944</td>
+<td class="shuju">6949</td>
+<td class="shuju">17953</td>
+<td class="shuju">7389</td>
+<td class="shuju">5108</td>
+<td class="shuju">5456</td>
+</tr>
+<tr><td class="zhibiao">两周就诊率(%)</td>
+<td class="shuju">13.0</td>
+<td class="shuju">13.3</td>
+<td class="shuju">15.4</td>
+<td class="shuju">8.8</td>
+<td class="shuju">15.8</td>
+<td class="shuju">12.8</td>
+<td class="shuju">16.1</td>
+<td class="shuju">11.4</td>
+<td class="shuju">11.0</td>
+</tr>
+<tr><td class="zhibiao">分性别两周就诊率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性</td>
+<td class="shuju">11.9</td>
+<td class="shuju">12.2</td>
+<td class="shuju">14.4</td>
+<td class="shuju">8.1</td>
+<td class="shuju">14.2</td>
+<td class="shuju">11.7</td>
+<td class="shuju">15.3</td>
+<td class="shuju">10.5</td>
+<td class="shuju">9.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性</td>
+<td class="shuju">14.1</td>
+<td class="shuju">14.3</td>
+<td class="shuju">16.2</td>
+<td class="shuju">9.5</td>
+<td class="shuju">17.2</td>
+<td class="shuju">13.9</td>
+<td class="shuju">16.9</td>
+<td class="shuju">12.3</td>
+<td class="shuju">12.7</td>
+</tr>
+<tr><td class="zhibiao">年龄别两周就诊率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;0-4岁</td>
+<td class="shuju">14.6</td>
+<td class="shuju">15.3</td>
+<td class="shuju">14.4</td>
+<td class="shuju">11.4</td>
+<td class="shuju">19.7</td>
+<td class="shuju">14.1</td>
+<td class="shuju">21.3</td>
+<td class="shuju">12.9</td>
+<td class="shuju">9.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;5-14岁</td>
+<td class="shuju">6.2</td>
+<td class="shuju">6.3</td>
+<td class="shuju">7.6</td>
+<td class="shuju">3.8</td>
+<td class="shuju">7.6</td>
+<td class="shuju">6.1</td>
+<td class="shuju">10.3</td>
+<td class="shuju">5.6</td>
+<td class="shuju">3.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;15-24岁</td>
+<td class="shuju">3.4</td>
+<td class="shuju">3.3</td>
+<td class="shuju">4.6</td>
+<td class="shuju">1.8</td>
+<td class="shuju">3.6</td>
+<td class="shuju">3.5</td>
+<td class="shuju">4.0</td>
+<td class="shuju">3.1</td>
+<td class="shuju">3.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;25-34岁</td>
+<td class="shuju">4.8</td>
+<td class="shuju">4.9</td>
+<td class="shuju">4.9</td>
+<td class="shuju">3.6</td>
+<td class="shuju">6.4</td>
+<td class="shuju">4.5</td>
+<td class="shuju">4.7</td>
+<td class="shuju">5.1</td>
+<td class="shuju">3.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;35-44岁</td>
+<td class="shuju">8.5</td>
+<td class="shuju">8.0</td>
+<td class="shuju">7.7</td>
+<td class="shuju">5.4</td>
+<td class="shuju">10.8</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.5</td>
+<td class="shuju">8.4</td>
+<td class="shuju">8.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;45-54岁</td>
+<td class="shuju">13.7</td>
+<td class="shuju">13.2</td>
+<td class="shuju">13.2</td>
+<td class="shuju">10.1</td>
+<td class="shuju">16.4</td>
+<td class="shuju">14.1</td>
+<td class="shuju">15.8</td>
+<td class="shuju">13.1</td>
+<td class="shuju">13.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;55-64岁</td>
+<td class="shuju">19.7</td>
+<td class="shuju">19.1</td>
+<td class="shuju">21.9</td>
+<td class="shuju">12.5</td>
+<td class="shuju">22.6</td>
+<td class="shuju">20.4</td>
+<td class="shuju">23.7</td>
+<td class="shuju">16.7</td>
+<td class="shuju">20.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;65岁及以上</td>
+<td class="shuju">26.4</td>
+<td class="shuju">27.8</td>
+<td class="shuju">32.8</td>
+<td class="shuju">17.4</td>
+<td class="shuju">32.8</td>
+<td class="shuju">24.8</td>
+<td class="shuju">30.9</td>
+<td class="shuju">20.3</td>
+<td class="shuju">22.4</td>
+</tr>
+<tr><td class="zhibiao">文化程度别两周就诊率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;文盲半文盲</td>
+<td class="shuju">22.8</td>
+<td class="shuju">25.8</td>
+<td class="shuju">27.4</td>
+<td class="shuju">15.8</td>
+<td class="shuju">31.6</td>
+<td class="shuju">21.4</td>
+<td class="shuju">28.8</td>
+<td class="shuju">19.2</td>
+<td class="shuju">18.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;小学</td>
+<td class="shuju">18.6</td>
+<td class="shuju">21.5</td>
+<td class="shuju">26.4</td>
+<td class="shuju">14.3</td>
+<td class="shuju">23.4</td>
+<td class="shuju">16.9</td>
+<td class="shuju">22.1</td>
+<td class="shuju">14.4</td>
+<td class="shuju">14.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;初中</td>
+<td class="shuju">11.5</td>
+<td class="shuju">13.2</td>
+<td class="shuju">16.4</td>
+<td class="shuju">8.7</td>
+<td class="shuju">14.7</td>
+<td class="shuju">10.1</td>
+<td class="shuju">11.7</td>
+<td class="shuju">9.3</td>
+<td class="shuju">9.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;高中.技校</td>
+<td class="shuju">9.8</td>
+<td class="shuju">10.3</td>
+<td class="shuju">13.3</td>
+<td class="shuju">7.2</td>
+<td class="shuju">10.5</td>
+<td class="shuju">8.6</td>
+<td class="shuju">11.1</td>
+<td class="shuju">8.4</td>
+<td class="shuju">5.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中专</td>
+<td class="shuju">10.7</td>
+<td class="shuju">11.9</td>
+<td class="shuju">12.6</td>
+<td class="shuju">8.4</td>
+<td class="shuju">15.3</td>
+<td class="shuju">7.5</td>
+<td class="shuju">8.1</td>
+<td class="shuju">6.8</td>
+<td class="shuju">7.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大专</td>
+<td class="shuju">7.9</td>
+<td class="shuju">8.2</td>
+<td class="shuju">9.3</td>
+<td class="shuju">6.4</td>
+<td class="shuju">9.1</td>
+<td class="shuju">6.5</td>
+<td class="shuju">6.7</td>
+<td class="shuju">6.0</td>
+<td class="shuju">6.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大学及以上</td>
+<td class="shuju">5.9</td>
+<td class="shuju">6.3</td>
+<td class="shuju">7.7</td>
+<td class="shuju">4.3</td>
+<td class="shuju">6.6</td>
+<td class="shuju">2.7</td>
+<td class="shuju">2.3</td>
+<td class="shuju">2.8</td>
+<td class="shuju">3.2</td>
+</tr>
+<tr><td class="zhibiao">医疗保障形式别两周就诊率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇职工医疗保险</td>
+<td class="shuju">13.4</td>
+<td class="shuju">13.4</td>
+<td class="shuju">16.2</td>
+<td class="shuju">9.7</td>
+<td class="shuju">13.3</td>
+<td class="shuju">13.6</td>
+<td class="shuju">15.0</td>
+<td class="shuju">10.5</td>
+<td class="shuju">13.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇居民医疗保险</td>
+<td class="shuju">12.4</td>
+<td class="shuju">12.4</td>
+<td class="shuju">16.7</td>
+<td class="shuju">8.6</td>
+<td class="shuju">10.2</td>
+<td class="shuju">12.5</td>
+<td class="shuju">14.4</td>
+<td class="shuju">9.0</td>
+<td class="shuju">12.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新型农村合作医疗</td>
+<td class="shuju">13.3</td>
+<td class="shuju">15.4</td>
+<td class="shuju">15.0</td>
+<td class="shuju">9.1</td>
+<td class="shuju">20.6</td>
+<td class="shuju">12.5</td>
+<td class="shuju">15.8</td>
+<td class="shuju">11.9</td>
+<td class="shuju">10.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城乡居民合作医疗</td>
+<td class="shuju">13.9</td>
+<td class="shuju">12.9</td>
+<td class="shuju">6.4</td>
+<td class="shuju">8.0</td>
+<td class="shuju">17.3</td>
+<td class="shuju">14.3</td>
+<td class="shuju">17.2</td>
+<td class="shuju">8.8</td>
+<td class="shuju">12.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他社会医疗保险</td>
+<td class="shuju">14.8</td>
+<td class="shuju">16.6</td>
+<td class="shuju">20.0</td>
+<td class="shuju">7.3</td>
+<td class="shuju">18.9</td>
+<td class="shuju">12.3</td>
+<td class="shuju">13.7</td>
+<td class="shuju">11.8</td>
+<td class="shuju">11.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;无社保</td>
+<td class="shuju">8.4</td>
+<td class="shuju">6.7</td>
+<td class="shuju">8.1</td>
+<td class="shuju">4.5</td>
+<td class="shuju">8.3</td>
+<td class="shuju">12.5</td>
+<td class="shuju">20.1</td>
+<td class="shuju">8.3</td>
+<td class="shuju">8.4</td>
+</tr>
+<tr><td class="zhibiao">就业状况别两周就诊率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;在岗</td>
+<td class="shuju">11.5</td>
+<td class="shuju">10.2</td>
+<td class="shuju">9.3</td>
+<td class="shuju">6.0</td>
+<td class="shuju">14.6</td>
+<td class="shuju">12.4</td>
+<td class="shuju">14.2</td>
+<td class="shuju">11.3</td>
+<td class="shuju">11.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;离退休</td>
+<td class="shuju">21.4</td>
+<td class="shuju">21.6</td>
+<td class="shuju">27.0</td>
+<td class="shuju">14.3</td>
+<td class="shuju">22.4</td>
+<td class="shuju">20.3</td>
+<td class="shuju">29.1</td>
+<td class="shuju">14.1</td>
+<td class="shuju">14.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;学生</td>
+<td class="shuju">3.1</td>
+<td class="shuju">3.2</td>
+<td class="shuju">4.4</td>
+<td class="shuju">1.2</td>
+<td class="shuju">4.0</td>
+<td class="shuju">3.0</td>
+<td class="shuju">4.3</td>
+<td class="shuju">2.8</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;失业</td>
+<td class="shuju">15.5</td>
+<td class="shuju">15.3</td>
+<td class="shuju">15.0</td>
+<td class="shuju">10.7</td>
+<td class="shuju">21.2</td>
+<td class="shuju">15.9</td>
+<td class="shuju">11.2</td>
+<td class="shuju">9.8</td>
+<td class="shuju">24.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;无业</td>
+<td class="shuju">20.4</td>
+<td class="shuju">18.5</td>
+<td class="shuju">22.7</td>
+<td class="shuju">13.4</td>
+<td class="shuju">21.5</td>
+<td class="shuju">22.2</td>
+<td class="shuju">26.9</td>
+<td class="shuju">18.1</td>
+<td class="shuju">21.0</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

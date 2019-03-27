@@ -1,0 +1,355 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年医学专业研究生数统计(1978-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">年份</td>
+<td class="biaotou" colspan="3">研究生总数(人)</td>
+<td class="biaotou" colspan="3">医学专业</td>
+</tr><tr><td class="biaotou">招生数</td>
+<td class="biaotou">在校生数</td>
+<td class="biaotou">毕业生数</td>
+<td class="biaotou">招生数</td>
+<td class="biaotou">在校生数</td>
+<td class="biaotou">毕业生数</td>
+</tr><tr><td class="zhibiao">1978</td>
+<td class="shuju">10708</td>
+<td class="shuju">10934</td>
+<td class="shuju">9</td>
+<td class="shuju">1417</td>
+<td class="shuju">1474</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1979</td>
+<td class="shuju">8110</td>
+<td class="shuju">18830</td>
+<td class="shuju">140</td>
+<td class="shuju">1462</td>
+<td class="shuju">3113</td>
+<td class="shuju">57</td>
+</tr>
+<tr><td class="zhibiao">1980</td>
+<td class="shuju">3616</td>
+<td class="shuju">21604</td>
+<td class="shuju">476</td>
+<td class="shuju">640</td>
+<td class="shuju">3651</td>
+<td class="shuju">32</td>
+</tr>
+<tr><td class="zhibiao">1981</td>
+<td class="shuju">9363</td>
+<td class="shuju">18848</td>
+<td class="shuju">11669</td>
+<td class="shuju">591</td>
+<td class="shuju">2442</td>
+<td class="shuju">1512</td>
+</tr>
+<tr><td class="zhibiao">1982</td>
+<td class="shuju">11080</td>
+<td class="shuju">25847</td>
+<td class="shuju">4058</td>
+<td class="shuju">610</td>
+<td class="shuju">2558</td>
+<td class="shuju">558</td>
+</tr>
+<tr><td class="zhibiao">1983</td>
+<td class="shuju">15642</td>
+<td class="shuju">37166</td>
+<td class="shuju">4497</td>
+<td class="shuju">1869</td>
+<td class="shuju">3781</td>
+<td class="shuju">966</td>
+</tr>
+<tr><td class="zhibiao">1984</td>
+<td class="shuju">23181</td>
+<td class="shuju">57566</td>
+<td class="shuju">2756</td>
+<td class="shuju">2243</td>
+<td class="shuju">5608</td>
+<td class="shuju">424</td>
+</tr>
+<tr><td class="zhibiao">1985</td>
+<td class="shuju">46871</td>
+<td class="shuju">87331</td>
+<td class="shuju">17004</td>
+<td class="shuju">4373</td>
+<td class="shuju">9196</td>
+<td class="shuju">777</td>
+</tr>
+<tr><td class="zhibiao">1986</td>
+<td class="shuju">41310</td>
+<td class="shuju">110371</td>
+<td class="shuju">16950</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1987</td>
+<td class="shuju">39017</td>
+<td class="shuju">120191</td>
+<td class="shuju">27603</td>
+<td class="shuju">4583</td>
+<td class="shuju">13331</td>
+<td class="shuju">2359</td>
+</tr>
+<tr><td class="zhibiao">1988</td>
+<td class="shuju">35645</td>
+<td class="shuju">112776</td>
+<td class="shuju">40838</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1989</td>
+<td class="shuju">28569</td>
+<td class="shuju">101339</td>
+<td class="shuju">37232</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">29649</td>
+<td class="shuju">93018</td>
+<td class="shuju">35440</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">29679</td>
+<td class="shuju">88128</td>
+<td class="shuju">23537</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">33439</td>
+<td class="shuju">94164</td>
+<td class="shuju">25692</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">42145</td>
+<td class="shuju">106771</td>
+<td class="shuju">28214</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">50864</td>
+<td class="shuju">127935</td>
+<td class="shuju">28047</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">51053</td>
+<td class="shuju">145443</td>
+<td class="shuju">31877</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">59398</td>
+<td class="shuju">163322</td>
+<td class="shuju">39652</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">63749</td>
+<td class="shuju">176353</td>
+<td class="shuju">46539</td>
+<td class="shuju">6452</td>
+<td class="shuju">17652</td>
+<td class="shuju">4886</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">72508</td>
+<td class="shuju">198885</td>
+<td class="shuju">47077</td>
+<td class="shuju">7280</td>
+<td class="shuju">19375</td>
+<td class="shuju">4681</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">92225</td>
+<td class="shuju">233513</td>
+<td class="shuju">54670</td>
+<td class="shuju">9056</td>
+<td class="shuju">22706</td>
+<td class="shuju">5370</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">128484</td>
+<td class="shuju">301239</td>
+<td class="shuju">58767</td>
+<td class="shuju">12832</td>
+<td class="shuju">30070</td>
+<td class="shuju">6166</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">165197</td>
+<td class="shuju">393256</td>
+<td class="shuju">67809</td>
+<td class="shuju">16274</td>
+<td class="shuju">37571</td>
+<td class="shuju">6722</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">203000</td>
+<td class="shuju">501000</td>
+<td class="shuju">81000</td>
+<td class="shuju">16800</td>
+<td class="shuju">38837</td>
+<td class="shuju">6992</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">268925</td>
+<td class="shuju">651260</td>
+<td class="shuju">111091</td>
+<td class="shuju">26501</td>
+<td class="shuju">63939</td>
+<td class="shuju">12207</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">326286</td>
+<td class="shuju">819896</td>
+<td class="shuju">150777</td>
+<td class="shuju">33012</td>
+<td class="shuju">81859</td>
+<td class="shuju">16128</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">364831</td>
+<td class="shuju">978610</td>
+<td class="shuju">189728</td>
+<td class="shuju">31602</td>
+<td class="shuju">80107</td>
+<td class="shuju">21923</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">397925</td>
+<td class="shuju">1104653</td>
+<td class="shuju">255902</td>
+<td class="shuju">42200</td>
+<td class="shuju">115901</td>
+<td class="shuju">26415</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">418612</td>
+<td class="shuju">1195047</td>
+<td class="shuju">311839</td>
+<td class="shuju">44161</td>
+<td class="shuju">128471</td>
+<td class="shuju">32453</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">446422</td>
+<td class="shuju">1283046</td>
+<td class="shuju">344825</td>
+<td class="shuju">47412</td>
+<td class="shuju">140030</td>
+<td class="shuju">37402</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">510953</td>
+<td class="shuju">1404942</td>
+<td class="shuju">371273</td>
+<td class="shuju">44713</td>
+<td class="shuju">128205</td>
+<td class="shuju">34629</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">538177</td>
+<td class="shuju">1538416</td>
+<td class="shuju">383600</td>
+<td class="shuju">40067</td>
+<td class="shuju">128916</td>
+<td class="shuju">35582</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">560168</td>
+<td class="shuju">1645845</td>
+<td class="shuju">429994</td>
+<td class="shuju">60831</td>
+<td class="shuju">181129</td>
+<td class="shuju">49039</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">589673</td>
+<td class="shuju">1719818</td>
+<td class="shuju">486455</td>
+<td class="shuju">64868</td>
+<td class="shuju">188666</td>
+<td class="shuju">56001</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">611381</td>
+<td class="shuju">1793953</td>
+<td class="shuju">513626</td>
+<td class="shuju">66525</td>
+<td class="shuju">196621</td>
+<td class="shuju">58550</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">621323</td>
+<td class="shuju">1847689</td>
+<td class="shuju">535863</td>
+<td class="shuju">70466</td>
+<td class="shuju">204148</td>
+<td class="shuju">61192</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:研究生包括博士和硕士研究生.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

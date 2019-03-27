@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份专业公共卫生机构数统计(2005-2014)(按登记注册类型/主办单位/机构类别分)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">机构分类</td>
+<td class="biaotou">2005</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">11177</td>
+<td class="shuju">11835</td>
+<td class="shuju">11926</td>
+<td class="shuju">12083</td>
+<td class="shuju">31155</td>
+<td class="shuju">35029</td>
+</tr>
+<tr><td class="zhibiao">按登记注册类型分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;公立</td>
+<td class="shuju">11127</td>
+<td class="shuju">11764</td>
+<td class="shuju">11845</td>
+<td class="shuju">12004</td>
+<td class="shuju">30824</td>
+<td class="shuju">34382</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非公立</td>
+<td class="shuju">50</td>
+<td class="shuju">71</td>
+<td class="shuju">81</td>
+<td class="shuju">79</td>
+<td class="shuju">331</td>
+<td class="shuju">401</td>
+</tr>
+<tr><td class="zhibiao">按主办单位分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;政府办</td>
+<td class="shuju">10513</td>
+<td class="shuju">11421</td>
+<td class="shuju">11452</td>
+<td class="shuju">11642</td>
+<td class="shuju">28269</td>
+<td class="shuju">31140</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社会办</td>
+<td class="shuju">650</td>
+<td class="shuju">396</td>
+<td class="shuju">452</td>
+<td class="shuju">421</td>
+<td class="shuju">2858</td>
+<td class="shuju">3617</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;个人办</td>
+<td class="shuju">14</td>
+<td class="shuju">18</td>
+<td class="shuju">22</td>
+<td class="shuju">20</td>
+<td class="shuju">28</td>
+<td class="shuju">26</td>
+</tr>
+<tr><td class="zhibiao">按机构类别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;疾病预防控制中心</td>
+<td class="shuju">3585</td>
+<td class="shuju">3513</td>
+<td class="shuju">3484</td>
+<td class="shuju">3490</td>
+<td class="shuju">3516</td>
+<td class="shuju">3490</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科疾病防治院(所/站)</td>
+<td class="shuju">1502</td>
+<td class="shuju">1274</td>
+<td class="shuju">1294</td>
+<td class="shuju">1289</td>
+<td class="shuju">1271</td>
+<td class="shuju">1242</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;健康教育所(站)</td>
+<td class="shuju">134</td>
+<td class="shuju">139</td>
+<td class="shuju">147</td>
+<td class="shuju">160</td>
+<td class="shuju">169</td>
+<td class="shuju">172</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇幼保健院(所/站)</td>
+<td class="shuju">3021</td>
+<td class="shuju">3025</td>
+<td class="shuju">3036</td>
+<td class="shuju">3044</td>
+<td class="shuju">3144</td>
+<td class="shuju">3098</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;急救中心(站)</td>
+<td class="shuju">141</td>
+<td class="shuju">245</td>
+<td class="shuju">270</td>
+<td class="shuju">295</td>
+<td class="shuju">312</td>
+<td class="shuju">325</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;采供血机构</td>
+<td class="shuju">577</td>
+<td class="shuju">5.3</td>
+<td class="shuju">525</td>
+<td class="shuju">531</td>
+<td class="shuju">538</td>
+<td class="shuju">541</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;卫生监督所(中心)</td>
+<td class="shuju">1702</td>
+<td class="shuju">2992</td>
+<td class="shuju">3022</td>
+<td class="shuju">3088</td>
+<td class="shuju">2967</td>
+<td class="shuju">2975</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;计划生育技术服务机构</td>
+<td class="shuju">515</td>
+<td class="shuju">117</td>
+<td class="shuju">148</td>
+<td class="shuju">186</td>
+<td class="shuju">19238</td>
+<td class="shuju">23186</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:2013年起增加原计生部门主管的计划生育技术服务机构.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

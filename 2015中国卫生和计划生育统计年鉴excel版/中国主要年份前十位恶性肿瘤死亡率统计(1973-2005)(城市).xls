@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份前十位恶性肿瘤死亡率统计(1973-2005)(城市)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">顺位</td>
+<td class="biaotou" colspan="2">2004-2005</td>
+<td class="biaotou" colspan="2">1990-1992</td>
+<td class="biaotou" colspan="2">1973-1975</td>
+</tr><tr><td class="biaotou">疾病名称</td>
+<td class="biaotou">死亡率(1/10万)</td>
+<td class="biaotou">疾病名称</td>
+<td class="biaotou">死亡率(1/10万)</td>
+<td class="biaotou">疾病名称</td>
+<td class="biaotou">死亡率(1/10万)</td>
+</tr><tr><td class="zhibiao">1</td>
+<td class="shuju">肺癌</td>
+<td class="shuju">40.98</td>
+<td class="shuju">肺癌</td>
+<td class="shuju">27.5</td>
+<td class="shuju">胃癌</td>
+<td class="shuju">20.19</td>
+</tr>
+<tr><td class="zhibiao">2</td>
+<td class="shuju">肝癌</td>
+<td class="shuju">24.93</td>
+<td class="shuju">肝癌</td>
+<td class="shuju">19.5</td>
+<td class="shuju">肝癌</td>
+<td class="shuju">14.05</td>
+</tr>
+<tr><td class="zhibiao">3</td>
+<td class="shuju">胃癌</td>
+<td class="shuju">22.97</td>
+<td class="shuju">胃癌</td>
+<td class="shuju">19.44</td>
+<td class="shuju">食管癌</td>
+<td class="shuju">13.59</td>
+</tr>
+<tr><td class="zhibiao">4</td>
+<td class="shuju">食管癌</td>
+<td class="shuju">10.97</td>
+<td class="shuju">食管癌</td>
+<td class="shuju">9.62</td>
+<td class="shuju">肺癌</td>
+<td class="shuju">12.61</td>
+</tr>
+<tr><td class="zhibiao">5</td>
+<td class="shuju">结直肠癌</td>
+<td class="shuju">9.78</td>
+<td class="shuju">结直肠癌</td>
+<td class="shuju">6.98</td>
+<td class="shuju">子宫颈癌</td>
+<td class="shuju">5.81</td>
+</tr>
+<tr><td class="zhibiao">6</td>
+<td class="shuju">胰腺癌</td>
+<td class="shuju">4.44</td>
+<td class="shuju">白血病</td>
+<td class="shuju">3.66</td>
+<td class="shuju">结直肠癌</td>
+<td class="shuju">5.29</td>
+</tr>
+<tr><td class="zhibiao">7</td>
+<td class="shuju">白血病</td>
+<td class="shuju">4.17</td>
+<td class="shuju">女性乳腺癌</td>
+<td class="shuju">2.56</td>
+<td class="shuju">白血病</td>
+<td class="shuju">3.17</td>
+</tr>
+<tr><td class="zhibiao">8</td>
+<td class="shuju">女性乳腺癌</td>
+<td class="shuju">3.98</td>
+<td class="shuju">鼻咽癌</td>
+<td class="shuju">1.93</td>
+<td class="shuju">鼻咽癌</td>
+<td class="shuju">2.6</td>
+</tr>
+<tr><td class="zhibiao">9</td>
+<td class="shuju">脑瘤</td>
+<td class="shuju">3.27</td>
+<td class="shuju">子宫颈癌</td>
+<td class="shuju">1.58</td>
+<td class="shuju">女性乳腺癌</td>
+<td class="shuju">2.17</td>
+</tr>
+<tr><td class="zhibiao">10</td>
+<td class="shuju">胆囊癌</td>
+<td class="shuju">2.13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td class="shuju">恶性肿瘤总计</td>
+<td class="shuju">146.57</td>
+<td class="shuju">恶性肿瘤总计</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">恶性肿瘤总计</td>
+<td class="shuju">91.80</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

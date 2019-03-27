@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年各类场所食源性疾病暴发报告情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">发生场所</td>
+<td class="biaotou" colspan="2">事件数(个)</td>
+<td class="biaotou" colspan="2">事件构成(%)</td>
+<td class="biaotou" colspan="2">患者数(个)</td>
+<td class="biaotou" colspan="2">患者构成(%)</td>
+</tr><tr><td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">合计</td>
+<td class="shuju">1001</td>
+<td class="shuju">1480</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">14413</td>
+<td class="shuju">17651</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+</tr>
+<tr><td class="zhibiao">餐饮服务单位</td>
+<td class="shuju">505</td>
+<td class="shuju">820</td>
+<td class="shuju">50.4</td>
+<td class="shuju">55.4</td>
+<td class="shuju">9750</td>
+<td class="shuju">14223</td>
+<td class="shuju">67.6</td>
+<td class="shuju">80.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;单位食堂</td>
+<td class="shuju">173</td>
+<td class="shuju">178</td>
+<td class="shuju">17.3</td>
+<td class="shuju">12.0</td>
+<td class="shuju">2632</td>
+<td class="shuju">2558</td>
+<td class="shuju">18.3</td>
+<td class="shuju">14.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;学校食堂</td>
+<td class="shuju">67</td>
+<td class="shuju">93</td>
+<td class="shuju">6.7</td>
+<td class="shuju">6.3</td>
+<td class="shuju">2844</td>
+<td class="shuju">2657</td>
+<td class="shuju">19.7</td>
+<td class="shuju">15.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;宾馆饭店</td>
+<td class="shuju">200</td>
+<td class="shuju">258</td>
+<td class="shuju">20.0</td>
+<td class="shuju">17.4</td>
+<td class="shuju">3423</td>
+<td class="shuju">3989</td>
+<td class="shuju">23.7</td>
+<td class="shuju">22.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;街头摊点</td>
+<td class="shuju">35</td>
+<td class="shuju">54</td>
+<td class="shuju">3.5</td>
+<td class="shuju">3.6</td>
+<td class="shuju">439</td>
+<td class="shuju">645</td>
+<td class="shuju">3.0</td>
+<td class="shuju">3.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;农村宴席</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">130</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">8.8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3040</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;快餐店</td>
+<td class="shuju">25</td>
+<td class="shuju">84</td>
+<td class="shuju">2.5</td>
+<td class="shuju">5.7</td>
+<td class="shuju">280</td>
+<td class="shuju">903</td>
+<td class="shuju">1.9</td>
+<td class="shuju">5.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;送餐</td>
+<td class="shuju">5</td>
+<td class="shuju">23</td>
+<td class="shuju">0.5</td>
+<td class="shuju">1.6</td>
+<td class="shuju">132</td>
+<td class="shuju">431</td>
+<td class="shuju">0.9</td>
+<td class="shuju">2.4</td>
+</tr>
+<tr><td class="zhibiao">学校(不包括学校食堂)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">35</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2.4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">842</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4.8</td>
+</tr>
+<tr><td class="zhibiao">家庭</td>
+<td class="shuju">415</td>
+<td class="shuju">592</td>
+<td class="shuju">41.5</td>
+<td class="shuju">40.0</td>
+<td class="shuju">3483</td>
+<td class="shuju">2383</td>
+<td class="shuju">24.2</td>
+<td class="shuju">13.5</td>
+</tr>
+<tr><td class="zhibiao">其他</td>
+<td class="shuju">81</td>
+<td class="shuju">33</td>
+<td class="shuju">8.1</td>
+<td class="shuju">2.2</td>
+<td class="shuju">1180</td>
+<td class="shuju">203</td>
+<td class="shuju">8.2</td>
+<td class="shuju">1.2</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:其他是指除集体食堂.宾馆饭店.家庭.街头摊点.快餐店和送餐之外的其他饮食场所.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

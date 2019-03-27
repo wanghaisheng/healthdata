@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份人口基本情况统计(1990-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">单位</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2005</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">总人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">114333</td>
+<td class="shuju">126743</td>
+<td class="shuju">130756</td>
+<td class="shuju">134091</td>
+<td class="shuju">134735</td>
+<td class="shuju">135404</td>
+<td class="shuju">136072</td>
+<td class="shuju">136782</td>
+</tr>
+<tr><td class="zhibiao">按性别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">58904</td>
+<td class="shuju">65437</td>
+<td class="shuju">67375</td>
+<td class="shuju">68748</td>
+<td class="shuju">69068</td>
+<td class="shuju">69395</td>
+<td class="shuju">69728</td>
+<td class="shuju">70079</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">55429</td>
+<td class="shuju">61306</td>
+<td class="shuju">63381</td>
+<td class="shuju">65343</td>
+<td class="shuju">65667</td>
+<td class="shuju">66009</td>
+<td class="shuju">66344</td>
+<td class="shuju">66703</td>
+</tr>
+<tr><td class="zhibiao">按城乡分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">30195</td>
+<td class="shuju">45906</td>
+<td class="shuju">56212</td>
+<td class="shuju">66978</td>
+<td class="shuju">69079</td>
+<td class="shuju">71182</td>
+<td class="shuju">73111</td>
+<td class="shuju">74916</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;农村人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">84138</td>
+<td class="shuju">80837</td>
+<td class="shuju">74544</td>
+<td class="shuju">67113</td>
+<td class="shuju">65656</td>
+<td class="shuju">64222</td>
+<td class="shuju">62961</td>
+<td class="shuju">61866</td>
+</tr>
+<tr><td class="zhibiao">按农业非农业分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;农业人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">90446</td>
+<td class="shuju">94244</td>
+<td class="shuju">89628</td>
+<td class="shuju">88568</td>
+<td class="shuju">88521</td>
+<td class="shuju">87858</td>
+<td class="shuju">87601</td>
+<td class="shuju">87253</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非农业人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">23887</td>
+<td class="shuju">32499</td>
+<td class="shuju">41128.0</td>
+<td class="shuju">45964</td>
+<td class="shuju">47058</td>
+<td class="shuju">47922</td>
+<td class="shuju">49125</td>
+<td class="shuju">50439</td>
+</tr>
+<tr><td class="zhibiao">性别比重</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性人口</td>
+<td class="shuju">%</td>
+<td class="shuju">51.5</td>
+<td class="shuju">51.6</td>
+<td class="shuju">51.5</td>
+<td class="shuju">51.3</td>
+<td class="shuju">51.3</td>
+<td class="shuju">51.3</td>
+<td class="shuju">51.2</td>
+<td class="shuju">51.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性人口</td>
+<td class="shuju">%</td>
+<td class="shuju">48.5</td>
+<td class="shuju">48.4</td>
+<td class="shuju">48.5</td>
+<td class="shuju">48.7</td>
+<td class="shuju">48.7</td>
+<td class="shuju">48.7</td>
+<td class="shuju">48.8</td>
+<td class="shuju">48.8</td>
+</tr>
+<tr><td class="zhibiao">城乡比重</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇人口</td>
+<td class="shuju">%</td>
+<td class="shuju">26.4</td>
+<td class="shuju">36.2</td>
+<td class="shuju">43.0</td>
+<td class="shuju">49.9</td>
+<td class="shuju">51.3</td>
+<td class="shuju">52.6</td>
+<td class="shuju">53.7</td>
+<td class="shuju">54.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;农村人口</td>
+<td class="shuju">%</td>
+<td class="shuju">73.6</td>
+<td class="shuju">63.8</td>
+<td class="shuju">57.0</td>
+<td class="shuju">50.1</td>
+<td class="shuju">48.7</td>
+<td class="shuju">47.4</td>
+<td class="shuju">46.3</td>
+<td class="shuju">45.2</td>
+</tr>
+<tr><td class="zhibiao">出生率</td>
+<td class="shuju">‰</td>
+<td class="shuju">21.06</td>
+<td class="shuju">14.03</td>
+<td class="shuju">12.4</td>
+<td class="shuju">11.9</td>
+<td class="shuju">11.93</td>
+<td class="shuju">12.1</td>
+<td class="shuju">12.08</td>
+<td class="shuju">12.37</td>
+</tr>
+<tr><td class="zhibiao">死亡率</td>
+<td class="shuju">‰</td>
+<td class="shuju">6.67</td>
+<td class="shuju">6.45</td>
+<td class="shuju">6.51</td>
+<td class="shuju">7.11</td>
+<td class="shuju">7.14</td>
+<td class="shuju">7.15</td>
+<td class="shuju">7.16</td>
+<td class="shuju">7.16</td>
+</tr>
+<tr><td class="zhibiao">然增长率</td>
+<td class="shuju">‰</td>
+<td class="shuju">14.39</td>
+<td class="shuju">7.58</td>
+<td class="shuju">5.89</td>
+<td class="shuju">4.79</td>
+<td class="shuju">4.79</td>
+<td class="shuju">4.95</td>
+<td class="shuju">4.92</td>
+<td class="shuju">5.21</td>
+</tr>
+<tr><td class="zhibiao">家庭户数</td>
+<td class="shuju">万户</td>
+<td class="shuju">27738</td>
+<td class="shuju">34881</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">40152</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">人口年龄构成</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;0-14岁人口</td>
+<td class="shuju">%</td>
+<td class="shuju">27.7</td>
+<td class="shuju">22.9</td>
+<td class="shuju">20.3</td>
+<td class="shuju">16.6</td>
+<td class="shuju">16.5</td>
+<td class="shuju">16.5</td>
+<td class="shuju">16.4</td>
+<td class="shuju">16.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;15-64岁人口</td>
+<td class="shuju">%</td>
+<td class="shuju">66.7</td>
+<td class="shuju">70.1</td>
+<td class="shuju">72.0</td>
+<td class="shuju">74.5</td>
+<td class="shuju">74.4</td>
+<td class="shuju">74.1</td>
+<td class="shuju">73.9</td>
+<td class="shuju">73.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;65岁及以上人口</td>
+<td class="shuju">%</td>
+<td class="shuju">5.6</td>
+<td class="shuju">7.0</td>
+<td class="shuju">7.7</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.1</td>
+<td class="shuju">9.4</td>
+<td class="shuju">9.7</td>
+<td class="shuju">10.1</td>
+</tr>
+<tr><td class="zhibiao">人口总抚养比</td>
+<td class="shuju">%</td>
+<td class="shuju">49.9</td>
+<td class="shuju">42.7</td>
+<td class="shuju">38.9</td>
+<td class="shuju">34.2</td>
+<td class="shuju">34.4</td>
+<td class="shuju">34.9</td>
+<td class="shuju">35.3</td>
+<td class="shuju">36.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;少年儿童抚养比</td>
+<td class="shuju">%</td>
+<td class="shuju">41.5</td>
+<td class="shuju">32.7</td>
+<td class="shuju">28.2</td>
+<td class="shuju">22.3</td>
+<td class="shuju">22.1</td>
+<td class="shuju">22.2</td>
+<td class="shuju">22.2</td>
+<td class="shuju">22.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;老年人口抚养比</td>
+<td class="shuju">%</td>
+<td class="shuju">8.4</td>
+<td class="shuju">10.0</td>
+<td class="shuju">10.7</td>
+<td class="shuju">11.9</td>
+<td class="shuju">12.3</td>
+<td class="shuju">12.7</td>
+<td class="shuju">13.1</td>
+<td class="shuju">13.7</td>
+</tr>
+<tr><td class="zhibiao">文化程度人口占总人口比重</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;小学</td>
+<td class="shuju">%</td>
+<td class="shuju">37.2</td>
+<td class="shuju">35.7</td>
+<td class="shuju">31.2</td>
+<td class="shuju">26.8</td>
+<td class="shuju">25.7</td>
+<td class="shuju">25.0</td>
+<td class="shuju">26.4</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;初中</td>
+<td class="shuju">%</td>
+<td class="shuju">23.3</td>
+<td class="shuju">34.0</td>
+<td class="shuju">35.8</td>
+<td class="shuju">38.8</td>
+<td class="shuju">38.6</td>
+<td class="shuju">38.3</td>
+<td class="shuju">40.8</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;高中</td>
+<td class="shuju">%</td>
+<td class="shuju">8.0</td>
+<td class="shuju">11.1</td>
+<td class="shuju">11.5</td>
+<td class="shuju">14.0</td>
+<td class="shuju">14.4</td>
+<td class="shuju">15.0</td>
+<td class="shuju">16.5</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大专及以上</td>
+<td class="shuju">%</td>
+<td class="shuju">1.4</td>
+<td class="shuju">3.6</td>
+<td class="shuju">5.2</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.4</td>
+<td class="shuju">9.9</td>
+<td class="shuju">11.3</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">文盲人口及文盲率</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">文盲人口</td>
+<td class="shuju">万人</td>
+<td class="shuju">18003</td>
+<td class="shuju">8507</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">5466</td>
+<td class="shuju">49876</td>
+<td class="shuju">46619</td>
+<td class="shuju">43002</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">文盲率(%)</td>
+<td class="shuju">%</td>
+<td class="shuju">15.9</td>
+<td class="shuju">6.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4.1</td>
+<td class="shuju">5.2</td>
+<td class="shuju">5.0</td>
+<td class="shuju">4.6</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:①总人口包括中国人民解放军现役军人数.不包括香港.澳门特别行政区和台湾省人口.</td></tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>②城镇人口及非农业人口中包括中国人民解放军现役军人.</td></tr>
+</table>
+<table class="exp" id="tab3">
+<tr><td>③农业.非农业人口系公安部统计的户籍人口数.</td></tr>
+</table>
+<table class="exp" id="tab4">
+<tr><td>④文盲人口指15岁及15岁以上不识字或识字很少的人口.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

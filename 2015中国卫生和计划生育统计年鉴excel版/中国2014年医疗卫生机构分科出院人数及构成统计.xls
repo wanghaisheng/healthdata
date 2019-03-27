@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医疗卫生机构分科出院人数及构成统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">科室分类</td>
+<td class="biaotou" colspan="2">出院人数(人)</td>
+<td class="biaotou" colspan="2">构成(%)</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">医院</td>
+<td class="biaotou">&nbsp;</td>
+<td class="biaotou">医院</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">203657291</td>
+<td class="shuju">153190733</td>
+<td class="shuju">100</td>
+<td class="shuju">100</td>
+</tr>
+<tr><td class="zhibiao">预防保健科</td>
+<td class="shuju">264419</td>
+<td class="shuju">103773</td>
+<td class="shuju">0.13</td>
+<td class="shuju">0.07</td>
+</tr>
+<tr><td class="zhibiao">全科医疗科</td>
+<td class="shuju">10504093</td>
+<td class="shuju">1307424</td>
+<td class="shuju">5.16</td>
+<td class="shuju">0.85</td>
+</tr>
+<tr><td class="zhibiao">内科</td>
+<td class="shuju">58292509</td>
+<td class="shuju">41057284</td>
+<td class="shuju">28.62</td>
+<td class="shuju">26.8</td>
+</tr>
+<tr><td class="zhibiao">外科</td>
+<td class="shuju">34960448</td>
+<td class="shuju">29637845</td>
+<td class="shuju">17.17</td>
+<td class="shuju">19.35</td>
+</tr>
+<tr><td class="zhibiao">儿科</td>
+<td class="shuju">20716261</td>
+<td class="shuju">14430288</td>
+<td class="shuju">10.17</td>
+<td class="shuju">9.42</td>
+</tr>
+<tr><td class="zhibiao">妇产科</td>
+<td class="shuju">27194823</td>
+<td class="shuju">18170575</td>
+<td class="shuju">13.35</td>
+<td class="shuju">11.86</td>
+</tr>
+<tr><td class="zhibiao">眼科</td>
+<td class="shuju">3778283</td>
+<td class="shuju">3580869</td>
+<td class="shuju">1.86</td>
+<td class="shuju">2.34</td>
+</tr>
+<tr><td class="zhibiao">耳鼻咽喉科</td>
+<td class="shuju">2708880</td>
+<td class="shuju">2619493</td>
+<td class="shuju">1.33</td>
+<td class="shuju">1.71</td>
+</tr>
+<tr><td class="zhibiao">口腔科</td>
+<td class="shuju">627488</td>
+<td class="shuju">544030</td>
+<td class="shuju">0.31</td>
+<td class="shuju">0.36</td>
+</tr>
+<tr><td class="zhibiao">皮肤科</td>
+<td class="shuju">500452</td>
+<td class="shuju">435164</td>
+<td class="shuju">0.25</td>
+<td class="shuju">0.28</td>
+</tr>
+<tr><td class="zhibiao">医疗美容科</td>
+<td class="shuju">133049</td>
+<td class="shuju">130239</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.09</td>
+</tr>
+<tr><td class="zhibiao">精神科</td>
+<td class="shuju">1930784</td>
+<td class="shuju">1848074</td>
+<td class="shuju">0.95</td>
+<td class="shuju">1.21</td>
+</tr>
+<tr><td class="zhibiao">传染科</td>
+<td class="shuju">3158868</td>
+<td class="shuju">2993408</td>
+<td class="shuju">1.55</td>
+<td class="shuju">1.95</td>
+</tr>
+<tr><td class="zhibiao">结核病科</td>
+<td class="shuju">543013</td>
+<td class="shuju">423692</td>
+<td class="shuju">0.27</td>
+<td class="shuju">0.28</td>
+</tr>
+<tr><td class="zhibiao">肿瘤科</td>
+<td class="shuju">5926885</td>
+<td class="shuju">5920758</td>
+<td class="shuju">2.91</td>
+<td class="shuju">3.86</td>
+</tr>
+<tr><td class="zhibiao">急诊医学科</td>
+<td class="shuju">1331095</td>
+<td class="shuju">1237783</td>
+<td class="shuju">0.65</td>
+<td class="shuju">0.81</td>
+</tr>
+<tr><td class="zhibiao">康复医学科</td>
+<td class="shuju">2053212</td>
+<td class="shuju">1569985</td>
+<td class="shuju">1.01</td>
+<td class="shuju">1.02</td>
+</tr>
+<tr><td class="zhibiao">职业病科</td>
+<td class="shuju">151141</td>
+<td class="shuju">100309</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.07</td>
+</tr>
+<tr><td class="zhibiao">中医科</td>
+<td class="shuju">22481431</td>
+<td class="shuju">21411573</td>
+<td class="shuju">11.04</td>
+<td class="shuju">13.98</td>
+</tr>
+<tr><td class="zhibiao">民族医学科</td>
+<td class="shuju">455829</td>
+<td class="shuju">455829</td>
+<td class="shuju">0.22</td>
+<td class="shuju">0.3</td>
+</tr>
+<tr><td class="zhibiao">中西医结合科</td>
+<td class="shuju">2271788</td>
+<td class="shuju">2260336</td>
+<td class="shuju">1.12</td>
+<td class="shuju">1.48</td>
+</tr>
+<tr><td class="zhibiao">其他</td>
+<td class="shuju">3672540</td>
+<td class="shuju">2952002</td>
+<td class="shuju">1.80</td>
+<td class="shuju">1.93</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

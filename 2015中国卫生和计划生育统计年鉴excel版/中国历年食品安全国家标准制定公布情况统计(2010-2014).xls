@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年食品安全国家标准制定公布情况统计(2010-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">年份</td>
+<td class="biaotou">5年累计</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">总计</td>
+<td class="shuju">479</td>
+<td class="shuju">165</td>
+<td class="shuju">21</td>
+<td class="shuju">116</td>
+<td class="shuju">109</td>
+<td class="shuju">68</td>
+</tr>
+<tr><td class="zhibiao">食品安全基础标准</td>
+<td class="shuju">16</td>
+<td class="shuju">2</td>
+<td class="shuju">6</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">食品产品标准</td>
+<td class="shuju">38</td>
+<td class="shuju">18</td>
+<td class="shuju">4</td>
+<td class="shuju">2</td>
+<td class="shuju">1</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">食品检验方法标准</td>
+<td class="shuju">116</td>
+<td class="shuju">49</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">6</td>
+<td class="shuju">38</td>
+<td class="shuju">23</td>
+</tr>
+<tr><td class="zhibiao">食品生产经营规范标准</td>
+<td class="shuju">5</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">食品添加剂标准</td>
+<td class="shuju">300</td>
+<td class="shuju">94</td>
+<td class="shuju">11</td>
+<td class="shuju">101</td>
+<td class="shuju">65</td>
+<td class="shuju">29</td>
+</tr>
+<tr><td class="zhibiao">食品相关产品标准</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年饮用水卫生监督处罚案件统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:件</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">指标</td>
+<td class="biaotou" rowspan="2">总计</td>
+<td class="biaotou" colspan="5">集中式供水</td>
+<td class="biaotou" rowspan="2">二次供水</td>
+<td class="biaotou" rowspan="2">涉水产品生产企业</td>
+<td class="biaotou" rowspan="2">涉水产品经营单位</td>
+</tr><tr><td class="biaotou">合计</td>
+<td class="biaotou">城市公共</td>
+<td class="biaotou">乡镇公共供水</td>
+<td class="biaotou">自建设施供水</td>
+<td class="biaotou">分质供水</td>
+</tr><tr><td class="zhibiao">案件数</td>
+<td class="shuju">1778</td>
+<td class="shuju">962</td>
+<td class="shuju">169</td>
+<td class="shuju">534</td>
+<td class="shuju">164</td>
+<td class="shuju">95</td>
+<td class="shuju">652</td>
+<td class="shuju">112</td>
+<td class="shuju">52</td>
+</tr>
+<tr><td class="zhibiao">结案数</td>
+<td class="shuju">1742</td>
+<td class="shuju">965</td>
+<td class="shuju">170</td>
+<td class="shuju">542</td>
+<td class="shuju">159</td>
+<td class="shuju">94</td>
+<td class="shuju">634</td>
+<td class="shuju">93</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">违法事实</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反供.管水人员健康管理有关规定</td>
+<td class="shuju">163</td>
+<td class="shuju">81</td>
+<td class="shuju">25</td>
+<td class="shuju">47</td>
+<td class="shuju">7</td>
+<td class="shuju">2</td>
+<td class="shuju">82</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新改扩建项目未经选址.设计审查和竣工验收</td>
+<td class="shuju">16</td>
+<td class="shuju">16</td>
+<td class="shuju">6</td>
+<td class="shuju">7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未取得卫生许可证</td>
+<td class="shuju">650</td>
+<td class="shuju">335</td>
+<td class="shuju">56</td>
+<td class="shuju">112</td>
+<td class="shuju">75</td>
+<td class="shuju">92</td>
+<td class="shuju">315</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;生产或者销售无卫生许可批件的涉水产品</td>
+<td class="shuju">162</td>
+<td class="shuju">5</td>
+<td class="shuju">2</td>
+<td class="shuju">2</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">-</td>
+<td class="shuju">110</td>
+<td class="shuju">47</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;生活饮用水不符合卫生标</td>
+<td class="shuju">584</td>
+<td class="shuju">517</td>
+<td class="shuju">82</td>
+<td class="shuju">364</td>
+<td class="shuju">69</td>
+<td class="shuju">2</td>
+<td class="shuju">67</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他违法行为</td>
+<td class="shuju">328</td>
+<td class="shuju">88</td>
+<td class="shuju">21</td>
+<td class="shuju">47</td>
+<td class="shuju">18</td>
+<td class="shuju">2</td>
+<td class="shuju">233</td>
+<td class="shuju">2</td>
+<td class="shuju">5</td>
+</tr>
+<tr><td class="zhibiao">处罚程序</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;简易程序</td>
+<td class="shuju">420</td>
+<td class="shuju">255</td>
+<td class="shuju">42</td>
+<td class="shuju">97</td>
+<td class="shuju">33</td>
+<td class="shuju">83</td>
+<td class="shuju">160</td>
+<td class="shuju">4</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;一般程序</td>
+<td class="shuju">1322</td>
+<td class="shuju">710</td>
+<td class="shuju">128</td>
+<td class="shuju">445</td>
+<td class="shuju">126</td>
+<td class="shuju">11</td>
+<td class="shuju">474</td>
+<td class="shuju">89</td>
+<td class="shuju">49</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;听证</td>
+<td class="shuju">17</td>
+<td class="shuju">15</td>
+<td class="shuju">9</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">相关行政措施</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;责令限期改进</td>
+<td class="shuju">669</td>
+<td class="shuju">437</td>
+<td class="shuju">70</td>
+<td class="shuju">270</td>
+<td class="shuju">94</td>
+<td class="shuju">3</td>
+<td class="shuju">158</td>
+<td class="shuju">41</td>
+<td class="shuju">33</td>
+</tr>
+<tr><td class="zhibiao">处罚决定</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;罚款</td>
+<td class="shuju">1499</td>
+<td class="shuju">800</td>
+<td class="shuju">145</td>
+<td class="shuju">510</td>
+<td class="shuju">136</td>
+<td class="shuju">9</td>
+<td class="shuju">558</td>
+<td class="shuju">92</td>
+<td class="shuju">49</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;罚款金额(万元)</td>
+<td class="shuju">385.0</td>
+<td class="shuju">163.6</td>
+<td class="shuju">55.9</td>
+<td class="shuju">77.2</td>
+<td class="shuju">27.2</td>
+<td class="shuju">3.3</td>
+<td class="shuju">137.1</td>
+<td class="shuju">66.1</td>
+<td class="shuju">18.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">360</td>
+<td class="shuju">183</td>
+<td class="shuju">29</td>
+<td class="shuju">40</td>
+<td class="shuju">27</td>
+<td class="shuju">87</td>
+<td class="shuju">170</td>
+<td class="shuju">5</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">行政复议</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">行政诉讼</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年其他医疗卫生机构中医类临床科室床位数统计(2012-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">科别</td>
+<td class="biaotou" colspan="3">其他医疗卫生机构中医类临床科室床位数(张)</td>
+<td class="biaotou" colspan="3">占同类机构床位数的%</td>
+</tr><tr><td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">92213</td>
+<td class="shuju">106560</td>
+<td class="shuju">121469</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;综合医院</td>
+<td class="shuju">52895</td>
+<td class="shuju">60121</td>
+<td class="shuju">66889</td>
+<td class="shuju">1.8</td>
+<td class="shuju">1.8</td>
+<td class="shuju">1.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;专科医院</td>
+<td class="shuju">9214</td>
+<td class="shuju">10768</td>
+<td class="shuju">11681</td>
+<td class="shuju">1.7</td>
+<td class="shuju">1.7</td>
+<td class="shuju">1.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社区卫生服务中心(站)</td>
+<td class="shuju">5056</td>
+<td class="shuju">5549</td>
+<td class="shuju">6753</td>
+<td class="shuju">2.5</td>
+<td class="shuju">2.9</td>
+<td class="shuju">3.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乡镇卫生院</td>
+<td class="shuju">24151</td>
+<td class="shuju">29304</td>
+<td class="shuju">34963</td>
+<td class="shuju">2.2</td>
+<td class="shuju">2.6</td>
+<td class="shuju">3.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他医疗卫生机构</td>
+<td class="shuju">897</td>
+<td class="shuju">818</td>
+<td class="shuju">1183</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.3</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

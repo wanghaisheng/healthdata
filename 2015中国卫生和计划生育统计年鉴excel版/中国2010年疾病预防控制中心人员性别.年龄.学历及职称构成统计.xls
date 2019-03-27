@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年疾病预防控制中心人员性别.年龄.学历及职称构成统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="3">分类</td>
+<td class="biaotou" colspan="6">卫生技术人员</td>
+<td class="biaotou" rowspan="3">其他技术人员</td>
+<td class="biaotou" rowspan="3">管理人员</td>
+</tr><tr><td class="biaotou" rowspan="2">小计</td>
+<td class="biaotou" colspan="2">执业(助理)医师</td>
+<td class="biaotou" rowspan="2">药师(士)</td>
+<td class="biaotou" rowspan="2">技师(士)</td>
+<td class="biaotou" rowspan="2">其他</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">执业医师</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+</tr>
+<tr><td class="zhibiao">按性别分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男</td>
+<td class="shuju">48.2</td>
+<td class="shuju">58.3</td>
+<td class="shuju">59.8</td>
+<td class="shuju">36.7</td>
+<td class="shuju">42.8</td>
+<td class="shuju">50.34</td>
+<td class="shuju">45.0</td>
+<td class="shuju">58.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女</td>
+<td class="shuju">51.8</td>
+<td class="shuju">41.7</td>
+<td class="shuju">40.2</td>
+<td class="shuju">63.3</td>
+<td class="shuju">57.2</td>
+<td class="shuju">49.66</td>
+<td class="shuju">55.1</td>
+<td class="shuju">41.6</td>
+</tr>
+<tr><td class="zhibiao">按年龄分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;25岁以下</td>
+<td class="shuju">1.8</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.1</td>
+<td class="shuju">1.6</td>
+<td class="shuju">1.7</td>
+<td class="shuju">3.59</td>
+<td class="shuju">3.2</td>
+<td class="shuju">2.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;25-34岁</td>
+<td class="shuju">25.5</td>
+<td class="shuju">20.5</td>
+<td class="shuju">18.4</td>
+<td class="shuju">28.4</td>
+<td class="shuju">27.3</td>
+<td class="shuju">29.17</td>
+<td class="shuju">29.7</td>
+<td class="shuju">18.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;35-44岁</td>
+<td class="shuju">33.6</td>
+<td class="shuju">34.3</td>
+<td class="shuju">32.5</td>
+<td class="shuju">33.0</td>
+<td class="shuju">33.6</td>
+<td class="shuju">31.80</td>
+<td class="shuju">32.3</td>
+<td class="shuju">31.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;45-54岁</td>
+<td class="shuju">29.4</td>
+<td class="shuju">31.9</td>
+<td class="shuju">34.2</td>
+<td class="shuju">30.5</td>
+<td class="shuju">30.4</td>
+<td class="shuju">26.73</td>
+<td class="shuju">27.0</td>
+<td class="shuju">36.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;55-59岁</td>
+<td class="shuju">8.4</td>
+<td class="shuju">11.4</td>
+<td class="shuju">12.9</td>
+<td class="shuju">5.3</td>
+<td class="shuju">6.3</td>
+<td class="shuju">7.48</td>
+<td class="shuju">6.7</td>
+<td class="shuju">10.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;60岁及以上</td>
+<td class="shuju">1.3</td>
+<td class="shuju">1.8</td>
+<td class="shuju">2.0</td>
+<td class="shuju">1.2</td>
+<td class="shuju">0.7</td>
+<td class="shuju">1.23</td>
+<td class="shuju">1.1</td>
+<td class="shuju">1.6</td>
+</tr>
+<tr><td class="zhibiao">按工作年限分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;5年以下</td>
+<td class="shuju">8.6</td>
+<td class="shuju">6.2</td>
+<td class="shuju">6.5</td>
+<td class="shuju">5.2</td>
+<td class="shuju">8.4</td>
+<td class="shuju">12.43</td>
+<td class="shuju">10.2</td>
+<td class="shuju">6.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;5-9年</td>
+<td class="shuju">9.3</td>
+<td class="shuju">7.9</td>
+<td class="shuju">7.3</td>
+<td class="shuju">8.5</td>
+<td class="shuju">10.2</td>
+<td class="shuju">9.91</td>
+<td class="shuju">11.4</td>
+<td class="shuju">6.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;10-19年</td>
+<td class="shuju">29.7</td>
+<td class="shuju">28.3</td>
+<td class="shuju">25.2</td>
+<td class="shuju">34.0</td>
+<td class="shuju">30.3</td>
+<td class="shuju">29.05</td>
+<td class="shuju">29.0</td>
+<td class="shuju">23.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;20-29年</td>
+<td class="shuju">29.6</td>
+<td class="shuju">30.6</td>
+<td class="shuju">31.5</td>
+<td class="shuju">29.6</td>
+<td class="shuju">29.8</td>
+<td class="shuju">27.68</td>
+<td class="shuju">27.8</td>
+<td class="shuju">34.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;30年及以上</td>
+<td class="shuju">22.9</td>
+<td class="shuju">27.0</td>
+<td class="shuju">29.5</td>
+<td class="shuju">22.8</td>
+<td class="shuju">21.3</td>
+<td class="shuju">20.93</td>
+<td class="shuju">21.7</td>
+<td class="shuju">29.5</td>
+</tr>
+<tr><td class="zhibiao">按学历分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;研究生</td>
+<td class="shuju">3.0</td>
+<td class="shuju">3.3</td>
+<td class="shuju">4.0</td>
+<td class="shuju">0.5</td>
+<td class="shuju">3.2</td>
+<td class="shuju">3.39</td>
+<td class="shuju">1.7</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大学本科</td>
+<td class="shuju">23.6</td>
+<td class="shuju">27.4</td>
+<td class="shuju">31.3</td>
+<td class="shuju">12.5</td>
+<td class="shuju">25.3</td>
+<td class="shuju">22.45</td>
+<td class="shuju">21.3</td>
+<td class="shuju">27.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大专</td>
+<td class="shuju">38.1</td>
+<td class="shuju">37.0</td>
+<td class="shuju">34.7</td>
+<td class="shuju">39.7</td>
+<td class="shuju">39.6</td>
+<td class="shuju">37.14</td>
+<td class="shuju">40.2</td>
+<td class="shuju">43.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中专</td>
+<td class="shuju">30.6</td>
+<td class="shuju">28.9</td>
+<td class="shuju">27.4</td>
+<td class="shuju">37.2</td>
+<td class="shuju">27.7</td>
+<td class="shuju">30.49</td>
+<td class="shuju">23.2</td>
+<td class="shuju">18.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;高中及以下</td>
+<td class="shuju">4.6</td>
+<td class="shuju">3.3</td>
+<td class="shuju">2.7</td>
+<td class="shuju">10.2</td>
+<td class="shuju">4.2</td>
+<td class="shuju">6.52</td>
+<td class="shuju">13.6</td>
+<td class="shuju">8.7</td>
+</tr>
+<tr><td class="zhibiao">按专业技术资格分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;正高</td>
+<td class="shuju">1.9</td>
+<td class="shuju">2.5</td>
+<td class="shuju">3.0</td>
+<td class="shuju">0.4</td>
+<td class="shuju">1.8</td>
+<td class="shuju">1.67</td>
+<td class="shuju">0.8</td>
+<td class="shuju">2.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;副高</td>
+<td class="shuju">7.5</td>
+<td class="shuju">10.3</td>
+<td class="shuju">12.1</td>
+<td class="shuju">2.0</td>
+<td class="shuju">8.1</td>
+<td class="shuju">5.57</td>
+<td class="shuju">3.6</td>
+<td class="shuju">8.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中级</td>
+<td class="shuju">33.7</td>
+<td class="shuju">39.8</td>
+<td class="shuju">46.1</td>
+<td class="shuju">21.3</td>
+<td class="shuju">38.0</td>
+<td class="shuju">24.6</td>
+<td class="shuju">20.0</td>
+<td class="shuju">24.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;师级/助理</td>
+<td class="shuju">33.7</td>
+<td class="shuju">35.8</td>
+<td class="shuju">33.7</td>
+<td class="shuju">42.6</td>
+<td class="shuju">34.2</td>
+<td class="shuju">30.16</td>
+<td class="shuju">28.6</td>
+<td class="shuju">19.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;士级</td>
+<td class="shuju">14.2</td>
+<td class="shuju">7.5</td>
+<td class="shuju">1.4</td>
+<td class="shuju">26.4</td>
+<td class="shuju">12.1</td>
+<td class="shuju">20.38</td>
+<td class="shuju">23.4</td>
+<td class="shuju">11.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;不详</td>
+<td class="shuju">9.0</td>
+<td class="shuju">4.2</td>
+<td class="shuju">3.8</td>
+<td class="shuju">7.2</td>
+<td class="shuju">5.8</td>
+<td class="shuju">17.62</td>
+<td class="shuju">23.6</td>
+<td class="shuju">33.5</td>
+</tr>
+<tr><td class="zhibiao">按聘任技术职务分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;正高</td>
+<td class="shuju">1.6</td>
+<td class="shuju">2.2</td>
+<td class="shuju">2.5</td>
+<td class="shuju">0.3</td>
+<td class="shuju">1.5</td>
+<td class="shuju">1.53</td>
+<td class="shuju">0.6</td>
+<td class="shuju">2.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;副高</td>
+<td class="shuju">7.4</td>
+<td class="shuju">10.0</td>
+<td class="shuju">11.8</td>
+<td class="shuju">1.8</td>
+<td class="shuju">7.9</td>
+<td class="shuju">5.74</td>
+<td class="shuju">3.6</td>
+<td class="shuju">11.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中级</td>
+<td class="shuju">34.9</td>
+<td class="shuju">40.5</td>
+<td class="shuju">46.9</td>
+<td class="shuju">22.8</td>
+<td class="shuju">39.1</td>
+<td class="shuju">26.6</td>
+<td class="shuju">22.2</td>
+<td class="shuju">33.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;师级/助理</td>
+<td class="shuju">35.9</td>
+<td class="shuju">37.7</td>
+<td class="shuju">35.1</td>
+<td class="shuju">44.5</td>
+<td class="shuju">35.7</td>
+<td class="shuju">33.0</td>
+<td class="shuju">33.2</td>
+<td class="shuju">26.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;士级</td>
+<td class="shuju">15.1</td>
+<td class="shuju">7.3</td>
+<td class="shuju">1.5</td>
+<td class="shuju">28.7</td>
+<td class="shuju">12.9</td>
+<td class="shuju">22.5</td>
+<td class="shuju">26.3</td>
+<td class="shuju">14.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;待聘</td>
+<td class="shuju">5.1</td>
+<td class="shuju">2.4</td>
+<td class="shuju">2.2</td>
+<td class="shuju">1.9</td>
+<td class="shuju">2.9</td>
+<td class="shuju">10.7</td>
+<td class="shuju">14.2</td>
+<td class="shuju">11.2</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

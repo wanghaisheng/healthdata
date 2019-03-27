@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国1995年城市居民主要疾病死亡率及构成统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">疾病名称</td>
+<td class="biaotou" colspan="3">合计</td>
+<td class="biaotou" colspan="3">男</td>
+<td class="biaotou" colspan="3">女</td>
+</tr><tr><td class="biaotou">死亡率(1/10万)</td>
+<td class="biaotou">构成(%)</td>
+<td class="biaotou">位次</td>
+<td class="biaotou">死亡率(1/10万)</td>
+<td class="biaotou">构成(%)</td>
+<td class="biaotou">位次</td>
+<td class="biaotou">死亡率(1/10万)</td>
+<td class="biaotou">构成(%)</td>
+<td class="biaotou">位次</td>
+</tr><tr><td class="zhibiao">传染病(不含肺结核)</td>
+<td class="shuju">5.01</td>
+<td class="shuju">1.59</td>
+<td class="shuju">13</td>
+<td class="shuju">6.23</td>
+<td class="shuju">1.95</td>
+<td class="shuju">10</td>
+<td class="shuju">3.73</td>
+<td class="shuju">1.15</td>
+<td class="shuju">14</td>
+</tr>
+<tr><td class="zhibiao">肺结核</td>
+<td class="shuju">4.34</td>
+<td class="shuju">0.74</td>
+<td class="shuju">14</td>
+<td class="shuju">6.07</td>
+<td class="shuju">0.96</td>
+<td class="shuju">11</td>
+<td class="shuju">2.53</td>
+<td class="shuju">0.46</td>
+<td class="shuju">15</td>
+</tr>
+<tr><td class="zhibiao">寄生虫病</td>
+<td class="shuju">0.34</td>
+<td class="shuju">0.06</td>
+<td class="shuju">17</td>
+<td class="shuju">0.41</td>
+<td class="shuju">0.07</td>
+<td class="shuju">17</td>
+<td class="shuju">0.27</td>
+<td class="shuju">0.05</td>
+<td class="shuju">18</td>
+</tr>
+<tr><td class="zhibiao">恶性肿瘤</td>
+<td class="shuju">128.58</td>
+<td class="shuju">21.85</td>
+<td class="shuju">2</td>
+<td class="shuju">156.35</td>
+<td class="shuju">24.83</td>
+<td class="shuju">1</td>
+<td class="shuju">99.41</td>
+<td class="shuju">18.24</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">内分泌.营养和代谢及免疫疾病</td>
+<td class="shuju">13.79</td>
+<td class="shuju">2.34</td>
+<td class="shuju">7</td>
+<td class="shuju">10.85</td>
+<td class="shuju">1.72</td>
+<td class="shuju">7</td>
+<td class="shuju">16.87</td>
+<td class="shuju">3.09</td>
+<td class="shuju">6</td>
+</tr>
+<tr><td class="zhibiao">血液和造血器官疾病</td>
+<td class="shuju">1.22</td>
+<td class="shuju">0.21</td>
+<td class="shuju">16</td>
+<td class="shuju">1.13</td>
+<td class="shuju">0.18</td>
+<td class="shuju">16</td>
+<td class="shuju">1.32</td>
+<td class="shuju">0.24</td>
+<td class="shuju">16</td>
+</tr>
+<tr><td class="zhibiao">精神病</td>
+<td class="shuju">7.16</td>
+<td class="shuju">1.22</td>
+<td class="shuju">9</td>
+<td class="shuju">6.52</td>
+<td class="shuju">1.04</td>
+<td class="shuju">9</td>
+<td class="shuju">7.83</td>
+<td class="shuju">1.44</td>
+<td class="shuju">10</td>
+</tr>
+<tr><td class="zhibiao">神经系病</td>
+<td class="shuju">5.06</td>
+<td class="shuju">0.86</td>
+<td class="shuju">12</td>
+<td class="shuju">5.62</td>
+<td class="shuju">0.89</td>
+<td class="shuju">13</td>
+<td class="shuju">4.48</td>
+<td class="shuju">0.82</td>
+<td class="shuju">11</td>
+</tr>
+<tr><td class="zhibiao">心脏病</td>
+<td class="shuju">90.1</td>
+<td class="shuju">15.31</td>
+<td class="shuju">4</td>
+<td class="shuju">88.3</td>
+<td class="shuju">14.02</td>
+<td class="shuju">4</td>
+<td class="shuju">92</td>
+<td class="shuju">16.88</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">脑血管病</td>
+<td class="shuju">130.48</td>
+<td class="shuju">22.17</td>
+<td class="shuju">1</td>
+<td class="shuju">136.66</td>
+<td class="shuju">21.70</td>
+<td class="shuju">2</td>
+<td class="shuju">124.00</td>
+<td class="shuju">22.75</td>
+<td class="shuju">1</td>
+</tr>
+<tr><td class="zhibiao">呼吸系病</td>
+<td class="shuju">92.54</td>
+<td class="shuju">15.73</td>
+<td class="shuju">3</td>
+<td class="shuju">94.85</td>
+<td class="shuju">15.06</td>
+<td class="shuju">3</td>
+<td class="shuju">90.12</td>
+<td class="shuju">16.53</td>
+<td class="shuju">4</td>
+</tr>
+<tr><td class="zhibiao">消化系病</td>
+<td class="shuju">19.49</td>
+<td class="shuju">3.31</td>
+<td class="shuju">6</td>
+<td class="shuju">22.69</td>
+<td class="shuju">3.6</td>
+<td class="shuju">6</td>
+<td class="shuju">16.13</td>
+<td class="shuju">2.96</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">泌尿.生殖系病</td>
+<td class="shuju">9.15</td>
+<td class="shuju">1.56</td>
+<td class="shuju">8</td>
+<td class="shuju">9.26</td>
+<td class="shuju">1.47</td>
+<td class="shuju">8</td>
+<td class="shuju">9.03</td>
+<td class="shuju">1.66</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">妊娠.分娩产褥期并发症</td>
+<td class="shuju">0.2</td>
+<td class="shuju">0.03</td>
+<td class="shuju">18</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.41</td>
+<td class="shuju">0.08</td>
+<td class="shuju">17</td>
+</tr>
+<tr><td class="zhibiao">先天异常</td>
+<td class="shuju">3.92</td>
+<td class="shuju">0.67</td>
+<td class="shuju">15</td>
+<td class="shuju">4.08</td>
+<td class="shuju">0.65</td>
+<td class="shuju">15</td>
+<td class="shuju">3.76</td>
+<td class="shuju">0.69</td>
+<td class="shuju">13</td>
+</tr>
+<tr><td class="zhibiao">新生儿病</td>
+<td class="shuju">5.08</td>
+<td class="shuju">0.86</td>
+<td class="shuju">11</td>
+<td class="shuju">5.82</td>
+<td class="shuju">0.92</td>
+<td class="shuju">12</td>
+<td class="shuju">4.3</td>
+<td class="shuju">0.79</td>
+<td class="shuju">12</td>
+</tr>
+<tr><td class="zhibiao">其他疾病</td>
+<td class="shuju">7.12</td>
+<td class="shuju">1.21</td>
+<td class="shuju">10</td>
+<td class="shuju">5.15</td>
+<td class="shuju">0.82</td>
+<td class="shuju">14</td>
+<td class="shuju">9.18</td>
+<td class="shuju">1.68</td>
+<td class="shuju">8</td>
+</tr>
+<tr><td class="zhibiao">损伤和中毒</td>
+<td class="shuju">40.57</td>
+<td class="shuju">6.89</td>
+<td class="shuju">5</td>
+<td class="shuju">49.11</td>
+<td class="shuju">7.8</td>
+<td class="shuju">5</td>
+<td class="shuju">31.61</td>
+<td class="shuju">5.8</td>
+<td class="shuju">5</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

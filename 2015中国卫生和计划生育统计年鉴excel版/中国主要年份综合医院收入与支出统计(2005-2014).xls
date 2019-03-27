@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份综合医院收入与支出统计(2005-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标名称</td>
+<td class="biaotou">2005</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">机构数(个)</td>
+<td class="shuju">4884</td>
+<td class="shuju">4748</td>
+<td class="shuju">4712</td>
+<td class="shuju">4678</td>
+<td class="shuju">4681</td>
+<td class="shuju">4676</td>
+</tr>
+<tr><td class="zhibiao">平均每所医院总收入(万元)</td>
+<td class="shuju">5575.6</td>
+<td class="shuju">13906.1</td>
+<td class="shuju">16916.5</td>
+<td class="shuju">20566.3</td>
+<td class="shuju">23765.1</td>
+<td class="shuju">27341.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医疗收入</td>
+<td class="shuju">5069.3</td>
+<td class="shuju">12693</td>
+<td class="shuju">15336.3</td>
+<td class="shuju">18633.1</td>
+<td class="shuju">21586.4</td>
+<td class="shuju">24860.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;门诊收入</td>
+<td class="shuju">1946.9</td>
+<td class="shuju">4309.7</td>
+<td class="shuju">5149.9</td>
+<td class="shuju">6117.3</td>
+<td class="shuju">7040.8</td>
+<td class="shuju">8123.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:药品收入</td>
+<td class="shuju">1013.4</td>
+<td class="shuju">2183.6</td>
+<td class="shuju">2556.3</td>
+<td class="shuju">3011.7</td>
+<td class="shuju">3372.7</td>
+<td class="shuju">3816.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;住院收入</td>
+<td class="shuju">3122.4</td>
+<td class="shuju">8383.3</td>
+<td class="shuju">10186.5</td>
+<td class="shuju">12515.8</td>
+<td class="shuju">14545.6</td>
+<td class="shuju">16736.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:药品收入</td>
+<td class="shuju">1370.2</td>
+<td class="shuju">3641.3</td>
+<td class="shuju">4261.0</td>
+<td class="shuju">5127.6</td>
+<td class="shuju">5704</td>
+<td class="shuju">6371.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;财政补助收入</td>
+<td class="shuju">333.3</td>
+<td class="shuju">997.8</td>
+<td class="shuju">1313.2</td>
+<td class="shuju">1527.7</td>
+<td class="shuju">1691.4</td>
+<td class="shuju">1911.0</td>
+</tr>
+<tr><td class="zhibiao">平均每所医院总费用(万元)</td>
+<td class="shuju">5345.7</td>
+<td class="shuju">13317.3</td>
+<td class="shuju">16316.5</td>
+<td class="shuju">19556.0</td>
+<td class="shuju">22652.5</td>
+<td class="shuju">26065.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医疗业务成本</td>
+<td class="shuju">5116.2</td>
+<td class="shuju">12831.9</td>
+<td class="shuju">15673.9</td>
+<td class="shuju">16106.7</td>
+<td class="shuju">18943.9</td>
+<td class="shuju">22034.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;内:药品费</td>
+<td class="shuju">1831.7</td>
+<td class="shuju">4878.5</td>
+<td class="shuju">5770.8</td>
+<td class="shuju">6952.6</td>
+<td class="shuju">7926.4</td>
+<td class="shuju">9052.2</td>
+</tr>
+<tr><td class="zhibiao">平均每所医院人员经费(万元)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3082.4</td>
+<td class="shuju">3879.3</td>
+<td class="shuju">5185.7</td>
+<td class="shuju">6240.7</td>
+<td class="shuju">7351.5</td>
+</tr>
+<tr><td class="zhibiao">职工人均年业务收入(万元)</td>
+<td class="shuju">9.2</td>
+<td class="shuju">26.2</td>
+<td class="shuju">29.3</td>
+<td class="shuju">33.1</td>
+<td class="shuju">35.4</td>
+<td class="shuju">38.3</td>
+</tr>
+<tr><td class="zhibiao">医师人均年业务收入(万元)</td>
+<td class="shuju">44.7</td>
+<td class="shuju">88.1</td>
+<td class="shuju">101.8</td>
+<td class="shuju">117.3</td>
+<td class="shuju">127.6</td>
+<td class="shuju">139.6</td>
+</tr>
+<tr><td class="zhibiao">门诊病人次均医药费(元)</td>
+<td class="shuju">126.9</td>
+<td class="shuju">173.8</td>
+<td class="shuju">186.1</td>
+<td class="shuju">198.4</td>
+<td class="shuju">211.5</td>
+<td class="shuju">224.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;药费</td>
+<td class="shuju">66.0</td>
+<td class="shuju">88.1</td>
+<td class="shuju">92.4</td>
+<td class="shuju">97.7</td>
+<td class="shuju">101.3</td>
+<td class="shuju">105.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;检查费</td>
+<td class="shuju">23.5</td>
+<td class="shuju">35.9</td>
+<td class="shuju">38.6</td>
+<td class="shuju">41.5</td>
+<td class="shuju">44.3</td>
+<td class="shuju">47.6</td>
+</tr>
+<tr><td class="zhibiao">住院病人人均医药费(元)</td>
+<td class="shuju">4661.5</td>
+<td class="shuju">6525.6</td>
+<td class="shuju">7027.7</td>
+<td class="shuju">7403.5</td>
+<td class="shuju">7968.3</td>
+<td class="shuju">8397.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;药费</td>
+<td class="shuju">2045.6</td>
+<td class="shuju">2834.4</td>
+<td class="shuju">2939.7</td>
+<td class="shuju">3033.1</td>
+<td class="shuju">3124.7</td>
+<td class="shuju">3196.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;检查费</td>
+<td class="shuju">294.4</td>
+<td class="shuju">473.1</td>
+<td class="shuju">536.5</td>
+<td class="shuju">578.0</td>
+<td class="shuju">647.8</td>
+<td class="shuju">704.8</td>
+</tr>
+<tr><td class="zhibiao">住院病人日均医药费(元)</td>
+<td class="shuju">469.7</td>
+<td class="shuju">674.8</td>
+<td class="shuju">733.4</td>
+<td class="shuju">793.5</td>
+<td class="shuju">870.2</td>
+<td class="shuju">937.3</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:①本表系卫生计生部门综合医院数字.</td></tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>②本表按当年价格计算.</td></tr>
+</table>
+<table class="exp" id="tab3">
+<tr><td>③2005-2011年医疗业务成本为医疗支出和药品支出之和.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

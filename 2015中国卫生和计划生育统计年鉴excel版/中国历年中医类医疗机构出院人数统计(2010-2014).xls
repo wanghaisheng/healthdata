@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年中医类医疗机构出院人数统计(2010-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">机构分类</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">中医类医疗机构出院人数</td>
+<td class="shuju">14472356</td>
+<td class="shuju">16708708</td>
+<td class="shuju">20222218</td>
+<td class="shuju">22759860</td>
+<td class="shuju">25371372</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医类医院</td>
+<td class="shuju">12756660</td>
+<td class="shuju">14686540</td>
+<td class="shuju">17989489</td>
+<td class="shuju">20100542</td>
+<td class="shuju">22271102</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医医院</td>
+<td class="shuju">11600936</td>
+<td class="shuju">13412885</td>
+<td class="shuju">16362172</td>
+<td class="shuju">18157240</td>
+<td class="shuju">20015393</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">912724</td>
+<td class="shuju">982815</td>
+<td class="shuju">1290360</td>
+<td class="shuju">1541344</td>
+<td class="shuju">1769930</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;民族医医院</td>
+<td class="shuju">243000</td>
+<td class="shuju">290840</td>
+<td class="shuju">336957</td>
+<td class="shuju">401958</td>
+<td class="shuju">485779</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医类门诊部</td>
+<td class="shuju">2321</td>
+<td class="shuju">3145</td>
+<td class="shuju">6195</td>
+<td class="shuju">9218</td>
+<td class="shuju">27262</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医门诊部</td>
+<td class="shuju">1528</td>
+<td class="shuju">1476</td>
+<td class="shuju">2922</td>
+<td class="shuju">4279</td>
+<td class="shuju">18625</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中西医结合门诊部</td>
+<td class="shuju">788</td>
+<td class="shuju">1665</td>
+<td class="shuju">2993</td>
+<td class="shuju">3115</td>
+<td class="shuju">8637</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;民族医门诊部</td>
+<td class="shuju">5</td>
+<td class="shuju">4</td>
+<td class="shuju">280</td>
+<td class="shuju">1824</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他机构中医类临床科室</td>
+<td class="shuju">1713375</td>
+<td class="shuju">2019023</td>
+<td class="shuju">2226534</td>
+<td class="shuju">2631518</td>
+<td class="shuju">3073008</td>
+</tr>
+<tr><td class="zhibiao">中医类出院人数占总出院人数的%</td>
+<td class="shuju">10.3</td>
+<td class="shuju">11.0</td>
+<td class="shuju">11.4</td>
+<td class="shuju">11.9</td>
+<td class="shuju">12.5</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

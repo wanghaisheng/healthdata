@@ -1,0 +1,811 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医疗卫生监督处罚案件统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:件</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">指标</td>
+<td class="biaotou" rowspan="2">总计</td>
+<td class="biaotou" colspan="10">医疗机构</td>
+<td class="biaotou" colspan="6">卫生技术人员</td>
+<td class="biaotou" rowspan="2">非卫生技术人员</td>
+</tr><tr><td class="biaotou">合计</td>
+<td class="biaotou">医院</td>
+<td class="biaotou">妇幼保健院</td>
+<td class="biaotou">社区卫生服务机构</td>
+<td class="biaotou">卫生院</td>
+<td class="biaotou">疗养院</td>
+<td class="biaotou">门诊部</td>
+<td class="biaotou">诊所</td>
+<td class="biaotou">村卫生室</td>
+<td class="biaotou">其他</td>
+<td class="biaotou">合计</td>
+<td class="biaotou">医师</td>
+<td class="biaotou">药师</td>
+<td class="biaotou">护士</td>
+<td class="biaotou">医技</td>
+<td class="biaotou">乡村医生</td>
+</tr><tr><td class="zhibiao">案件数</td>
+<td class="shuju">23109</td>
+<td class="shuju">22863</td>
+<td class="shuju">4263</td>
+<td class="shuju">155</td>
+<td class="shuju">943</td>
+<td class="shuju">1710</td>
+<td class="shuju">16</td>
+<td class="shuju">1544</td>
+<td class="shuju">6438</td>
+<td class="shuju">7276</td>
+<td class="shuju">518</td>
+<td class="shuju">146</td>
+<td class="shuju">119</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+<td class="shuju">22</td>
+<td class="shuju">100</td>
+</tr>
+<tr><td class="zhibiao">结案数</td>
+<td class="shuju">23019</td>
+<td class="shuju">22774</td>
+<td class="shuju">4197</td>
+<td class="shuju">156</td>
+<td class="shuju">938</td>
+<td class="shuju">1707</td>
+<td class="shuju">15</td>
+<td class="shuju">1558</td>
+<td class="shuju">6391</td>
+<td class="shuju">7296</td>
+<td class="shuju">516</td>
+<td class="shuju">141</td>
+<td class="shuju">117</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">18</td>
+<td class="shuju">104</td>
+</tr>
+<tr><td class="zhibiao">违法事实</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未取得执业许可证擅自执业</td>
+<td class="shuju">575</td>
+<td class="shuju">575</td>
+<td class="shuju">35</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17</td>
+<td class="shuju">10</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">18</td>
+<td class="shuju">338</td>
+<td class="shuju">76</td>
+<td class="shuju">81</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;逾期不校验医疗机构执业许可证</td>
+<td class="shuju">100</td>
+<td class="shuju">100</td>
+<td class="shuju">13</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">47</td>
+<td class="shuju">19</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;出卖/转让/出借医疗机构执业许可证</td>
+<td class="shuju">65</td>
+<td class="shuju">65</td>
+<td class="shuju">26</td>
+<td class="shuju">3</td>
+<td class="shuju">4</td>
+<td class="shuju">5</td>
+<td class="shuju">2</td>
+<td class="shuju">4</td>
+<td class="shuju">13</td>
+<td class="shuju">5</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;诊疗活动超出登记范围</td>
+<td class="shuju">3662</td>
+<td class="shuju">3662</td>
+<td class="shuju">520</td>
+<td class="shuju">15</td>
+<td class="shuju">186</td>
+<td class="shuju">167</td>
+<td class="shuju">4</td>
+<td class="shuju">270</td>
+<td class="shuju">1556</td>
+<td class="shuju">887</td>
+<td class="shuju">57</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;使用非卫生技术人员</td>
+<td class="shuju">6625</td>
+<td class="shuju">6625</td>
+<td class="shuju">1732</td>
+<td class="shuju">74</td>
+<td class="shuju">377</td>
+<td class="shuju">654</td>
+<td class="shuju">7</td>
+<td class="shuju">616</td>
+<td class="shuju">2239</td>
+<td class="shuju">795</td>
+<td class="shuju">131</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;出具虚假证明文件</td>
+<td class="shuju">69</td>
+<td class="shuju">60</td>
+<td class="shuju">36</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">4</td>
+<td class="shuju">8</td>
+<td class="shuju">4</td>
+<td class="shuju">3</td>
+<td class="shuju">9</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违法发布医疗广告</td>
+<td class="shuju">1161</td>
+<td class="shuju">1161</td>
+<td class="shuju">795</td>
+<td class="shuju">6</td>
+<td class="shuju">9</td>
+<td class="shuju">7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">236</td>
+<td class="shuju">88</td>
+<td class="shuju">9</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;使用未取得护士执业证书人员或使用未变更执业地点等的护士从事护理工作</td>
+<td class="shuju">594</td>
+<td class="shuju">594</td>
+<td class="shuju">111</td>
+<td class="shuju">4</td>
+<td class="shuju">28</td>
+<td class="shuju">29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">98</td>
+<td class="shuju">204</td>
+<td class="shuju">101</td>
+<td class="shuju">19</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;造成.发生医疗事故</td>
+<td class="shuju">58</td>
+<td class="shuju">57</td>
+<td class="shuju">48</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未取得母婴保健技术许可擅自从事母婴保健技术服务</td>
+<td class="shuju">333</td>
+<td class="shuju">326</td>
+<td class="shuju">164</td>
+<td class="shuju">4</td>
+<td class="shuju">14</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">72</td>
+<td class="shuju">43</td>
+<td class="shuju">15</td>
+<td class="shuju">8</td>
+<td class="shuju">5</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未获取许可开展人类辅助生殖技术</td>
+<td class="shuju">6</td>
+<td class="shuju">6</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;擅自购置.违规使用大型医用设备</td>
+<td class="shuju">29</td>
+<td class="shuju">29</td>
+<td class="shuju">13</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">8</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;以不正当手段非法取得执业证书</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;违反医疗技术规范</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">9</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;未取得资格证明或未经注册从事医疗工作</td>
+<td class="shuju">88</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">21</td>
+<td class="shuju">18</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">67</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他违法行为</td>
+<td class="shuju">11918</td>
+<td class="shuju">11781</td>
+<td class="shuju">1402</td>
+<td class="shuju">73</td>
+<td class="shuju">417</td>
+<td class="shuju">1121</td>
+<td class="shuju">6</td>
+<td class="shuju">450</td>
+<td class="shuju">2551</td>
+<td class="shuju">5519</td>
+<td class="shuju">242</td>
+<td class="shuju">105</td>
+<td class="shuju">82</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">2</td>
+<td class="shuju">18</td>
+<td class="shuju">32</td>
+</tr>
+<tr><td class="zhibiao">处罚程序</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;简易程序</td>
+<td class="shuju">5603</td>
+<td class="shuju">5576</td>
+<td class="shuju">1018</td>
+<td class="shuju">19</td>
+<td class="shuju">142</td>
+<td class="shuju">206</td>
+<td class="shuju">3</td>
+<td class="shuju">302</td>
+<td class="shuju">1492</td>
+<td class="shuju">2317</td>
+<td class="shuju">77</td>
+<td class="shuju">18</td>
+<td class="shuju">17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;一般程序</td>
+<td class="shuju">17416</td>
+<td class="shuju">17198</td>
+<td class="shuju">3179</td>
+<td class="shuju">137</td>
+<td class="shuju">796</td>
+<td class="shuju">1501</td>
+<td class="shuju">12</td>
+<td class="shuju">1256</td>
+<td class="shuju">4899</td>
+<td class="shuju">4979</td>
+<td class="shuju">439</td>
+<td class="shuju">123</td>
+<td class="shuju">100</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">3</td>
+<td class="shuju">18</td>
+<td class="shuju">95</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;听证</td>
+<td class="shuju">350</td>
+<td class="shuju">330</td>
+<td class="shuju">76</td>
+<td class="shuju">1</td>
+<td class="shuju">12</td>
+<td class="shuju">51</td>
+<td class="shuju">1</td>
+<td class="shuju">50</td>
+<td class="shuju">106</td>
+<td class="shuju">28</td>
+<td class="shuju">5</td>
+<td class="shuju">13</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+<td class="shuju">7</td>
+</tr>
+<tr><td class="zhibiao">处罚决定</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;警告</td>
+<td class="shuju">11026</td>
+<td class="shuju">10951</td>
+<td class="shuju">2220</td>
+<td class="shuju">88</td>
+<td class="shuju">434</td>
+<td class="shuju">957</td>
+<td class="shuju">7</td>
+<td class="shuju">787</td>
+<td class="shuju">2769</td>
+<td class="shuju">3473</td>
+<td class="shuju">216</td>
+<td class="shuju">55</td>
+<td class="shuju">53</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">20</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;罚款</td>
+<td class="shuju">19600</td>
+<td class="shuju">19431</td>
+<td class="shuju">3180</td>
+<td class="shuju">136</td>
+<td class="shuju">883</td>
+<td class="shuju">1584</td>
+<td class="shuju">13</td>
+<td class="shuju">1161</td>
+<td class="shuju">5864</td>
+<td class="shuju">6158</td>
+<td class="shuju">452</td>
+<td class="shuju">72</td>
+<td class="shuju">51</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">3</td>
+<td class="shuju">17</td>
+<td class="shuju">97</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;罚款金额(万元)</td>
+<td class="shuju">5656.2</td>
+<td class="shuju">5559.2</td>
+<td class="shuju">1761.6</td>
+<td class="shuju">86.8</td>
+<td class="shuju">226.2</td>
+<td class="shuju">711.5</td>
+<td class="shuju">7.5</td>
+<td class="shuju">593.8</td>
+<td class="shuju">1258.1</td>
+<td class="shuju">759.7</td>
+<td class="shuju">154.0</td>
+<td class="shuju">57.1</td>
+<td class="shuju">48.4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1.0</td>
+<td class="shuju">3.7</td>
+<td class="shuju">4.0</td>
+<td class="shuju">39.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;没收违法所得</td>
+<td class="shuju">448</td>
+<td class="shuju">425</td>
+<td class="shuju">146</td>
+<td class="shuju">3</td>
+<td class="shuju">14</td>
+<td class="shuju">10</td>
+<td class="shuju">1</td>
+<td class="shuju">68</td>
+<td class="shuju">82</td>
+<td class="shuju">83</td>
+<td class="shuju">18</td>
+<td class="shuju">14</td>
+<td class="shuju">11</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+<td class="shuju">9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;没收金额(万元)</td>
+<td class="shuju">485.3</td>
+<td class="shuju">476.6</td>
+<td class="shuju">194.1</td>
+<td class="shuju">1.4</td>
+<td class="shuju">23.8</td>
+<td class="shuju">17.6</td>
+<td class="shuju">138</td>
+<td class="shuju">37.0</td>
+<td class="shuju">45.3</td>
+<td class="shuju">9.7</td>
+<td class="shuju">9.7</td>
+<td class="shuju">2.4</td>
+<td class="shuju">2.1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.3</td>
+<td class="shuju">6.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;没收药品器械</td>
+<td class="shuju">214</td>
+<td class="shuju">175</td>
+<td class="shuju">9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">10</td>
+<td class="shuju">99</td>
+<td class="shuju">46</td>
+<td class="shuju">5</td>
+<td class="shuju">10</td>
+<td class="shuju">6</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">3</td>
+<td class="shuju">29</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;责令停止执业</td>
+<td class="shuju">630</td>
+<td class="shuju">558</td>
+<td class="shuju">99</td>
+<td class="shuju">1</td>
+<td class="shuju">20</td>
+<td class="shuju">30</td>
+<td class="shuju">2</td>
+<td class="shuju">29</td>
+<td class="shuju">271</td>
+<td class="shuju">81</td>
+<td class="shuju">25</td>
+<td class="shuju">22</td>
+<td class="shuju">10</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">11</td>
+<td class="shuju">50</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;责令限期补办校验手续</td>
+<td class="shuju">53</td>
+<td class="shuju">53</td>
+<td class="shuju">17</td>
+<td class="shuju">2</td>
+<td class="shuju">2</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">5</td>
+<td class="shuju">13</td>
+<td class="shuju">7</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;责令暂停执业活动</td>
+<td class="shuju">141</td>
+<td class="shuju">112</td>
+<td class="shuju">37</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">5</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">13</td>
+<td class="shuju">25</td>
+<td class="shuju">23</td>
+<td class="shuju">7</td>
+<td class="shuju">27</td>
+<td class="shuju">26</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;取缔</td>
+<td class="shuju">94</td>
+<td class="shuju">58</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">45</td>
+<td class="shuju">5</td>
+<td class="shuju">7</td>
+<td class="shuju">6</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">1</td>
+<td class="shuju">30</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">204</td>
+<td class="shuju">174</td>
+<td class="shuju">42</td>
+<td class="shuju">4</td>
+<td class="shuju">3</td>
+<td class="shuju">10</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17</td>
+<td class="shuju">43</td>
+<td class="shuju">50</td>
+<td class="shuju">5</td>
+<td class="shuju">27</td>
+<td class="shuju">25</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">3</td>
+</tr>
+<tr><td class="zhibiao">行政复议</td>
+<td class="shuju">3</td>
+<td class="shuju">3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">行政诉讼</td>
+<td class="shuju">2</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

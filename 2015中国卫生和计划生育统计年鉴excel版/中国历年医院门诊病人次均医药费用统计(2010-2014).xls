@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年医院门诊病人次均医药费用统计(2010-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" colspan="3">门诊病人次均医药费(元)</td>
+<td class="biaotou" colspan="2">占门诊医药费%</td>
+</tr><tr><td class="biaotou">&nbsp;</td>
+<td class="biaotou">药费</td>
+<td class="biaotou">检查费</td>
+<td class="biaotou">药费</td>
+<td class="biaotou">检查费</td>
+</tr><tr><td class="zhibiao">医院合计</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">166.8</td>
+<td class="shuju">85.6</td>
+<td class="shuju">30.0</td>
+<td class="shuju">51.3</td>
+<td class="shuju">18.0</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">179.8</td>
+<td class="shuju">90.9</td>
+<td class="shuju">32.4</td>
+<td class="shuju">50.5</td>
+<td class="shuju">18.0</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">192.5</td>
+<td class="shuju">96.9</td>
+<td class="shuju">35.0</td>
+<td class="shuju">50.3</td>
+<td class="shuju">18.2</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">206.4</td>
+<td class="shuju">101.7</td>
+<td class="shuju">37.4</td>
+<td class="shuju">49.3</td>
+<td class="shuju">18.1</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">220.0</td>
+<td class="shuju">106.3</td>
+<td class="shuju">40.3</td>
+<td class="shuju">48.3</td>
+<td class="shuju">18.3</td>
+</tr>
+<tr><td class="zhibiao">公立医院</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">167.3</td>
+<td class="shuju">87.4</td>
+<td class="shuju">30.8</td>
+<td class="shuju">52.3</td>
+<td class="shuju">18.4</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">180.2</td>
+<td class="shuju">92.8</td>
+<td class="shuju">33.4</td>
+<td class="shuju">51.5</td>
+<td class="shuju">18.5</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">193.4</td>
+<td class="shuju">99.3</td>
+<td class="shuju">36.2</td>
+<td class="shuju">51.3</td>
+<td class="shuju">18.7</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">207.9</td>
+<td class="shuju">104.4</td>
+<td class="shuju">38.7</td>
+<td class="shuju">50.2</td>
+<td class="shuju">18.6</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">221.6</td>
+<td class="shuju">109.3</td>
+<td class="shuju">41.8</td>
+<td class="shuju">49.3</td>
+<td class="shuju">18.9</td>
+</tr>
+<tr><td class="zhibiao">内:三级医院</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">220.2</td>
+<td class="shuju">117.6</td>
+<td class="shuju">37.9</td>
+<td class="shuju">53.4</td>
+<td class="shuju">17.2</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">231.8</td>
+<td class="shuju">122.0</td>
+<td class="shuju">40.2</td>
+<td class="shuju">52.6</td>
+<td class="shuju">17.3</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">242.1</td>
+<td class="shuju">126.7</td>
+<td class="shuju">42.7</td>
+<td class="shuju">52.3</td>
+<td class="shuju">17.6</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">256.7</td>
+<td class="shuju">132.1</td>
+<td class="shuju">45.2</td>
+<td class="shuju">51.5</td>
+<td class="shuju">17.6</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">269.8</td>
+<td class="shuju">136.0</td>
+<td class="shuju">48.4</td>
+<td class="shuju">50.4</td>
+<td class="shuju">17.9</td>
+</tr>
+<tr><td class="zhibiao">二级医院</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">139.3</td>
+<td class="shuju">70.5</td>
+<td class="shuju">28.9</td>
+<td class="shuju">50.6</td>
+<td class="shuju">20.8</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">147.6</td>
+<td class="shuju">73.6</td>
+<td class="shuju">31.0</td>
+<td class="shuju">49.9</td>
+<td class="shuju">21.0</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">157.4</td>
+<td class="shuju">77.9</td>
+<td class="shuju">33.3</td>
+<td class="shuju">49.5</td>
+<td class="shuju">21.1</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">166.2</td>
+<td class="shuju">79.6</td>
+<td class="shuju">35.2</td>
+<td class="shuju">47.9</td>
+<td class="shuju">21.2</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">176.0</td>
+<td class="shuju">82.8</td>
+<td class="shuju">37.7</td>
+<td class="shuju">47.1</td>
+<td class="shuju">21.4</td>
+</tr>
+<tr><td class="zhibiao">一级医院</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">93.1</td>
+<td class="shuju">51.6</td>
+<td class="shuju">11.5</td>
+<td class="shuju">55.4</td>
+<td class="shuju">12.4</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">103.9</td>
+<td class="shuju">56.1</td>
+<td class="shuju">13.4</td>
+<td class="shuju">54.0</td>
+<td class="shuju">12.9</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">112.0</td>
+<td class="shuju">59.9</td>
+<td class="shuju">14.7</td>
+<td class="shuju">53.5</td>
+<td class="shuju">13.1</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">119.8</td>
+<td class="shuju">64.2</td>
+<td class="shuju">15.6</td>
+<td class="shuju">53.6</td>
+<td class="shuju">13.1</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">125.3</td>
+<td class="shuju">66.4</td>
+<td class="shuju">17.1</td>
+<td class="shuju">53.0</td>
+<td class="shuju">13.7</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:本表按当年价格计算.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

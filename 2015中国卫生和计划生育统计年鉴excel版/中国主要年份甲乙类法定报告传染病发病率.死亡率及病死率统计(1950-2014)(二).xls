@@ -1,0 +1,697 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份甲乙类法定报告传染病发病率.死亡率及病死率统计(1950-2014)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">年份</td>
+<td class="biaotou" colspan="3">细菌性和阿米巴性痢疾</td>
+<td class="biaotou" colspan="3">伤寒.副伤寒</td>
+<td class="biaotou" colspan="3">艾滋病</td>
+<td class="biaotou" colspan="3">HIV感染者</td>
+</tr><tr><td class="biaotou">发病率1/10万</td>
+<td class="biaotou">死亡率1/10万</td>
+<td class="biaotou">病死率%</td>
+<td class="biaotou">发病率1/10万</td>
+<td class="biaotou">死亡率1/10万</td>
+<td class="biaotou">病死率%</td>
+<td class="biaotou">发病率1/10万</td>
+<td class="biaotou">死亡率1/10万</td>
+<td class="biaotou">病死率%</td>
+<td class="biaotou">发病率1/10万</td>
+<td class="biaotou">死亡率1/10万</td>
+<td class="biaotou">病死率%</td>
+</tr><tr><td class="zhibiao">1950</td>
+<td class="shuju">46.37</td>
+<td class="shuju">1.96</td>
+<td class="shuju">4.22</td>
+<td class="shuju">8.17</td>
+<td class="shuju">0.78</td>
+<td class="shuju">9.54</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1955</td>
+<td class="shuju">319.42</td>
+<td class="shuju">1.91</td>
+<td class="shuju">0.6</td>
+<td class="shuju">8.69</td>
+<td class="shuju">0.19</td>
+<td class="shuju">2.19</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1960</td>
+<td class="shuju">438.88</td>
+<td class="shuju">1.88</td>
+<td class="shuju">0.43</td>
+<td class="shuju">37.75</td>
+<td class="shuju">0.55</td>
+<td class="shuju">1.45</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1965</td>
+<td class="shuju">424.89</td>
+<td class="shuju">0.96</td>
+<td class="shuju">0.23</td>
+<td class="shuju">16.06</td>
+<td class="shuju">0.09</td>
+<td class="shuju">0.56</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1970</td>
+<td class="shuju">352.15</td>
+<td class="shuju">0.48</td>
+<td class="shuju">0.14</td>
+<td class="shuju">9.96</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1975</td>
+<td class="shuju">1000.7</td>
+<td class="shuju">1.44</td>
+<td class="shuju">0.14</td>
+<td class="shuju">9.61</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.32</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1976</td>
+<td class="shuju">712.9</td>
+<td class="shuju">0.91</td>
+<td class="shuju">0.13</td>
+<td class="shuju">7.68</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.35</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1977</td>
+<td class="shuju">729.11</td>
+<td class="shuju">0.83</td>
+<td class="shuju">0.11</td>
+<td class="shuju">12.82</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1978</td>
+<td class="shuju">676.06</td>
+<td class="shuju">0.82</td>
+<td class="shuju">0.12</td>
+<td class="shuju">15.58</td>
+<td class="shuju">0.05</td>
+<td class="shuju">0.29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1979</td>
+<td class="shuju">589.62</td>
+<td class="shuju">0.78</td>
+<td class="shuju">0.13</td>
+<td class="shuju">10.53</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.34</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1980</td>
+<td class="shuju">568.99</td>
+<td class="shuju">0.52</td>
+<td class="shuju">0.09</td>
+<td class="shuju">11.94</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.33</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1981</td>
+<td class="shuju">671.37</td>
+<td class="shuju">0.56</td>
+<td class="shuju">0.08</td>
+<td class="shuju">12.72</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.32</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1982</td>
+<td class="shuju">617.23</td>
+<td class="shuju">0.36</td>
+<td class="shuju">0.06</td>
+<td class="shuju">14.25</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.25</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1983</td>
+<td class="shuju">482.8</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.06</td>
+<td class="shuju">11.24</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.27</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1984</td>
+<td class="shuju">376.75</td>
+<td class="shuju">0.21</td>
+<td class="shuju">0.05</td>
+<td class="shuju">9.75</td>
+<td class="shuju">0.25</td>
+<td class="shuju">0.25</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1985</td>
+<td class="shuju">316.72</td>
+<td class="shuju">0.23</td>
+<td class="shuju">0.07</td>
+<td class="shuju">8.35</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1986</td>
+<td class="shuju">299.84</td>
+<td class="shuju">0.25</td>
+<td class="shuju">0.08</td>
+<td class="shuju">9.76</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1987</td>
+<td class="shuju">230.67</td>
+<td class="shuju">0.24</td>
+<td class="shuju">0.11</td>
+<td class="shuju">13.02</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.34</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1988</td>
+<td class="shuju">190.06</td>
+<td class="shuju">0.21</td>
+<td class="shuju">0.11</td>
+<td class="shuju">14.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.22</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1989</td>
+<td class="shuju">132.47</td>
+<td class="shuju">0.14</td>
+<td class="shuju">0.1</td>
+<td class="shuju">10.83</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.32</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">127.44</td>
+<td class="shuju">0.17</td>
+<td class="shuju">0.13</td>
+<td class="shuju">10.32</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.24</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">115.58</td>
+<td class="shuju">0.1</td>
+<td class="shuju">0.09</td>
+<td class="shuju">10.45</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.29</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">79.55</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.08</td>
+<td class="shuju">7.91</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.16</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">66.67</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">54.5</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.07</td>
+<td class="shuju">7.51</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">45</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">74.84</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.06</td>
+<td class="shuju">7.75</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">84.62</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">73.3</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.05</td>
+<td class="shuju">6.1</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">69.7</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">66.31</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.05</td>
+<td class="shuju">5.61</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">46.67</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">59.65</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.05</td>
+<td class="shuju">4.83</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.15</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.01</td>
+<td class="shuju">65.04</td>
+<td class="shuju">0.15</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">55.34</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.05</td>
+<td class="shuju">4.8</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">17.33</td>
+<td class="shuju">0.1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">48.3</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.1</td>
+<td class="shuju">4.08</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">70.59</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0</td>
+<td class="shuju">0.18</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">40.79</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">4.19</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.09</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.01</td>
+<td class="shuju">57.82</td>
+<td class="shuju">0.2</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">39.86</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">5.07</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.02</td>
+<td class="shuju">56.18</td>
+<td class="shuju">0.3</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">36.23</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.05</td>
+<td class="shuju">4.47</td>
+<td class="shuju">0</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.02</td>
+<td class="shuju">38.25</td>
+<td class="shuju">0.33</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">34.52</td>
+<td class="shuju">0.02</td>
+<td class="shuju">0.05</td>
+<td class="shuju">4.17</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.08</td>
+<td class="shuju">0.03</td>
+<td class="shuju">33.1</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">38.3</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">3.8</td>
+<td class="shuju">0</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.23</td>
+<td class="shuju">0.06</td>
+<td class="shuju">24.26</td>
+<td class="shuju">1.02</td>
+<td class="shuju">0</td>
+<td class="shuju">0.02</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">34.92</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">2.65</td>
+<td class="shuju">0.00</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.43</td>
+<td class="shuju">0.1</td>
+<td class="shuju">17.91</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">32.36</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.03</td>
+<td class="shuju">1.99</td>
+<td class="shuju">0</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.6</td>
+<td class="shuju">0.11</td>
+<td class="shuju">15.12</td>
+<td class="shuju">2.42</td>
+<td class="shuju">0.03</td>
+<td class="shuju">1.24</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">27.99</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.02</td>
+<td class="shuju">1.55</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.82</td>
+<td class="shuju">0.3</td>
+<td class="shuju">14.53</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">23.43</td>
+<td class="shuju">0</td>
+<td class="shuju">0.02</td>
+<td class="shuju">1.18</td>
+<td class="shuju">0</td>
+<td class="shuju">0.04</td>
+<td class="shuju">1.1</td>
+<td class="shuju">0.45</td>
+<td class="shuju">13.64</td>
+<td class="shuju">3.14</td>
+<td class="shuju">0.24</td>
+<td class="shuju">7.75</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">20.45</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">1.28</td>
+<td class="shuju">0</td>
+<td class="shuju">0.05</td>
+<td class="shuju">1.51</td>
+<td class="shuju">0.52</td>
+<td class="shuju">12.1</td>
+<td class="shuju">3.33</td>
+<td class="shuju">0.39</td>
+<td class="shuju">11.64</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">18.9</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">1.05</td>
+<td class="shuju">0</td>
+<td class="shuju">0.02</td>
+<td class="shuju">2.56</td>
+<td class="shuju">0.71</td>
+<td class="shuju">10.69</td>
+<td class="shuju">3.42</td>
+<td class="shuju">0.49</td>
+<td class="shuju">14.47</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">17.74</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.88</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">2.92</td>
+<td class="shuju">0.79</td>
+<td class="shuju">9.39</td>
+<td class="shuju">3.93</td>
+<td class="shuju">0.64</td>
+<td class="shuju">16.34</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">15.4</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.89</td>
+<td class="shuju">0</td>
+<td class="shuju">0.03</td>
+<td class="shuju">3.11</td>
+<td class="shuju">0.86</td>
+<td class="shuju">8.03</td>
+<td class="shuju">4.33</td>
+<td class="shuju">0.85</td>
+<td class="shuju">19.64</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">13.83</td>
+<td class="shuju">0</td>
+<td class="shuju">0.01</td>
+<td class="shuju">1.04</td>
+<td class="shuju">0</td>
+<td class="shuju">0.02</td>
+<td class="shuju">3.12</td>
+<td class="shuju">0.84</td>
+<td class="shuju">6.61</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">11.33</td>
+<td class="shuju">0</td>
+<td class="shuju">0</td>
+<td class="shuju">1.02</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3.33</td>
+<td class="shuju">0.89</td>
+<td class="shuju">5.57</td>
+<td class="shuju">5.46</td>
+<td class="shuju">0.83</td>
+<td class="shuju">15.16</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:从2006年起.艾滋病病死率定义为当年符合治疗标准的感染者和病人中死亡人数所占比例.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

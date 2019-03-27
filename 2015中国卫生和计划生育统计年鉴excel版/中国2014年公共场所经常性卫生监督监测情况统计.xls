@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年公共场所经常性卫生监督监测情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">总计</td>
+<td class="biaotou">住宿场所</td>
+<td class="biaotou">沐浴场所</td>
+<td class="biaotou">游泳场所</td>
+<td class="biaotou">美容美发场所</td>
+<td class="biaotou">其他</td>
+</tr>
+<tr><td class="zhibiao">卫生监督户次数</td>
+<td class="shuju">2619664</td>
+<td class="shuju">691740</td>
+<td class="shuju">180030</td>
+<td class="shuju">25064</td>
+<td class="shuju">1080136</td>
+<td class="shuju">642694</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;合格率(%)</td>
+<td class="shuju">99.19</td>
+<td class="shuju">98.87</td>
+<td class="shuju">98.91</td>
+<td class="shuju">98.63</td>
+<td class="shuju">99.35</td>
+<td class="shuju">99.38</td>
+</tr>
+<tr><td class="zhibiao">卫生监测样品数</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;用品</td>
+<td class="shuju">723705</td>
+<td class="shuju">322697</td>
+<td class="shuju">56338</td>
+<td class="shuju">10265</td>
+<td class="shuju">213798</td>
+<td class="shuju">120607</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非用品</td>
+<td class="shuju">2011765</td>
+<td class="shuju">732657</td>
+<td class="shuju">111581</td>
+<td class="shuju">72853</td>
+<td class="shuju">315174</td>
+<td class="shuju">779500</td>
+</tr>
+<tr><td class="zhibiao">卫生监测合格率(%)</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;用品</td>
+<td class="shuju">96.53</td>
+<td class="shuju">97.12</td>
+<td class="shuju">96.43</td>
+<td class="shuju">88.04</td>
+<td class="shuju">95.77</td>
+<td class="shuju">97.06</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非用品</td>
+<td class="shuju">97.73</td>
+<td class="shuju">97.77</td>
+<td class="shuju">97.96</td>
+<td class="shuju">94.09</td>
+<td class="shuju">97.82</td>
+<td class="shuju">97.97</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

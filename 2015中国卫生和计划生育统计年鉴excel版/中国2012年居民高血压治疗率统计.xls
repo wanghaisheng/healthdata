@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2012年居民高血压治疗率统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">分组</td>
+<td class="biaotou" colspan="3">2002年</td>
+<td class="biaotou" colspan="3">2012年</td>
+</tr><tr><td class="biaotou">合计</td>
+<td class="biaotou">城市</td>
+<td class="biaotou">农村</td>
+<td class="biaotou">合计</td>
+<td class="biaotou">城市</td>
+<td class="biaotou">农村</td>
+</tr><tr><td class="zhibiao">合计</td>
+<td class="shuju">24.7</td>
+<td class="shuju">35.1</td>
+<td class="shuju">17.4</td>
+<td class="shuju">41.1</td>
+<td class="shuju">47.9</td>
+<td class="shuju">33.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性</td>
+<td class="shuju">21.6</td>
+<td class="shuju">31.2</td>
+<td class="shuju">14.7</td>
+<td class="shuju">37.4</td>
+<td class="shuju">44.7</td>
+<td class="shuju">29.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性</td>
+<td class="shuju">27.7</td>
+<td class="shuju">38.8</td>
+<td class="shuju">19.8</td>
+<td class="shuju">44.2</td>
+<td class="shuju">50.7</td>
+<td class="shuju">36.9</td>
+</tr>
+<tr><td class="zhibiao">18-44岁小计</td>
+<td class="shuju">9.1</td>
+<td class="shuju">11.8</td>
+<td class="shuju">7.9</td>
+<td class="shuju">16.9</td>
+<td class="shuju">20.2</td>
+<td class="shuju">14.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性</td>
+<td class="shuju">6.9</td>
+<td class="shuju">9.7</td>
+<td class="shuju">5.4</td>
+<td class="shuju">14.1</td>
+<td class="shuju">17.2</td>
+<td class="shuju">11.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性</td>
+<td class="shuju">12.0</td>
+<td class="shuju">15.0</td>
+<td class="shuju">10.8</td>
+<td class="shuju">20.5</td>
+<td class="shuju">24.4</td>
+<td class="shuju">17.6</td>
+</tr>
+<tr><td class="zhibiao">45-59岁小计</td>
+<td class="shuju">25.0</td>
+<td class="shuju">34.1</td>
+<td class="shuju">19.4</td>
+<td class="shuju">38.0</td>
+<td class="shuju">43.7</td>
+<td class="shuju">32.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性</td>
+<td class="shuju">20.6</td>
+<td class="shuju">28.6</td>
+<td class="shuju">15.7</td>
+<td class="shuju">33.7</td>
+<td class="shuju">40.6</td>
+<td class="shuju">26.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性</td>
+<td class="shuju">28.5</td>
+<td class="shuju">38.5</td>
+<td class="shuju">22.3</td>
+<td class="shuju">41.5</td>
+<td class="shuju">46.2</td>
+<td class="shuju">36.6</td>
+</tr>
+<tr><td class="zhibiao">60岁及以上小计</td>
+<td class="shuju">32.2</td>
+<td class="shuju">43.1</td>
+<td class="shuju">21.3</td>
+<td class="shuju">48.8</td>
+<td class="shuju">55.8</td>
+<td class="shuju">39.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性</td>
+<td class="shuju">31.0</td>
+<td class="shuju">41.5</td>
+<td class="shuju">20.7</td>
+<td class="shuju">46.7</td>
+<td class="shuju">54.0</td>
+<td class="shuju">37.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;女性</td>
+<td class="shuju">33.3</td>
+<td class="shuju">44.7</td>
+<td class="shuju">21.9</td>
+<td class="shuju">50.7</td>
+<td class="shuju">57.3</td>
+<td class="shuju">41.8</td>
+</tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>资料来源:2002.2012年中国居民营养与健康监测.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

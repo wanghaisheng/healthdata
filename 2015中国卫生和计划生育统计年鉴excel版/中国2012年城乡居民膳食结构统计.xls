@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2012年城乡居民膳食结构统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">食物分类</td>
+<td class="biaotou" colspan="2">合计</td>
+<td class="biaotou" colspan="2">城市</td>
+<td class="biaotou" colspan="2">农村</td>
+</tr><tr><td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+</tr><tr><td class="zhibiao">能置的食物来源</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;谷类</td>
+<td class="shuju">57.9</td>
+<td class="shuju">53.1</td>
+<td class="shuju">48.5</td>
+<td class="shuju">47.1</td>
+<td class="shuju">61.5</td>
+<td class="shuju">58.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;动物性食物类</td>
+<td class="shuju">12.6</td>
+<td class="shuju">15.0</td>
+<td class="shuju">17.6</td>
+<td class="shuju">17.6</td>
+<td class="shuju">10.7</td>
+<td class="shuju">12.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">29.5</td>
+<td class="shuju">31.9</td>
+<td class="shuju">33.9</td>
+<td class="shuju">35.3</td>
+<td class="shuju">27.8</td>
+<td class="shuju">28.7</td>
+</tr>
+<tr><td class="zhibiao">能量的营养素来源</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;蛋白质</td>
+<td class="shuju">11.8</td>
+<td class="shuju">12.1</td>
+<td class="shuju">13.1</td>
+<td class="shuju">12.9</td>
+<td class="shuju">11.3</td>
+<td class="shuju">11.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;脂肪</td>
+<td class="shuju">29.6</td>
+<td class="shuju">32.9</td>
+<td class="shuju">35.0</td>
+<td class="shuju">36.1</td>
+<td class="shuju">27.5</td>
+<td class="shuju">29.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;碳水化合物</td>
+<td class="shuju">58.6</td>
+<td class="shuju">55.0</td>
+<td class="shuju">51.9</td>
+<td class="shuju">51.0</td>
+<td class="shuju">61.2</td>
+<td class="shuju">59.1</td>
+</tr>
+<tr><td class="zhibiao">蛋白质的食物来源</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;谷类</td>
+<td class="shuju">52.0</td>
+<td class="shuju">47.3</td>
+<td class="shuju">40.7</td>
+<td class="shuju">39.7</td>
+<td class="shuju">56.5</td>
+<td class="shuju">54.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;豆类</td>
+<td class="shuju">7.5</td>
+<td class="shuju">5.4</td>
+<td class="shuju">7.3</td>
+<td class="shuju">6.3</td>
+<td class="shuju">7.6</td>
+<td class="shuju">4.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;动物性食物类</td>
+<td class="shuju">25.1</td>
+<td class="shuju">30.7</td>
+<td class="shuju">35.8</td>
+<td class="shuju">36.2</td>
+<td class="shuju">21.0</td>
+<td class="shuju">25.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">15.4</td>
+<td class="shuju">16.6</td>
+<td class="shuju">16.2</td>
+<td class="shuju">17.8</td>
+<td class="shuju">14.9</td>
+<td class="shuju">15.5</td>
+</tr>
+<tr><td class="zhibiao">脂肪的食物来源</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;动物性食物</td>
+<td class="shuju">39.2</td>
+<td class="shuju">35.9</td>
+<td class="shuju">36.2</td>
+<td class="shuju">34.3</td>
+<td class="shuju">40.4</td>
+<td class="shuju">37.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;植物性食物</td>
+<td class="shuju">60.8</td>
+<td class="shuju">64.1</td>
+<td class="shuju">63.8</td>
+<td class="shuju">65.7</td>
+<td class="shuju">59.6</td>
+<td class="shuju">62.6</td>
+</tr>
+</table>
+<table class="exp" id="tab2">
+<tr><td>资料来源:2002.2012中国居民营养与健康监测.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

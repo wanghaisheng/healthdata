@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年中医类医疗机构诊疗人次统计(2010-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">机构分类</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">中医类总诊疗量(万人次)</td>
+<td class="shuju">61264.1</td>
+<td class="shuju">67531.9</td>
+<td class="shuju">74695.2</td>
+<td class="shuju">81409.4</td>
+<td class="shuju">87430.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医类医院</td>
+<td class="shuju">36026.5</td>
+<td class="shuju">39668.5</td>
+<td class="shuju">45120.2</td>
+<td class="shuju">48952.5</td>
+<td class="shuju">53058.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医医院</td>
+<td class="shuju">32770.2</td>
+<td class="shuju">36120.6</td>
+<td class="shuju">40705.2</td>
+<td class="shuju">43726.3</td>
+<td class="shuju">47164.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中西医结合医院</td>
+<td class="shuju">2702.6</td>
+<td class="shuju">2958.8</td>
+<td class="shuju">3769.1</td>
+<td class="shuju">4466.1</td>
+<td class="shuju">5101.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;民族医医院</td>
+<td class="shuju">553.8</td>
+<td class="shuju">589.1</td>
+<td class="shuju">645.9</td>
+<td class="shuju">760.1</td>
+<td class="shuju">792.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医类门诊部</td>
+<td class="shuju">975.9</td>
+<td class="shuju">1127.9</td>
+<td class="shuju">1290.8</td>
+<td class="shuju">1433.6</td>
+<td class="shuju">1525.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医门诊部</td>
+<td class="shuju">808.9</td>
+<td class="shuju">934.8</td>
+<td class="shuju">1069.5</td>
+<td class="shuju">1221.6</td>
+<td class="shuju">1304.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中西医结合门诊部</td>
+<td class="shuju">164.6</td>
+<td class="shuju">189.2</td>
+<td class="shuju">217.8</td>
+<td class="shuju">207.9</td>
+<td class="shuju">218.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;民族医门诊部</td>
+<td class="shuju">2.4</td>
+<td class="shuju">4.0</td>
+<td class="shuju">3.5</td>
+<td class="shuju">4.1</td>
+<td class="shuju">2.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;中医类诊所</td>
+<td class="shuju">9178.3</td>
+<td class="shuju">9981</td>
+<td class="shuju">10250.2</td>
+<td class="shuju">11059.3</td>
+<td class="shuju">11342.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中医诊所</td>
+<td class="shuju">6796.1</td>
+<td class="shuju">7414</td>
+<td class="shuju">7857.7</td>
+<td class="shuju">8616.7</td>
+<td class="shuju">8870.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;中西医结合诊所</td>
+<td class="shuju">2283.8</td>
+<td class="shuju">2458</td>
+<td class="shuju">2291.0</td>
+<td class="shuju">2341.5</td>
+<td class="shuju">2362</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;民族医诊所</td>
+<td class="shuju">98.3</td>
+<td class="shuju">109.0</td>
+<td class="shuju">101.5</td>
+<td class="shuju">101.1</td>
+<td class="shuju">110.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他机构中医类临床科室</td>
+<td class="shuju">15083.4</td>
+<td class="shuju">16754.5</td>
+<td class="shuju">18033.9</td>
+<td class="shuju">19964</td>
+<td class="shuju">21505.3</td>
+</tr>
+<tr><td class="zhibiao">中医类诊疗量占总诊疗量%</td>
+<td class="shuju">14.7</td>
+<td class="shuju">15.1</td>
+<td class="shuju">15.1</td>
+<td class="shuju">15.4</td>
+<td class="shuju">15.6</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

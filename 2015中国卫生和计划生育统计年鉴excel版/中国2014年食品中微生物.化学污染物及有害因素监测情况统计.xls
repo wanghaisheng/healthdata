@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年食品中微生物.化学污染物及有害因素监测情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" colspan="5">化学污染物和有害因素</td>
+<td class="biaotou" colspan="5">微生物</td>
+</tr><tr><td class="biaotou">采样单位(个)</td>
+<td class="biaotou">检测单位(个)</td>
+<td class="biaotou">数据上报单位(个)</td>
+<td class="biaotou">完成样本数(份)</td>
+<td class="biaotou">监测数据量(个)</td>
+<td class="biaotou">采样单位(个)</td>
+<td class="biaotou">检测单位(个)</td>
+<td class="biaotou">数据上报单位(个)</td>
+<td class="biaotou">完成样本数(份)</td>
+<td class="biaotou">监测数据量(个)</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">785</td>
+<td class="shuju">607</td>
+<td class="shuju">620</td>
+<td class="shuju">187732</td>
+<td class="shuju">1667765</td>
+<td class="shuju">597</td>
+<td class="shuju">527</td>
+<td class="shuju">527</td>
+<td class="shuju">105029</td>
+<td class="shuju">410293</td>
+</tr>
+<tr><td class="zhibiao">省级</td>
+<td class="shuju">23</td>
+<td class="shuju">26</td>
+<td class="shuju">21</td>
+<td class="shuju">12862</td>
+<td class="shuju">157876</td>
+<td class="shuju">21</td>
+<td class="shuju">20</td>
+<td class="shuju">20</td>
+<td class="shuju">8064</td>
+<td class="shuju">29214</td>
+</tr>
+<tr><td class="zhibiao">地市级</td>
+<td class="shuju">454</td>
+<td class="shuju">335</td>
+<td class="shuju">316</td>
+<td class="shuju">135736</td>
+<td class="shuju">1284148</td>
+<td class="shuju">320</td>
+<td class="shuju">320</td>
+<td class="shuju">320</td>
+<td class="shuju">69780</td>
+<td class="shuju">276674</td>
+</tr>
+<tr><td class="zhibiao">区县级</td>
+<td class="shuju">308</td>
+<td class="shuju">246</td>
+<td class="shuju">283</td>
+<td class="shuju">39134</td>
+<td class="shuju">225741</td>
+<td class="shuju">256</td>
+<td class="shuju">187</td>
+<td class="shuju">187</td>
+<td class="shuju">27185</td>
+<td class="shuju">104405</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:2014年化学污染物和有害因素采样涉及2380个区县.微生物采样涉及1914个区县.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

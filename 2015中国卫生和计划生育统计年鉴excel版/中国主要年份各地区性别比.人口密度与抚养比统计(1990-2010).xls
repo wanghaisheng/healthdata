@@ -1,0 +1,482 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份各地区性别比.人口密度与抚养比统计(1990-2010)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">地区</td>
+<td class="biaotou" colspan="3">性别比</td>
+<td class="biaotou" colspan="2">人口密度(人/公里2)</td>
+<td class="biaotou" colspan="3">少年儿童抚养比</td>
+<td class="biaotou" colspan="3">老年人口抚养比</td>
+</tr><tr><td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">1990</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2010</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">106.3</td>
+<td class="shuju">106.7</td>
+<td class="shuju">105.2</td>
+<td class="shuju">118</td>
+<td class="shuju">132</td>
+<td class="shuju">41.5</td>
+<td class="shuju">32.7</td>
+<td class="shuju">22.3</td>
+<td class="shuju">8.4</td>
+<td class="shuju">10.0</td>
+<td class="shuju">12.0</td>
+</tr>
+<tr><td class="zhibiao">北京</td>
+<td class="shuju">107.0</td>
+<td class="shuju">109.0</td>
+<td class="shuju">106.8</td>
+<td class="shuju">644</td>
+<td class="shuju">823</td>
+<td class="shuju">27.4</td>
+<td class="shuju">17.4</td>
+<td class="shuju">10.4</td>
+<td class="shuju">8.7</td>
+<td class="shuju">10.8</td>
+<td class="shuju">10.5</td>
+</tr>
+<tr><td class="zhibiao">天津</td>
+<td class="shuju">103.6</td>
+<td class="shuju">104.0</td>
+<td class="shuju">114.5</td>
+<td class="shuju">777</td>
+<td class="shuju">886</td>
+<td class="shuju">32.2</td>
+<td class="shuju">22.4</td>
+<td class="shuju">12.0</td>
+<td class="shuju">9.2</td>
+<td class="shuju">11.1</td>
+<td class="shuju">10.4</td>
+</tr>
+<tr><td class="zhibiao">河北</td>
+<td class="shuju">104.5</td>
+<td class="shuju">103.7</td>
+<td class="shuju">102.8</td>
+<td class="shuju">325</td>
+<td class="shuju">359</td>
+<td class="shuju">44.6</td>
+<td class="shuju">32.5</td>
+<td class="shuju">22.5</td>
+<td class="shuju">8.9</td>
+<td class="shuju">9.8</td>
+<td class="shuju">11.0</td>
+</tr>
+<tr><td class="zhibiao">山西</td>
+<td class="shuju">108.4</td>
+<td class="shuju">107.3</td>
+<td class="shuju">105.6</td>
+<td class="shuju">184</td>
+<td class="shuju">211</td>
+<td class="shuju">42.4</td>
+<td class="shuju">38.0</td>
+<td class="shuju">22.7</td>
+<td class="shuju">8.1</td>
+<td class="shuju">9.1</td>
+<td class="shuju">10.1</td>
+</tr>
+<tr><td class="zhibiao">内蒙古</td>
+<td class="shuju">108.3</td>
+<td class="shuju">107.2</td>
+<td class="shuju">108.1</td>
+<td class="shuju">18</td>
+<td class="shuju">20</td>
+<td class="shuju">42.1</td>
+<td class="shuju">29.0</td>
+<td class="shuju">18.0</td>
+<td class="shuju">5.9</td>
+<td class="shuju">7.3</td>
+<td class="shuju">9.7</td>
+</tr>
+<tr><td class="zhibiao">辽宁</td>
+<td class="shuju">104.4</td>
+<td class="shuju">104.0</td>
+<td class="shuju">102.5</td>
+<td class="shuju">270</td>
+<td class="shuju">290</td>
+<td class="shuju">32.6</td>
+<td class="shuju">23.7</td>
+<td class="shuju">14.6</td>
+<td class="shuju">8.0</td>
+<td class="shuju">10.5</td>
+<td class="shuju">13.2</td>
+</tr>
+<tr><td class="zhibiao">吉林</td>
+<td class="shuju">104.9</td>
+<td class="shuju">104.9</td>
+<td class="shuju">102.7</td>
+<td class="shuju">132</td>
+<td class="shuju">146</td>
+<td class="shuju">37.7</td>
+<td class="shuju">25.2</td>
+<td class="shuju">15.1</td>
+<td class="shuju">5.4</td>
+<td class="shuju">7.8</td>
+<td class="shuju">10.5</td>
+</tr>
+<tr><td class="zhibiao">黑龙江</td>
+<td class="shuju">105.1</td>
+<td class="shuju">104.6</td>
+<td class="shuju">103.2</td>
+<td class="shuju">78</td>
+<td class="shuju">81</td>
+<td class="shuju">38.2</td>
+<td class="shuju">25.0</td>
+<td class="shuju">15.0</td>
+<td class="shuju">8.0</td>
+<td class="shuju">7.2</td>
+<td class="shuju">10.4</td>
+</tr>
+<tr><td class="zhibiao">上海</td>
+<td class="shuju">104.2</td>
+<td class="shuju">105.7</td>
+<td class="shuju">106.2</td>
+<td class="shuju">2118</td>
+<td class="shuju">2657</td>
+<td class="shuju">25.2</td>
+<td class="shuju">16.0</td>
+<td class="shuju">10.6</td>
+<td class="shuju">12.9</td>
+<td class="shuju">15.1</td>
+<td class="shuju">12.5</td>
+</tr>
+<tr><td class="zhibiao">江苏</td>
+<td class="shuju">103.6</td>
+<td class="shuju">102.6</td>
+<td class="shuju">101.5</td>
+<td class="shuju">654</td>
+<td class="shuju">725</td>
+<td class="shuju">34.2</td>
+<td class="shuju">27.5</td>
+<td class="shuju">17.1</td>
+<td class="shuju">9.8</td>
+<td class="shuju">12.2</td>
+<td class="shuju">14.3</td>
+</tr>
+<tr><td class="zhibiao">浙江</td>
+<td class="shuju">106.4</td>
+<td class="shuju">105.6</td>
+<td class="shuju">105.7</td>
+<td class="shuju">407</td>
+<td class="shuju">459</td>
+<td class="shuju">33.3</td>
+<td class="shuju">24.7</td>
+<td class="shuju">17.1</td>
+<td class="shuju">9.8</td>
+<td class="shuju">12.1</td>
+<td class="shuju">12.1</td>
+</tr>
+<tr><td class="zhibiao">安徽</td>
+<td class="shuju">106.9</td>
+<td class="shuju">106.6</td>
+<td class="shuju">103.4</td>
+<td class="shuju">404</td>
+<td class="shuju">429</td>
+<td class="shuju">42.9</td>
+<td class="shuju">38.1</td>
+<td class="shuju">24.7</td>
+<td class="shuju">8.2</td>
+<td class="shuju">11.1</td>
+<td class="shuju">14.2</td>
+</tr>
+<tr><td class="zhibiao">福建</td>
+<td class="shuju">105.6</td>
+<td class="shuju">106.4</td>
+<td class="shuju">106.0</td>
+<td class="shuju">248</td>
+<td class="shuju">286</td>
+<td class="shuju">49.6</td>
+<td class="shuju">32.7</td>
+<td class="shuju">20.2</td>
+<td class="shuju">8.0</td>
+<td class="shuju">9.3</td>
+<td class="shuju">10.3</td>
+</tr>
+<tr><td class="zhibiao">江西</td>
+<td class="shuju">107.0</td>
+<td class="shuju">108.3</td>
+<td class="shuju">107.5</td>
+<td class="shuju">226</td>
+<td class="shuju">248</td>
+<td class="shuju">50.4</td>
+<td class="shuju">38.3</td>
+<td class="shuju">31.1</td>
+<td class="shuju">8.1</td>
+<td class="shuju">9.0</td>
+<td class="shuju">10.8</td>
+</tr>
+<tr><td class="zhibiao">山东</td>
+<td class="shuju">103.5</td>
+<td class="shuju">102.5</td>
+<td class="shuju">102.3</td>
+<td class="shuju">539</td>
+<td class="shuju">579</td>
+<td class="shuju">39.6</td>
+<td class="shuju">29.3</td>
+<td class="shuju">21.2</td>
+<td class="shuju">9.2</td>
+<td class="shuju">11.3</td>
+<td class="shuju">13.2</td>
+</tr>
+<tr><td class="zhibiao">河南</td>
+<td class="shuju">105.1</td>
+<td class="shuju">106.6</td>
+<td class="shuju">102.1</td>
+<td class="shuju">512</td>
+<td class="shuju">554</td>
+<td class="shuju">45.1</td>
+<td class="shuju">38.7</td>
+<td class="shuju">29.7</td>
+<td class="shuju">9.0</td>
+<td class="shuju">10.4</td>
+<td class="shuju">11.8</td>
+</tr>
+<tr><td class="zhibiao">湖北</td>
+<td class="shuju">106.5</td>
+<td class="shuju">108.6</td>
+<td class="shuju">105.6</td>
+<td class="shuju">290</td>
+<td class="shuju">324</td>
+<td class="shuju">43.1</td>
+<td class="shuju">32.3</td>
+<td class="shuju">18.1</td>
+<td class="shuju">8.3</td>
+<td class="shuju">8.9</td>
+<td class="shuju">11.8</td>
+</tr>
+<tr><td class="zhibiao">湖南</td>
+<td class="shuju">108.0</td>
+<td class="shuju">109.0</td>
+<td class="shuju">105.8</td>
+<td class="shuju">286</td>
+<td class="shuju">304</td>
+<td class="shuju">42.1</td>
+<td class="shuju">31.4</td>
+<td class="shuju">24.3</td>
+<td class="shuju">8.4</td>
+<td class="shuju">10.3</td>
+<td class="shuju">13.5</td>
+</tr>
+<tr><td class="zhibiao">广东</td>
+<td class="shuju">104.8</td>
+<td class="shuju">103.8</td>
+<td class="shuju">109.0</td>
+<td class="shuju">353</td>
+<td class="shuju">486</td>
+<td class="shuju">46.6</td>
+<td class="shuju">34.6</td>
+<td class="shuju">22.1</td>
+<td class="shuju">9.3</td>
+<td class="shuju">8.7</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">广西</td>
+<td class="shuju">110.3</td>
+<td class="shuju">112.7</td>
+<td class="shuju">108.3</td>
+<td class="shuju">178</td>
+<td class="shuju">190</td>
+<td class="shuju">54.5</td>
+<td class="shuju">39.4</td>
+<td class="shuju">31.4</td>
+<td class="shuju">8.9</td>
+<td class="shuju">10.7</td>
+<td class="shuju">13.4</td>
+</tr>
+<tr><td class="zhibiao">海南</td>
+<td class="shuju">108.9</td>
+<td class="shuju">109.8</td>
+<td class="shuju">110.9</td>
+<td class="shuju">193</td>
+<td class="shuju">232</td>
+<td class="shuju">53.9</td>
+<td class="shuju">41.6</td>
+<td class="shuju">27.4</td>
+<td class="shuju">8.7</td>
+<td class="shuju">10.0</td>
+<td class="shuju">11.2</td>
+</tr>
+<tr><td class="zhibiao">重庆</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">108.0</td>
+<td class="shuju">102.4</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">375</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">31.3</td>
+<td class="shuju">23.9</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">11.3</td>
+<td class="shuju">16.5</td>
+</tr>
+<tr><td class="zhibiao">四川</td>
+<td class="shuju">107.5</td>
+<td class="shuju">107.0</td>
+<td class="shuju">103.1</td>
+<td class="shuju">188</td>
+<td class="shuju">172</td>
+<td class="shuju">32.6</td>
+<td class="shuju">32.4</td>
+<td class="shuju">23.5</td>
+<td class="shuju">8.0</td>
+<td class="shuju">10.6</td>
+<td class="shuju">15.2</td>
+</tr>
+<tr><td class="zhibiao">贵州</td>
+<td class="shuju">107.4</td>
+<td class="shuju">110.1</td>
+<td class="shuju">106.9</td>
+<td class="shuju">184</td>
+<td class="shuju">200</td>
+<td class="shuju">52.1</td>
+<td class="shuju">47.4</td>
+<td class="shuju">38.3</td>
+<td class="shuju">7.3</td>
+<td class="shuju">9.1</td>
+<td class="shuju">13.2</td>
+</tr>
+<tr><td class="zhibiao">云南</td>
+<td class="shuju">105.7</td>
+<td class="shuju">110.1</td>
+<td class="shuju">107.8</td>
+<td class="shuju">94</td>
+<td class="shuju">109</td>
+<td class="shuju">49.9</td>
+<td class="shuju">38.3</td>
+<td class="shuju">28.9</td>
+<td class="shuju">7.7</td>
+<td class="shuju">8.8</td>
+<td class="shuju">10.6</td>
+</tr>
+<tr><td class="zhibiao">西藏</td>
+<td class="shuju">100.1</td>
+<td class="shuju">102.6</td>
+<td class="shuju">105.7</td>
+<td class="shuju">1.8</td>
+<td class="shuju">2.1</td>
+<td class="shuju">59.5</td>
+<td class="shuju">48.8</td>
+<td class="shuju">34.6</td>
+<td class="shuju">7.6</td>
+<td class="shuju">7.1</td>
+<td class="shuju">7.2</td>
+</tr>
+<tr><td class="zhibiao">陕西</td>
+<td class="shuju">108.0</td>
+<td class="shuju">108.4</td>
+<td class="shuju">106.9</td>
+<td class="shuju">160</td>
+<td class="shuju">175</td>
+<td class="shuju">43.8</td>
+<td class="shuju">36.2</td>
+<td class="shuju">19.2</td>
+<td class="shuju">7.8</td>
+<td class="shuju">8.6</td>
+<td class="shuju">11.1</td>
+</tr>
+<tr><td class="zhibiao">甘肃</td>
+<td class="shuju">107.6</td>
+<td class="shuju">107.6</td>
+<td class="shuju">104.4</td>
+<td class="shuju">49</td>
+<td class="shuju">56</td>
+<td class="shuju">41.2</td>
+<td class="shuju">39.7</td>
+<td class="shuju">24.7</td>
+<td class="shuju">6.0</td>
+<td class="shuju">7.3</td>
+<td class="shuju">11.2</td>
+</tr>
+<tr><td class="zhibiao">青海</td>
+<td class="shuju">107.6</td>
+<td class="shuju">107.1</td>
+<td class="shuju">107.4</td>
+<td class="shuju">6</td>
+<td class="shuju">7.2</td>
+<td class="shuju">46.4</td>
+<td class="shuju">38.5</td>
+<td class="shuju">28.8</td>
+<td class="shuju">4.8</td>
+<td class="shuju">6.1</td>
+<td class="shuju">8.7</td>
+</tr>
+<tr><td class="zhibiao">宁夏</td>
+<td class="shuju">105.5</td>
+<td class="shuju">105.3</td>
+<td class="shuju">105.1</td>
+<td class="shuju">90</td>
+<td class="shuju">108</td>
+<td class="shuju">53.8</td>
+<td class="shuju">42.4</td>
+<td class="shuju">29.6</td>
+<td class="shuju">5.5</td>
+<td class="shuju">6.6</td>
+<td class="shuju">8.9</td>
+</tr>
+<tr><td class="zhibiao">新疆</td>
+<td class="shuju">106.6</td>
+<td class="shuju">107.3</td>
+<td class="shuju">105.3</td>
+<td class="shuju">9</td>
+<td class="shuju">12</td>
+<td class="shuju">52.4</td>
+<td class="shuju">40.1</td>
+<td class="shuju">28.0</td>
+<td class="shuju">6.3</td>
+<td class="shuju">6.6</td>
+<td class="shuju">8.9</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:1990.2000.2010年系人口普查数字.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

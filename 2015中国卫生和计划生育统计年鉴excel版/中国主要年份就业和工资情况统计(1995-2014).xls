@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国主要年份就业和工资情况统计(1995-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">1995</td>
+<td class="biaotou">2000</td>
+<td class="biaotou">2005</td>
+<td class="biaotou">2010</td>
+<td class="biaotou">2011</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr>
+<tr><td class="zhibiao">年底从业人员(万人)</td>
+<td class="shuju">68065</td>
+<td class="shuju">72085</td>
+<td class="shuju">74647</td>
+<td class="shuju">76105</td>
+<td class="shuju">76420</td>
+<td class="shuju">76704</td>
+<td class="shuju">76977</td>
+<td class="shuju">77253</td>
+</tr>
+<tr><td class="zhibiao">按三次产业分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;第一产业</td>
+<td class="shuju">35530</td>
+<td class="shuju">36043</td>
+<td class="shuju">33441.9</td>
+<td class="shuju">27931</td>
+<td class="shuju">26594</td>
+<td class="shuju">25773</td>
+<td class="shuju">24171</td>
+<td class="shuju">22790</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;第二产业</td>
+<td class="shuju">15655</td>
+<td class="shuju">16219</td>
+<td class="shuju">17766</td>
+<td class="shuju">21842</td>
+<td class="shuju">22544</td>
+<td class="shuju">23241</td>
+<td class="shuju">23170</td>
+<td class="shuju">23099</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;第三产业</td>
+<td class="shuju">16880</td>
+<td class="shuju">19823</td>
+<td class="shuju">23439.2</td>
+<td class="shuju">26332</td>
+<td class="shuju">27282</td>
+<td class="shuju">27690</td>
+<td class="shuju">29636</td>
+<td class="shuju">31364</td>
+</tr>
+<tr><td class="zhibiao">按城乡分</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇从业人员</td>
+<td class="shuju">19040</td>
+<td class="shuju">23151</td>
+<td class="shuju">28389</td>
+<td class="shuju">34687</td>
+<td class="shuju">35914</td>
+<td class="shuju">37102</td>
+<td class="shuju">38240</td>
+<td class="shuju">39310</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;国有单位</td>
+<td class="shuju">11261</td>
+<td class="shuju">8102</td>
+<td class="shuju">6488</td>
+<td class="shuju">6516</td>
+<td class="shuju">6704</td>
+<td class="shuju">6839</td>
+<td class="shuju">6365</td>
+<td class="shuju">6312</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;城镇集体单位</td>
+<td class="shuju">3147</td>
+<td class="shuju">1499</td>
+<td class="shuju">810</td>
+<td class="shuju">597</td>
+<td class="shuju">603</td>
+<td class="shuju">589</td>
+<td class="shuju">566</td>
+<td class="shuju">537</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;私营企业</td>
+<td class="shuju">485</td>
+<td class="shuju">1268</td>
+<td class="shuju">3458</td>
+<td class="shuju">6071</td>
+<td class="shuju">6912</td>
+<td class="shuju">7557</td>
+<td class="shuju">8242</td>
+<td class="shuju">9857</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乡村从业人员</td>
+<td class="shuju">49025</td>
+<td class="shuju">48934</td>
+<td class="shuju">46258</td>
+<td class="shuju">41418</td>
+<td class="shuju">40506</td>
+<td class="shuju">39602</td>
+<td class="shuju">38737</td>
+<td class="shuju">37943</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;乡村私营企业</td>
+<td class="shuju">471</td>
+<td class="shuju">1139</td>
+<td class="shuju">2366</td>
+<td class="shuju">3347</td>
+<td class="shuju">3442</td>
+<td class="shuju">3739</td>
+<td class="shuju">4279</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">城镇登记失业人数(万人)</td>
+<td class="shuju">520</td>
+<td class="shuju">595</td>
+<td class="shuju">839</td>
+<td class="shuju">908</td>
+<td class="shuju">922</td>
+<td class="shuju">917</td>
+<td class="shuju">926</td>
+<td class="shuju">952</td>
+</tr>
+<tr><td class="zhibiao">城镇登记失业率(%)</td>
+<td class="shuju">2.9</td>
+<td class="shuju">3.1</td>
+<td class="shuju">4.2</td>
+<td class="shuju">4.1</td>
+<td class="shuju">4.1</td>
+<td class="shuju">4.1</td>
+<td class="shuju">4.1</td>
+<td class="shuju">4.1</td>
+</tr>
+<tr><td class="zhibiao">城镇单位就业人员平均工资(元)</td>
+<td class="shuju">5348</td>
+<td class="shuju">9333</td>
+<td class="shuju">18200</td>
+<td class="shuju">36539</td>
+<td class="shuju">41799</td>
+<td class="shuju">46769</td>
+<td class="shuju">51483</td>
+<td class="shuju">56339</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;国有单位</td>
+<td class="shuju">5553</td>
+<td class="shuju">9441</td>
+<td class="shuju">18978</td>
+<td class="shuju">38359</td>
+<td class="shuju">43483</td>
+<td class="shuju">48357</td>
+<td class="shuju">52657</td>
+<td class="shuju">57296</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;城镇集体单位</td>
+<td class="shuju">3934</td>
+<td class="shuju">6241</td>
+<td class="shuju">11176</td>
+<td class="shuju">24010</td>
+<td class="shuju">28791</td>
+<td class="shuju">33784</td>
+<td class="shuju">38905</td>
+<td class="shuju">42742</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他单位</td>
+<td class="shuju">7728</td>
+<td class="shuju">11238</td>
+<td class="shuju">18362</td>
+<td class="shuju">35801</td>
+<td class="shuju">41323</td>
+<td class="shuju">46360</td>
+<td class="shuju">51453</td>
+<td class="shuju">56452</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

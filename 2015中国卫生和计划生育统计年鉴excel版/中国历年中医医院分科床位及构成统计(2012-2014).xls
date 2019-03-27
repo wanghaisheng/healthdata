@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年中医医院分科床位及构成统计(2012-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">科别</td>
+<td class="biaotou" colspan="3">床位数(张)</td>
+<td class="biaotou" colspan="3">构成(%)</td>
+</tr><tr><td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">547967</td>
+<td class="shuju">608843</td>
+<td class="shuju">665005</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+<td class="shuju">100.0</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;内科</td>
+<td class="shuju">181220</td>
+<td class="shuju">200132</td>
+<td class="shuju">221096</td>
+<td class="shuju">33.1</td>
+<td class="shuju">32.9</td>
+<td class="shuju">33.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;外科</td>
+<td class="shuju">89197</td>
+<td class="shuju">94055</td>
+<td class="shuju">99191</td>
+<td class="shuju">16.3</td>
+<td class="shuju">15.4</td>
+<td class="shuju">14.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;儿科</td>
+<td class="shuju">25466</td>
+<td class="shuju">28752</td>
+<td class="shuju">31768</td>
+<td class="shuju">4.6</td>
+<td class="shuju">4.7</td>
+<td class="shuju">4.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;妇产科</td>
+<td class="shuju">48059</td>
+<td class="shuju">50690</td>
+<td class="shuju">53587</td>
+<td class="shuju">8.8</td>
+<td class="shuju">8.3</td>
+<td class="shuju">8.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;眼科</td>
+<td class="shuju">7192</td>
+<td class="shuju">7599</td>
+<td class="shuju">8233</td>
+<td class="shuju">1.3</td>
+<td class="shuju">1.2</td>
+<td class="shuju">1.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;耳鼻喉科</td>
+<td class="shuju">5854</td>
+<td class="shuju">6775</td>
+<td class="shuju">7401</td>
+<td class="shuju">1.1</td>
+<td class="shuju">1.1</td>
+<td class="shuju">1.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;皮肤科</td>
+<td class="shuju">2912</td>
+<td class="shuju">3726</td>
+<td class="shuju">4414</td>
+<td class="shuju">0.5</td>
+<td class="shuju">0.6</td>
+<td class="shuju">0.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;骨伤科</td>
+<td class="shuju">83212</td>
+<td class="shuju">91085</td>
+<td class="shuju">97668</td>
+<td class="shuju">15.2</td>
+<td class="shuju">15</td>
+<td class="shuju">14.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肛肠科</td>
+<td class="shuju">18946</td>
+<td class="shuju">20867</td>
+<td class="shuju">22717</td>
+<td class="shuju">3.5</td>
+<td class="shuju">3.4</td>
+<td class="shuju">3.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;针灸科</td>
+<td class="shuju">22246</td>
+<td class="shuju">27459</td>
+<td class="shuju">31084</td>
+<td class="shuju">4.1</td>
+<td class="shuju">4.5</td>
+<td class="shuju">4.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;推拿科</td>
+<td class="shuju">6753</td>
+<td class="shuju">7989</td>
+<td class="shuju">9421</td>
+<td class="shuju">1.2</td>
+<td class="shuju">1.3</td>
+<td class="shuju">1.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;其他</td>
+<td class="shuju">56910</td>
+<td class="shuju">69714</td>
+<td class="shuju">78425</td>
+<td class="shuju">10.4</td>
+<td class="shuju">11.5</td>
+<td class="shuju">11.8</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年医院出院病人年龄别疾病构成统计(男)(四)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou">疾病名称(ICD-10)</td>
+<td class="biaotou">5岁以下</td>
+<td class="biaotou">5-14岁</td>
+<td class="biaotou">15-44岁</td>
+<td class="biaotou">45-59岁</td>
+<td class="biaotou">60岁及以上</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;男性生殖器官疾病</td>
+<td class="shuju">6.7</td>
+<td class="shuju">13.8</td>
+<td class="shuju">18.4</td>
+<td class="shuju">10.5</td>
+<td class="shuju">50.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:前列腺增生</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">0.3</td>
+<td class="shuju">7.3</td>
+<td class="shuju">92.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乳房疾患</td>
+<td class="shuju">1.4</td>
+<td class="shuju">2.3</td>
+<td class="shuju">51.0</td>
+<td class="shuju">20.3</td>
+<td class="shuju">24.9</td>
+</tr>
+<tr><td class="zhibiao">15.妊娠.分娩和产褥期小计</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">16.起源于围生期疾病小计</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;产伤</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;出生窒息</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新生儿吸入综合征</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;围生期的感染</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;胎儿和新生儿的溶血性疾病</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新生儿硬化病</td>
+<td class="shuju">100.0</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">17.先天性畸形.变形和染色体异常小计</td>
+<td class="shuju">36.8</td>
+<td class="shuju">21.0</td>
+<td class="shuju">23.2</td>
+<td class="shuju">10.6</td>
+<td class="shuju">8.4</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;神经系统其他先天性畸形</td>
+<td class="shuju">73.7</td>
+<td class="shuju">6.8</td>
+<td class="shuju">12.1</td>
+<td class="shuju">5.0</td>
+<td class="shuju">2.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;循环系统先天性畸形</td>
+<td class="shuju">24.0</td>
+<td class="shuju">9.7</td>
+<td class="shuju">27.5</td>
+<td class="shuju">21.1</td>
+<td class="shuju">17.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:先天性心脏病</td>
+<td class="shuju">26.1</td>
+<td class="shuju">8.9</td>
+<td class="shuju">23.6</td>
+<td class="shuju">21.7</td>
+<td class="shuju">19.7</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;唇裂和腭裂</td>
+<td class="shuju">80.3</td>
+<td class="shuju">10.3</td>
+<td class="shuju">8.9</td>
+<td class="shuju">0.3</td>
+<td class="shuju">0.2</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;消化系统先天性畸形</td>
+<td class="shuju">72.2</td>
+<td class="shuju">11.1</td>
+<td class="shuju">7.6</td>
+<td class="shuju">4.7</td>
+<td class="shuju">4.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;生殖泌尿系统先天性畸形</td>
+<td class="shuju">35.1</td>
+<td class="shuju">33.4</td>
+<td class="shuju">20.3</td>
+<td class="shuju">6.1</td>
+<td class="shuju">5.1</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;肌肉骨骼系统先天性畸形</td>
+<td class="shuju">50.1</td>
+<td class="shuju">23.5</td>
+<td class="shuju">19.3</td>
+<td class="shuju">3.8</td>
+<td class="shuju">3.2</td>
+</tr>
+<tr><td class="zhibiao">18.症状.体征和检验异常小计</td>
+<td class="shuju">10.5</td>
+<td class="shuju">4.5</td>
+<td class="shuju">20.8</td>
+<td class="shuju">23.2</td>
+<td class="shuju">41.0</td>
+</tr>
+<tr><td class="zhibiao">19.损伤.中毒小计</td>
+<td class="shuju">3.7</td>
+<td class="shuju">5.9</td>
+<td class="shuju">45.6</td>
+<td class="shuju">27.2</td>
+<td class="shuju">17.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;骨折</td>
+<td class="shuju">3.2</td>
+<td class="shuju">7.6</td>
+<td class="shuju">45.5</td>
+<td class="shuju">26.9</td>
+<td class="shuju">16.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:颅骨和面骨骨折</td>
+<td class="shuju">5.1</td>
+<td class="shuju">7.8</td>
+<td class="shuju">55.8</td>
+<td class="shuju">22.5</td>
+<td class="shuju">8.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;股骨骨折</td>
+<td class="shuju">2.6</td>
+<td class="shuju">4.2</td>
+<td class="shuju">24.7</td>
+<td class="shuju">18.7</td>
+<td class="shuju">49.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;多部位骨折</td>
+<td class="shuju">0.8</td>
+<td class="shuju">2.6</td>
+<td class="shuju">47.0</td>
+<td class="shuju">32.3</td>
+<td class="shuju">17.3</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;颅内损伤</td>
+<td class="shuju">3.2</td>
+<td class="shuju">5.6</td>
+<td class="shuju">41.9</td>
+<td class="shuju">27.3</td>
+<td class="shuju">21.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;烧伤和腐蚀伤</td>
+<td class="shuju">30.7</td>
+<td class="shuju">7.8</td>
+<td class="shuju">34.7</td>
+<td class="shuju">18.2</td>
+<td class="shuju">8.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;药物.药剂和生物制品中毒</td>
+<td class="shuju">21.7</td>
+<td class="shuju">5.1</td>
+<td class="shuju">35.9</td>
+<td class="shuju">16.5</td>
+<td class="shuju">20.8</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;非药用物质的毒性效应</td>
+<td class="shuju">8.4</td>
+<td class="shuju">8.4</td>
+<td class="shuju">36.0</td>
+<td class="shuju">23.6</td>
+<td class="shuju">23.6</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医疗并发症计</td>
+<td class="shuju">2.4</td>
+<td class="shuju">4.2</td>
+<td class="shuju">35.6</td>
+<td class="shuju">28.4</td>
+<td class="shuju">29.5</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;内:手术和操作并发症</td>
+<td class="shuju">1.8</td>
+<td class="shuju">4.5</td>
+<td class="shuju">36.8</td>
+<td class="shuju">27.1</td>
+<td class="shuju">29.9</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;&nbsp;&nbsp;假体装置.植入物和移植物并发症</td>
+<td class="shuju">1.2</td>
+<td class="shuju">3.3</td>
+<td class="shuju">33.1</td>
+<td class="shuju">30.3</td>
+<td class="shuju">32.1</td>
+</tr>
+<tr><td class="zhibiao">20.其他接受医疗服务小计</td>
+<td class="shuju">2.7</td>
+<td class="shuju">2.2</td>
+<td class="shuju">19.3</td>
+<td class="shuju">32.9</td>
+<td class="shuju">42.9</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

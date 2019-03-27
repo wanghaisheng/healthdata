@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年公共场所卫生被监督单位情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">指标</td>
+<td class="biaotou">总计</td>
+<td class="biaotou">住宿场所</td>
+<td class="biaotou">沐浴场所</td>
+<td class="biaotou">游泳场所</td>
+<td class="biaotou">美容美发场所</td>
+<td class="biaotou">候车(机.船)场所</td>
+<td class="biaotou">其他</td>
+</tr>
+<tr><td class="zhibiao">单位数</td>
+<td class="shuju">1453695</td>
+<td class="shuju">353521</td>
+<td class="shuju">102121</td>
+<td class="shuju">10100</td>
+<td class="shuju">583649</td>
+<td class="shuju">2640</td>
+<td class="shuju">401664</td>
+</tr>
+<tr><td class="zhibiao">职工总数(人)</td>
+<td class="shuju">10124052</td>
+<td class="shuju">2778001</td>
+<td class="shuju">789480</td>
+<td class="shuju">102563</td>
+<td class="shuju">1433997</td>
+<td class="shuju">103579</td>
+<td class="shuju">4916432</td>
+</tr>
+<tr><td class="zhibiao">从业人员数(人)</td>
+<td class="shuju">8300260</td>
+<td class="shuju">2156209</td>
+<td class="shuju">568355</td>
+<td class="shuju">76720</td>
+<td class="shuju">1322769</td>
+<td class="shuju">60347</td>
+<td class="shuju">4115860</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;持健康合格证明人数(人)</td>
+<td class="shuju">8111247</td>
+<td class="shuju">2107272</td>
+<td class="shuju">558637</td>
+<td class="shuju">72090</td>
+<td class="shuju">1311933</td>
+<td class="shuju">54861</td>
+<td class="shuju">4006454</td>
+</tr>
+<tr><td class="zhibiao">有集中空调通风系统</td>
+<td class="shuju">114116</td>
+<td class="shuju">31885</td>
+<td class="shuju">7384</td>
+<td class="shuju">1410</td>
+<td class="shuju">24269</td>
+<td class="shuju">563</td>
+<td class="shuju">48605</td>
+</tr>
+<tr><td class="zhibiao">有效卫生许可证(份)</td>
+<td class="shuju">1453695</td>
+<td class="shuju">353521</td>
+<td class="shuju">102121</td>
+<td class="shuju">10100</td>
+<td class="shuju">583649</td>
+<td class="shuju">2640</td>
+<td class="shuju">401664</td>
+</tr>
+<tr><td class="zhibiao">卫生许可证发放情况(份)</td>
+<td class="shuju">419062</td>
+<td class="shuju">94893</td>
+<td class="shuju">31686</td>
+<td class="shuju">4101</td>
+<td class="shuju">168817</td>
+<td class="shuju">585</td>
+<td class="shuju">118980</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;新发</td>
+<td class="shuju">294277</td>
+<td class="shuju">60349</td>
+<td class="shuju">22958</td>
+<td class="shuju">2431</td>
+<td class="shuju">120690</td>
+<td class="shuju">328</td>
+<td class="shuju">87521</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;变更</td>
+<td class="shuju">16519</td>
+<td class="shuju">4791</td>
+<td class="shuju">1368</td>
+<td class="shuju">367</td>
+<td class="shuju">4921</td>
+<td class="shuju">52</td>
+<td class="shuju">5020</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;复核</td>
+<td class="shuju">40662</td>
+<td class="shuju">11708</td>
+<td class="shuju">3212</td>
+<td class="shuju">596</td>
+<td class="shuju">15584</td>
+<td class="shuju">66</td>
+<td class="shuju">9496</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;延续</td>
+<td class="shuju">48218</td>
+<td class="shuju">15710</td>
+<td class="shuju">2682</td>
+<td class="shuju">598</td>
+<td class="shuju">20211</td>
+<td class="shuju">128</td>
+<td class="shuju">8889</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;注销</td>
+<td class="shuju">19386</td>
+<td class="shuju">2335</td>
+<td class="shuju">1466</td>
+<td class="shuju">109</td>
+<td class="shuju">7411</td>
+<td class="shuju">11</td>
+<td class="shuju">8054</td>
+</tr>
+<tr><td class="zhibiao">量化分级管理等级评定情况</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;合计</td>
+<td class="shuju">805489</td>
+<td class="shuju">228219</td>
+<td class="shuju">63449</td>
+<td class="shuju">6581</td>
+<td class="shuju">344496</td>
+<td class="shuju">771</td>
+<td class="shuju">161973</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;A级</td>
+<td class="shuju">14469</td>
+<td class="shuju">7345</td>
+<td class="shuju">797</td>
+<td class="shuju">882</td>
+<td class="shuju">3533</td>
+<td class="shuju">16</td>
+<td class="shuju">1896</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;B级</td>
+<td class="shuju">166974</td>
+<td class="shuju">54659</td>
+<td class="shuju">13738</td>
+<td class="shuju">2860</td>
+<td class="shuju">68133</td>
+<td class="shuju">175</td>
+<td class="shuju">27409</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;C级</td>
+<td class="shuju">539169</td>
+<td class="shuju">159609</td>
+<td class="shuju">41619</td>
+<td class="shuju">2516</td>
+<td class="shuju">261376</td>
+<td class="shuju">356</td>
+<td class="shuju">73693</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;不予评级</td>
+<td class="shuju">84877</td>
+<td class="shuju">6606</td>
+<td class="shuju">7295</td>
+<td class="shuju">323</td>
+<td class="shuju">11454</td>
+<td class="shuju">224</td>
+<td class="shuju">58975</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

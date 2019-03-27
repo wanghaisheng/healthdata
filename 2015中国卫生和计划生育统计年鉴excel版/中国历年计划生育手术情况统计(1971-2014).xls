@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年计划生育手术情况统计(1971-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">年份</td>
+<td class="biaotou" colspan="11">节育手术总例数</td>
+</tr><tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" colspan="2">放置节育器</td>
+<td class="biaotou" colspan="2">取出节育器</td>
+<td class="biaotou" colspan="2">输精管结扎</td>
+<td class="biaotou" colspan="2">输卵管结扎</td>
+<td class="biaotou" colspan="2">人工流产</td>
+</tr><tr><td class="biaotou">例数</td>
+<td class="biaotou">%</td>
+<td class="biaotou">例数</td>
+<td class="biaotou">%</td>
+<td class="biaotou">人数</td>
+<td class="biaotou">%</td>
+<td class="biaotou">人数</td>
+<td class="biaotou">%</td>
+<td class="biaotou">人数</td>
+<td class="biaotou">%</td>
+</tr><tr><td class="zhibiao">1971</td>
+<td class="shuju">13051123</td>
+<td class="shuju">6172889</td>
+<td class="shuju">47.3</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">1223480</td>
+<td class="shuju">9.4</td>
+<td class="shuju">1744644</td>
+<td class="shuju">13.4</td>
+<td class="shuju">3910110</td>
+<td class="shuju">30.0</td>
+</tr>
+<tr><td class="zhibiao">1972</td>
+<td class="shuju">18690446</td>
+<td class="shuju">9220297</td>
+<td class="shuju">49.3</td>
+<td class="shuju">853625</td>
+<td class="shuju">4.6</td>
+<td class="shuju">1715822</td>
+<td class="shuju">9.2</td>
+<td class="shuju">2087160</td>
+<td class="shuju">11.2</td>
+<td class="shuju">4813542</td>
+<td class="shuju">25.8</td>
+</tr>
+<tr><td class="zhibiao">1973</td>
+<td class="shuju">25075557</td>
+<td class="shuju">13949569</td>
+<td class="shuju">55.6</td>
+<td class="shuju">1126756</td>
+<td class="shuju">4.5</td>
+<td class="shuju">1933210</td>
+<td class="shuju">7.7</td>
+<td class="shuju">2955617</td>
+<td class="shuju">11.8</td>
+<td class="shuju">5110405</td>
+<td class="shuju">20.4</td>
+</tr>
+<tr><td class="zhibiao">1974</td>
+<td class="shuju">22638229</td>
+<td class="shuju">12579886</td>
+<td class="shuju">55.6</td>
+<td class="shuju">1352787</td>
+<td class="shuju">6.0</td>
+<td class="shuju">1445251</td>
+<td class="shuju">6.4</td>
+<td class="shuju">2275741</td>
+<td class="shuju">10.1</td>
+<td class="shuju">4984564</td>
+<td class="shuju">22.0</td>
+</tr>
+<tr><td class="zhibiao">1975</td>
+<td class="shuju">29462861</td>
+<td class="shuju">16743693</td>
+<td class="shuju">56.8</td>
+<td class="shuju">1702213</td>
+<td class="shuju">5.8</td>
+<td class="shuju">2652653</td>
+<td class="shuju">9.0</td>
+<td class="shuju">3280042</td>
+<td class="shuju">11.1</td>
+<td class="shuju">5084260</td>
+<td class="shuju">17.3</td>
+</tr>
+<tr><td class="zhibiao">1976</td>
+<td class="shuju">22385435</td>
+<td class="shuju">11626510</td>
+<td class="shuju">51.9</td>
+<td class="shuju">1812590</td>
+<td class="shuju">8.1</td>
+<td class="shuju">1495540</td>
+<td class="shuju">6.7</td>
+<td class="shuju">2707849</td>
+<td class="shuju">12.1</td>
+<td class="shuju">4742946</td>
+<td class="shuju">21.2</td>
+</tr>
+<tr><td class="zhibiao">1977</td>
+<td class="shuju">25539086</td>
+<td class="shuju">12974313</td>
+<td class="shuju">50.8</td>
+<td class="shuju">1941880</td>
+<td class="shuju">7.6</td>
+<td class="shuju">2616876</td>
+<td class="shuju">10.2</td>
+<td class="shuju">2776448</td>
+<td class="shuju">10.9</td>
+<td class="shuju">5229569</td>
+<td class="shuju">20.5</td>
+</tr>
+<tr><td class="zhibiao">1978</td>
+<td class="shuju">21720096</td>
+<td class="shuju">10962517</td>
+<td class="shuju">50.5</td>
+<td class="shuju">2087420</td>
+<td class="shuju">9.6</td>
+<td class="shuju">767542</td>
+<td class="shuju">3.5</td>
+<td class="shuju">2511413</td>
+<td class="shuju">11.6</td>
+<td class="shuju">5391204</td>
+<td class="shuju">24.8</td>
+</tr>
+<tr><td class="zhibiao">1979</td>
+<td class="shuju">30581114</td>
+<td class="shuju">13472392</td>
+<td class="shuju">44.1</td>
+<td class="shuju">2288670</td>
+<td class="shuju">7.5</td>
+<td class="shuju">1673947</td>
+<td class="shuju">5.5</td>
+<td class="shuju">5289518</td>
+<td class="shuju">17.3</td>
+<td class="shuju">7856587</td>
+<td class="shuju">25.7</td>
+</tr>
+<tr><td class="zhibiao">1980</td>
+<td class="shuju">28628437</td>
+<td class="shuju">11491871</td>
+<td class="shuju">40.1</td>
+<td class="shuju">2403408</td>
+<td class="shuju">8.4</td>
+<td class="shuju">1363508</td>
+<td class="shuju">4.8</td>
+<td class="shuju">3842006</td>
+<td class="shuju">13.4</td>
+<td class="shuju">9527644</td>
+<td class="shuju">33.3</td>
+</tr>
+<tr><td class="zhibiao">1981</td>
+<td class="shuju">22760305</td>
+<td class="shuju">10344537</td>
+<td class="shuju">45.4</td>
+<td class="shuju">1513376</td>
+<td class="shuju">6.6</td>
+<td class="shuju">649476</td>
+<td class="shuju">2.9</td>
+<td class="shuju">1555971</td>
+<td class="shuju">6.8</td>
+<td class="shuju">8696945</td>
+<td class="shuju">38.2</td>
+</tr>
+<tr><td class="zhibiao">1982</td>
+<td class="shuju">33702389</td>
+<td class="shuju">14069161</td>
+<td class="shuju">41.7</td>
+<td class="shuju">2056671</td>
+<td class="shuju">6.1</td>
+<td class="shuju">1230967</td>
+<td class="shuju">3.7</td>
+<td class="shuju">3925927</td>
+<td class="shuju">11.6</td>
+<td class="shuju">12419663</td>
+<td class="shuju">36.9</td>
+</tr>
+<tr><td class="zhibiao">1983</td>
+<td class="shuju">58205572</td>
+<td class="shuju">17755736</td>
+<td class="shuju">30.5</td>
+<td class="shuju">5323354</td>
+<td class="shuju">9.1</td>
+<td class="shuju">4259261</td>
+<td class="shuju">7.3</td>
+<td class="shuju">16398378</td>
+<td class="shuju">28.2</td>
+<td class="shuju">14371843</td>
+<td class="shuju">24.7</td>
+</tr>
+<tr><td class="zhibiao">1984</td>
+<td class="shuju">31734864</td>
+<td class="shuju">11751146</td>
+<td class="shuju">37.0</td>
+<td class="shuju">4383129</td>
+<td class="shuju">13.8</td>
+<td class="shuju">1293286</td>
+<td class="shuju">4.1</td>
+<td class="shuju">5417163</td>
+<td class="shuju">17.1</td>
+<td class="shuju">8890140</td>
+<td class="shuju">28.0</td>
+</tr>
+<tr><td class="zhibiao">1985</td>
+<td class="shuju">25646972</td>
+<td class="shuju">9576980</td>
+<td class="shuju">37.3</td>
+<td class="shuju">2278892</td>
+<td class="shuju">8.9</td>
+<td class="shuju">575564</td>
+<td class="shuju">2.2</td>
+<td class="shuju">2283971</td>
+<td class="shuju">8.9</td>
+<td class="shuju">10931565</td>
+<td class="shuju">42.6</td>
+</tr>
+<tr><td class="zhibiao">1986</td>
+<td class="shuju">28475506</td>
+<td class="shuju">10637909</td>
+<td class="shuju">37.4</td>
+<td class="shuju">2313157</td>
+<td class="shuju">8.1</td>
+<td class="shuju">1030827</td>
+<td class="shuju">3.6</td>
+<td class="shuju">2914900</td>
+<td class="shuju">10.2</td>
+<td class="shuju">11578713</td>
+<td class="shuju">40.7</td>
+</tr>
+<tr><td class="zhibiao">1987</td>
+<td class="shuju">34597082</td>
+<td class="shuju">13448332</td>
+<td class="shuju">38.9</td>
+<td class="shuju">2411389</td>
+<td class="shuju">7.0</td>
+<td class="shuju">1752598</td>
+<td class="shuju">5.1</td>
+<td class="shuju">4407755</td>
+<td class="shuju">12.7</td>
+<td class="shuju">10489412</td>
+<td class="shuju">30.3</td>
+</tr>
+<tr><td class="zhibiao">1988</td>
+<td class="shuju">31820664</td>
+<td class="shuju">12227219</td>
+<td class="shuju">38.4</td>
+<td class="shuju">2264969</td>
+<td class="shuju">7.1</td>
+<td class="shuju">1062161</td>
+<td class="shuju">3.3</td>
+<td class="shuju">3590469</td>
+<td class="shuju">11.3</td>
+<td class="shuju">12675839</td>
+<td class="shuju">39.8</td>
+</tr>
+<tr><td class="zhibiao">1989</td>
+<td class="shuju">29031912</td>
+<td class="shuju">10854752</td>
+<td class="shuju">37.4</td>
+<td class="shuju">2066723</td>
+<td class="shuju">7.1</td>
+<td class="shuju">1509294</td>
+<td class="shuju">5.2</td>
+<td class="shuju">4221717</td>
+<td class="shuju">14.5</td>
+<td class="shuju">10379426</td>
+<td class="shuju">35.8</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">34982328</td>
+<td class="shuju">12352110</td>
+<td class="shuju">35.3</td>
+<td class="shuju">2355128</td>
+<td class="shuju">6.7</td>
+<td class="shuju">1466442</td>
+<td class="shuju">4.2</td>
+<td class="shuju">5314722</td>
+<td class="shuju">15.2</td>
+<td class="shuju">13493926</td>
+<td class="shuju">38.6</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">38135578</td>
+<td class="shuju">12289953</td>
+<td class="shuju">32.2</td>
+<td class="shuju">2623304</td>
+<td class="shuju">6.9</td>
+<td class="shuju">2382670</td>
+<td class="shuju">6.2</td>
+<td class="shuju">6753338</td>
+<td class="shuju">17.7</td>
+<td class="shuju">14086313</td>
+<td class="shuju">36.9</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">28017605</td>
+<td class="shuju">10091391</td>
+<td class="shuju">36.0</td>
+<td class="shuju">2151223</td>
+<td class="shuju">7.7</td>
+<td class="shuju">858675</td>
+<td class="shuju">3.1</td>
+<td class="shuju">4500029</td>
+<td class="shuju">16.1</td>
+<td class="shuju">10416287</td>
+<td class="shuju">37.2</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">25114685</td>
+<td class="shuju">9366096</td>
+<td class="shuju">37.3</td>
+<td class="shuju">2030421</td>
+<td class="shuju">8.1</td>
+<td class="shuju">641705</td>
+<td class="shuju">2.6</td>
+<td class="shuju">3580344</td>
+<td class="shuju">14.3</td>
+<td class="shuju">9496119</td>
+<td class="shuju">37.8</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">27967575</td>
+<td class="shuju">10353790</td>
+<td class="shuju">37.0</td>
+<td class="shuju">2322221</td>
+<td class="shuju">8.3</td>
+<td class="shuju">671890</td>
+<td class="shuju">2.4</td>
+<td class="shuju">3726861</td>
+<td class="shuju">13.3</td>
+<td class="shuju">9467064</td>
+<td class="shuju">33.9</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">22236012</td>
+<td class="shuju">8368242</td>
+<td class="shuju">37.6</td>
+<td class="shuju">1841903</td>
+<td class="shuju">8.3</td>
+<td class="shuju">464387</td>
+<td class="shuju">2.1</td>
+<td class="shuju">2315472</td>
+<td class="shuju">10.4</td>
+<td class="shuju">7476482</td>
+<td class="shuju">33.6</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">22953599</td>
+<td class="shuju">8807090</td>
+<td class="shuju">38.4</td>
+<td class="shuju">2029474</td>
+<td class="shuju">8.8</td>
+<td class="shuju">546425</td>
+<td class="shuju">2.4</td>
+<td class="shuju">2736415</td>
+<td class="shuju">11.9</td>
+<td class="shuju">8834195</td>
+<td class="shuju">38.5</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">20418688</td>
+<td class="shuju">7947709</td>
+<td class="shuju">38.9</td>
+<td class="shuju">1868727</td>
+<td class="shuju">9.2</td>
+<td class="shuju">436656</td>
+<td class="shuju">2.1</td>
+<td class="shuju">2340303</td>
+<td class="shuju">11.5</td>
+<td class="shuju">6589869</td>
+<td class="shuju">32.3</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">19458072</td>
+<td class="shuju">7663447</td>
+<td class="shuju">39.4</td>
+<td class="shuju">2088129</td>
+<td class="shuju">10.7</td>
+<td class="shuju">329080</td>
+<td class="shuju">1.7</td>
+<td class="shuju">1993126</td>
+<td class="shuju">10.2</td>
+<td class="shuju">7384290</td>
+<td class="shuju">37.9</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">18209721</td>
+<td class="shuju">7159823</td>
+<td class="shuju">39.3</td>
+<td class="shuju">2138951</td>
+<td class="shuju">11.7</td>
+<td class="shuju">318858</td>
+<td class="shuju">1.8</td>
+<td class="shuju">1827732</td>
+<td class="shuju">10.0</td>
+<td class="shuju">6764357</td>
+<td class="shuju">37.1</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">17720620</td>
+<td class="shuju">6833181</td>
+<td class="shuju">38.6</td>
+<td class="shuju">2235434</td>
+<td class="shuju">12.6</td>
+<td class="shuju">312538</td>
+<td class="shuju">1.8</td>
+<td class="shuju">1680917</td>
+<td class="shuju">9.5</td>
+<td class="shuju">6658550</td>
+<td class="shuju">37.6</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">17070650</td>
+<td class="shuju">6627130</td>
+<td class="shuju">38.8</td>
+<td class="shuju">2354747</td>
+<td class="shuju">13.8</td>
+<td class="shuju">254229</td>
+<td class="shuju">1.5</td>
+<td class="shuju">1549700</td>
+<td class="shuju">9.1</td>
+<td class="shuju">6284844</td>
+<td class="shuju">36.8</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">17671279</td>
+<td class="shuju">6539550</td>
+<td class="shuju">37.0</td>
+<td class="shuju">2395709</td>
+<td class="shuju">13.6</td>
+<td class="shuju">209006</td>
+<td class="shuju">1.2</td>
+<td class="shuju">1372535</td>
+<td class="shuju">7.8</td>
+<td class="shuju">6812317</td>
+<td class="shuju">38.6</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">18644537</td>
+<td class="shuju">6808186</td>
+<td class="shuju">36.5</td>
+<td class="shuju">2607231</td>
+<td class="shuju">14.0</td>
+<td class="shuju">272608</td>
+<td class="shuju">1.5</td>
+<td class="shuju">1478979</td>
+<td class="shuju">7.9</td>
+<td class="shuju">7215440</td>
+<td class="shuju">38.8</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">18524918</td>
+<td class="shuju">6661851</td>
+<td class="shuju">36.0</td>
+<td class="shuju">2807888</td>
+<td class="shuju">15.2</td>
+<td class="shuju">192751</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1466742</td>
+<td class="shuju">7.9</td>
+<td class="shuju">7140588</td>
+<td class="shuju">38.5</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">19388510</td>
+<td class="shuju">6803959</td>
+<td class="shuju">35.1</td>
+<td class="shuju">2788035</td>
+<td class="shuju">14.4</td>
+<td class="shuju">199372</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1418789</td>
+<td class="shuju">7.3</td>
+<td class="shuju">7105995</td>
+<td class="shuju">36.7</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">19010352</td>
+<td class="shuju">6955904</td>
+<td class="shuju">36.6</td>
+<td class="shuju">2786171</td>
+<td class="shuju">14.7</td>
+<td class="shuju">259433</td>
+<td class="shuju">1.4</td>
+<td class="shuju">1422983</td>
+<td class="shuju">7.5</td>
+<td class="shuju">7308615</td>
+<td class="shuju">38.4</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">19682051</td>
+<td class="shuju">7242095</td>
+<td class="shuju">36.8</td>
+<td class="shuju">2784691</td>
+<td class="shuju">14.2</td>
+<td class="shuju">206103</td>
+<td class="shuju">1.1</td>
+<td class="shuju">1576399</td>
+<td class="shuju">8.0</td>
+<td class="shuju">7632539</td>
+<td class="shuju">38.8</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">22965823</td>
+<td class="shuju">7680893</td>
+<td class="shuju">33.4</td>
+<td class="shuju">2928735</td>
+<td class="shuju">12.8</td>
+<td class="shuju">214514</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1606313</td>
+<td class="shuju">7.0</td>
+<td class="shuju">9173101</td>
+<td class="shuju">40.0</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">22768853</td>
+<td class="shuju">7818040</td>
+<td class="shuju">34.3</td>
+<td class="shuju">3084561</td>
+<td class="shuju">13.6</td>
+<td class="shuju">219284</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1775706</td>
+<td class="shuju">7.8</td>
+<td class="shuju">6111375</td>
+<td class="shuju">26.8</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">22157408</td>
+<td class="shuju">7543621</td>
+<td class="shuju">34.0</td>
+<td class="shuju">2817209</td>
+<td class="shuju">12.7</td>
+<td class="shuju">218306</td>
+<td class="shuju">1.0</td>
+<td class="shuju">1699379</td>
+<td class="shuju">7.7</td>
+<td class="shuju">6361539</td>
+<td class="shuju">28.7</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">21948224</td>
+<td class="shuju">7296642</td>
+<td class="shuju">33.2</td>
+<td class="shuju">2818858</td>
+<td class="shuju">12.8</td>
+<td class="shuju">196064</td>
+<td class="shuju">0.9</td>
+<td class="shuju">1595105</td>
+<td class="shuju">7.3</td>
+<td class="shuju">6631310</td>
+<td class="shuju">30.2</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">21763821</td>
+<td class="shuju">7200416</td>
+<td class="shuju">33.1</td>
+<td class="shuju">2835480</td>
+<td class="shuju">13.0</td>
+<td class="shuju">173231</td>
+<td class="shuju">0.8</td>
+<td class="shuju">1561809</td>
+<td class="shuju">7.2</td>
+<td class="shuju">6690027</td>
+<td class="shuju">30.7</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">20348829</td>
+<td class="shuju">6811831</td>
+<td class="shuju">33.5</td>
+<td class="shuju">2792446</td>
+<td class="shuju">13.7</td>
+<td class="shuju">157153</td>
+<td class="shuju">0.8</td>
+<td class="shuju">1373089</td>
+<td class="shuju">6.7</td>
+<td class="shuju">6237177</td>
+<td class="shuju">30.7</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">24182908</td>
+<td class="shuju">8482706</td>
+<td class="shuju">35.1</td>
+<td class="shuju">3531477</td>
+<td class="shuju">14.6</td>
+<td class="shuju">180959</td>
+<td class="shuju">0.7</td>
+<td class="shuju">1467743</td>
+<td class="shuju">6.1</td>
+<td class="shuju">9621995</td>
+<td class="shuju">39.8</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

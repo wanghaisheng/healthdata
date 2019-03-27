@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年全科医生数统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="2">&nbsp;</td>
+<td class="biaotou" colspan="2">合计</td>
+<td class="biaotou" colspan="2">注册为全科医学专业的人数</td>
+<td class="biaotou" colspan="2">取得全科医生培训合格证的人数</td>
+</tr><tr><td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+<td class="biaotou">2013</td>
+<td class="biaotou">2014</td>
+</tr><tr><td class="zhibiao">总计</td>
+<td class="shuju">145511</td>
+<td class="shuju">172597</td>
+<td class="shuju">47402</td>
+<td class="shuju">64156</td>
+<td class="shuju">98109</td>
+<td class="shuju">108441</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;医院</td>
+<td class="shuju">25758</td>
+<td class="shuju">30428</td>
+<td class="shuju">6260</td>
+<td class="shuju">9395</td>
+<td class="shuju">19498</td>
+<td class="shuju">21033</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;社区卫生服务中心(站)</td>
+<td class="shuju">60181</td>
+<td class="shuju">68914</td>
+<td class="shuju">23488</td>
+<td class="shuju">31202</td>
+<td class="shuju">36693</td>
+<td class="shuju">37712</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;乡镇卫生院</td>
+<td class="shuju">56825</td>
+<td class="shuju">70296</td>
+<td class="shuju">16836</td>
+<td class="shuju">22594</td>
+<td class="shuju">39989</td>
+<td class="shuju">47702</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:全科医生数指注册为全科医学专业或取得全科医生培训合格证的执业(助理)医师数之和.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国历年乡镇卫生院医疗服务情况统计(1983-2014)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">年份</td>
+<td class="biaotou">诊疗人次数(亿次)</td>
+<td class="biaotou">入院人数(万人)</td>
+<td class="biaotou">病床周转次数(次)</td>
+<td class="biaotou">病床使用率(%)</td>
+<td class="biaotou">平均住院日(日)</td>
+</tr>
+<tr><td class="zhibiao">1983</td>
+<td class="shuju">13.65</td>
+<td class="shuju">2373</td>
+<td class="shuju">33.4</td>
+<td class="shuju">56.6</td>
+<td class="shuju">5.9</td>
+</tr>
+<tr><td class="zhibiao">1984</td>
+<td class="shuju">12.65</td>
+<td class="shuju">1893</td>
+<td class="shuju">27.9</td>
+<td class="shuju">49.1</td>
+<td class="shuju">6.0</td>
+</tr>
+<tr><td class="zhibiao">1985</td>
+<td class="shuju">11.00</td>
+<td class="shuju">1771</td>
+<td class="shuju">26.4</td>
+<td class="shuju">46.0</td>
+<td class="shuju">5.9</td>
+</tr>
+<tr><td class="zhibiao">1986</td>
+<td class="shuju">11.18</td>
+<td class="shuju">1782</td>
+<td class="shuju">26.9</td>
+<td class="shuju">46.0</td>
+<td class="shuju">5.9</td>
+</tr>
+<tr><td class="zhibiao">1987</td>
+<td class="shuju">11.30</td>
+<td class="shuju">1959</td>
+<td class="shuju">28.5</td>
+<td class="shuju">47.4</td>
+<td class="shuju">5.6</td>
+</tr>
+<tr><td class="zhibiao">1988</td>
+<td class="shuju">11.36</td>
+<td class="shuju">2031</td>
+<td class="shuju">29.2</td>
+<td class="shuju">47.3</td>
+<td class="shuju">5.6</td>
+</tr>
+<tr><td class="zhibiao">1989</td>
+<td class="shuju">10.6</td>
+<td class="shuju">1935</td>
+<td class="shuju">28.3</td>
+<td class="shuju">44.6</td>
+<td class="shuju">5.4</td>
+</tr>
+<tr><td class="zhibiao">1990</td>
+<td class="shuju">10.65</td>
+<td class="shuju">1958</td>
+<td class="shuju">28.6</td>
+<td class="shuju">43.4</td>
+<td class="shuju">5.2</td>
+</tr>
+<tr><td class="zhibiao">1991</td>
+<td class="shuju">10.82</td>
+<td class="shuju">2016</td>
+<td class="shuju">29.1</td>
+<td class="shuju">43.5</td>
+<td class="shuju">5.1</td>
+</tr>
+<tr><td class="zhibiao">1992</td>
+<td class="shuju">10.34</td>
+<td class="shuju">1960</td>
+<td class="shuju">28.7</td>
+<td class="shuju">42.9</td>
+<td class="shuju">5.1</td>
+</tr>
+<tr><td class="zhibiao">1993</td>
+<td class="shuju">8.98</td>
+<td class="shuju">1855</td>
+<td class="shuju">27.9</td>
+<td class="shuju">38.4</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">1994</td>
+<td class="shuju">9.73</td>
+<td class="shuju">1913</td>
+<td class="shuju">29.4</td>
+<td class="shuju">40.5</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">1995</td>
+<td class="shuju">9.38</td>
+<td class="shuju">1960</td>
+<td class="shuju">29.9</td>
+<td class="shuju">40.2</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">1996</td>
+<td class="shuju">9.44</td>
+<td class="shuju">1916</td>
+<td class="shuju">28.6</td>
+<td class="shuju">37.0</td>
+<td class="shuju">4.4</td>
+</tr>
+<tr><td class="zhibiao">1997</td>
+<td class="shuju">9.16</td>
+<td class="shuju">1918</td>
+<td class="shuju">26.0</td>
+<td class="shuju">34.5</td>
+<td class="shuju">4.5</td>
+</tr>
+<tr><td class="zhibiao">1998</td>
+<td class="shuju">8.74</td>
+<td class="shuju">1751</td>
+<td class="shuju">24.4</td>
+<td class="shuju">33.3</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">1999</td>
+<td class="shuju">8.38</td>
+<td class="shuju">1688</td>
+<td class="shuju">24.2</td>
+<td class="shuju">32.8</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">2000</td>
+<td class="shuju">8.24</td>
+<td class="shuju">1708</td>
+<td class="shuju">24.8</td>
+<td class="shuju">33.2</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">2001</td>
+<td class="shuju">8.24</td>
+<td class="shuju">1700</td>
+<td class="shuju">23.7</td>
+<td class="shuju">31.3</td>
+<td class="shuju">4.5</td>
+</tr>
+<tr><td class="zhibiao">2002</td>
+<td class="shuju">7.1</td>
+<td class="shuju">1625</td>
+<td class="shuju">28.0</td>
+<td class="shuju">34.7</td>
+<td class="shuju">4.0</td>
+</tr>
+<tr><td class="zhibiao">2003</td>
+<td class="shuju">6.91</td>
+<td class="shuju">1608</td>
+<td class="shuju">28.1</td>
+<td class="shuju">36.2</td>
+<td class="shuju">4.2</td>
+</tr>
+<tr><td class="zhibiao">2004</td>
+<td class="shuju">6.81</td>
+<td class="shuju">1599</td>
+<td class="shuju">27.0</td>
+<td class="shuju">37.1</td>
+<td class="shuju">4.4</td>
+</tr>
+<tr><td class="zhibiao">2005</td>
+<td class="shuju">6.79</td>
+<td class="shuju">1622</td>
+<td class="shuju">25.8</td>
+<td class="shuju">37.7</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">2006</td>
+<td class="shuju">7.01</td>
+<td class="shuju">1836</td>
+<td class="shuju">28.8</td>
+<td class="shuju">39.4</td>
+<td class="shuju">4.6</td>
+</tr>
+<tr><td class="zhibiao">2007</td>
+<td class="shuju">7.59</td>
+<td class="shuju">2662</td>
+<td class="shuju">36.7</td>
+<td class="shuju">48.4</td>
+<td class="shuju">4.8</td>
+</tr>
+<tr><td class="zhibiao">2008</td>
+<td class="shuju">8.27</td>
+<td class="shuju">3313</td>
+<td class="shuju">42.0</td>
+<td class="shuju">55.8</td>
+<td class="shuju">4.4</td>
+</tr>
+<tr><td class="zhibiao">2009</td>
+<td class="shuju">8.77</td>
+<td class="shuju">3808</td>
+<td class="shuju">42.9</td>
+<td class="shuju">60.7</td>
+<td class="shuju">4.8</td>
+</tr>
+<tr><td class="zhibiao">2010</td>
+<td class="shuju">8.74</td>
+<td class="shuju">3630</td>
+<td class="shuju">38.4</td>
+<td class="shuju">59.0</td>
+<td class="shuju">5.2</td>
+</tr>
+<tr><td class="zhibiao">2011</td>
+<td class="shuju">8.66</td>
+<td class="shuju">3449</td>
+<td class="shuju">35.2</td>
+<td class="shuju">58.1</td>
+<td class="shuju">5.6</td>
+</tr>
+<tr><td class="zhibiao">2012</td>
+<td class="shuju">9.68</td>
+<td class="shuju">3908</td>
+<td class="shuju">37.4</td>
+<td class="shuju">62.1</td>
+<td class="shuju">5.7</td>
+</tr>
+<tr><td class="zhibiao">2013</td>
+<td class="shuju">10.07</td>
+<td class="shuju">3937</td>
+<td class="shuju">36.1</td>
+<td class="shuju">62.8</td>
+<td class="shuju">5.9</td>
+</tr>
+<tr><td class="zhibiao">2014</td>
+<td class="shuju">10.29</td>
+<td class="shuju">3733</td>
+<td class="shuju">33.2</td>
+<td class="shuju">60.5</td>
+<td class="shuju">6.3</td>
+</tr>
+<tr><td class="zhibiao">中心卫生院</td>
+<td class="shuju">4.24</td>
+<td class="shuju">1737</td>
+<td class="shuju">35.1</td>
+<td class="shuju">63.5</td>
+<td class="shuju">6.3</td>
+</tr>
+<tr><td class="zhibiao">乡卫生院</td>
+<td class="shuju">6.04</td>
+<td class="shuju">1996</td>
+<td class="shuju">31.7</td>
+<td class="shuju">58.2</td>
+<td class="shuju">6.2</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>注:1993年以前的诊疗人次及入院人数系推算数字.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>

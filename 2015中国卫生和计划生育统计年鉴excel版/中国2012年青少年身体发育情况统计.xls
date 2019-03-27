@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2012年青少年身体发育情况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou" rowspan="3">年龄(岁)</td>
+<td class="biaotou" colspan="4">男性</td>
+<td class="biaotou" colspan="4">女性</td>
+</tr><tr><td class="biaotou" colspan="2">平均体重(千克)</td>
+<td class="biaotou" colspan="2">平均身高(厘米)</td>
+<td class="biaotou" colspan="2">平均体重(千克)</td>
+<td class="biaotou" colspan="2">平均身高(厘米)</td>
+</tr><tr><td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+<td class="biaotou">2002</td>
+<td class="biaotou">2012</td>
+</tr><tr><td class="zhibiao">城市</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">7</td>
+<td class="shuju">24.8</td>
+<td class="shuju">26.2</td>
+<td class="shuju">124.0</td>
+<td class="shuju">126.0</td>
+<td class="shuju">23.2</td>
+<td class="shuju">24.5</td>
+<td class="shuju">122.6</td>
+<td class="shuju">124.4</td>
+</tr>
+<tr><td class="zhibiao">8</td>
+<td class="shuju">27.2</td>
+<td class="shuju">29.7</td>
+<td class="shuju">129.0</td>
+<td class="shuju">131.4</td>
+<td class="shuju">26.0</td>
+<td class="shuju">28.0</td>
+<td class="shuju">128.3</td>
+<td class="shuju">130.5</td>
+</tr>
+<tr><td class="zhibiao">9</td>
+<td class="shuju">30.4</td>
+<td class="shuju">33.1</td>
+<td class="shuju">134.4</td>
+<td class="shuju">136.1</td>
+<td class="shuju">28.6</td>
+<td class="shuju">31.4</td>
+<td class="shuju">133.5</td>
+<td class="shuju">136.0</td>
+</tr>
+<tr><td class="zhibiao">10</td>
+<td class="shuju">33.8</td>
+<td class="shuju">37.3</td>
+<td class="shuju">139.6</td>
+<td class="shuju">141.7</td>
+<td class="shuju">32.8</td>
+<td class="shuju">34.5</td>
+<td class="shuju">139.9</td>
+<td class="shuju">141.4</td>
+</tr>
+<tr><td class="zhibiao">11</td>
+<td class="shuju">37.4</td>
+<td class="shuju">41.8</td>
+<td class="shuju">144.9</td>
+<td class="shuju">147.5</td>
+<td class="shuju">36.7</td>
+<td class="shuju">40.1</td>
+<td class="shuju">145.8</td>
+<td class="shuju">148.5</td>
+</tr>
+<tr><td class="zhibiao">12</td>
+<td class="shuju">40.5</td>
+<td class="shuju">45.2</td>
+<td class="shuju">149.5</td>
+<td class="shuju">153.3</td>
+<td class="shuju">40.5</td>
+<td class="shuju">43.9</td>
+<td class="shuju">150.5</td>
+<td class="shuju">152.8</td>
+</tr>
+<tr><td class="zhibiao">13</td>
+<td class="shuju">44.9</td>
+<td class="shuju">50.6</td>
+<td class="shuju">156.6</td>
+<td class="shuju">160.0</td>
+<td class="shuju">44.5</td>
+<td class="shuju">47.5</td>
+<td class="shuju">154.5</td>
+<td class="shuju">156.6</td>
+</tr>
+<tr><td class="zhibiao">14</td>
+<td class="shuju">49.4</td>
+<td class="shuju">56.2</td>
+<td class="shuju">162.0</td>
+<td class="shuju">165.6</td>
+<td class="shuju">47.2</td>
+<td class="shuju">50.5</td>
+<td class="shuju">157.2</td>
+<td class="shuju">158.6</td>
+</tr>
+<tr><td class="zhibiao">15</td>
+<td class="shuju">55.2</td>
+<td class="shuju">57.7</td>
+<td class="shuju">167.6</td>
+<td class="shuju">167.7</td>
+<td class="shuju">50.8</td>
+<td class="shuju">51.5</td>
+<td class="shuju">158.3</td>
+<td class="shuju">158.8</td>
+</tr>
+<tr><td class="zhibiao">16</td>
+<td class="shuju">57.2</td>
+<td class="shuju">60.4</td>
+<td class="shuju">168.4</td>
+<td class="shuju">170.1</td>
+<td class="shuju">52.2</td>
+<td class="shuju">52.9</td>
+<td class="shuju">158.8</td>
+<td class="shuju">159.6</td>
+</tr>
+<tr><td class="zhibiao">17</td>
+<td class="shuju">58.7</td>
+<td class="shuju">61.7</td>
+<td class="shuju">170.2</td>
+<td class="shuju">171.0</td>
+<td class="shuju">51.9</td>
+<td class="shuju">52.7</td>
+<td class="shuju">158.6</td>
+<td class="shuju">159.3</td>
+</tr>
+<tr><td class="zhibiao">18</td>
+<td class="shuju">60.9</td>
+<td class="shuju">63.6</td>
+<td class="shuju">170.8</td>
+<td class="shuju">169.5</td>
+<td class="shuju">51.9</td>
+<td class="shuju">54.9</td>
+<td class="shuju">158.8</td>
+<td class="shuju">159.9</td>
+</tr>
+<tr><td class="zhibiao">19</td>
+<td class="shuju">61.2</td>
+<td class="shuju">65.3</td>
+<td class="shuju">170.4</td>
+<td class="shuju">171.3</td>
+<td class="shuju">51.8</td>
+<td class="shuju">55.8</td>
+<td class="shuju">159.6</td>
+<td class="shuju">161.8</td>
+</tr>
+<tr><td class="zhibiao">农村</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">7</td>
+<td class="shuju">21.7</td>
+<td class="shuju">24.9</td>
+<td class="shuju">119.6</td>
+<td class="shuju">123.9</td>
+<td class="shuju">20.6</td>
+<td class="shuju">23.7</td>
+<td class="shuju">118.2</td>
+<td class="shuju">122.6</td>
+</tr>
+<tr><td class="zhibiao">8</td>
+<td class="shuju">23.9</td>
+<td class="shuju">27.4</td>
+<td class="shuju">124.6</td>
+<td class="shuju">128.7</td>
+<td class="shuju">22.9</td>
+<td class="shuju">26.6</td>
+<td class="shuju">123.8</td>
+<td class="shuju">128.0</td>
+</tr>
+<tr><td class="zhibiao">9</td>
+<td class="shuju">26.1</td>
+<td class="shuju">30.8</td>
+<td class="shuju">129.1</td>
+<td class="shuju">133.3</td>
+<td class="shuju">25.4</td>
+<td class="shuju">29.0</td>
+<td class="shuju">128.8</td>
+<td class="shuju">133.1</td>
+</tr>
+<tr><td class="zhibiao">10</td>
+<td class="shuju">28.6</td>
+<td class="shuju">34.0</td>
+<td class="shuju">134.2</td>
+<td class="shuju">138.4</td>
+<td class="shuju">28.2</td>
+<td class="shuju">33.1</td>
+<td class="shuju">134.3</td>
+<td class="shuju">139.2</td>
+</tr>
+<tr><td class="zhibiao">11</td>
+<td class="shuju">31.9</td>
+<td class="shuju">37.8</td>
+<td class="shuju">139.2</td>
+<td class="shuju">144.0</td>
+<td class="shuju">31.8</td>
+<td class="shuju">36.3</td>
+<td class="shuju">140.0</td>
+<td class="shuju">144.4</td>
+</tr>
+<tr><td class="zhibiao">12</td>
+<td class="shuju">35.4</td>
+<td class="shuju">41.8</td>
+<td class="shuju">144.5</td>
+<td class="shuju">149.6</td>
+<td class="shuju">35.8</td>
+<td class="shuju">41.0</td>
+<td class="shuju">145.4</td>
+<td class="shuju">149.8</td>
+</tr>
+<tr><td class="zhibiao">13</td>
+<td class="shuju">39.3</td>
+<td class="shuju">46.3</td>
+<td class="shuju">149.9</td>
+<td class="shuju">155.9</td>
+<td class="shuju">40.5</td>
+<td class="shuju">44.8</td>
+<td class="shuju">150.1</td>
+<td class="shuju">153.5</td>
+</tr>
+<tr><td class="zhibiao">14</td>
+<td class="shuju">45.1</td>
+<td class="shuju">50.7</td>
+<td class="shuju">157.2</td>
+<td class="shuju">161.3</td>
+<td class="shuju">44.1</td>
+<td class="shuju">47.7</td>
+<td class="shuju">153.2</td>
+<td class="shuju">156.0</td>
+</tr>
+<tr><td class="zhibiao">15</td>
+<td class="shuju">48.6</td>
+<td class="shuju">54.0</td>
+<td class="shuju">161.4</td>
+<td class="shuju">165.2</td>
+<td class="shuju">46.7</td>
+<td class="shuju">50.0</td>
+<td class="shuju">154.8</td>
+<td class="shuju">156.9</td>
+</tr>
+<tr><td class="zhibiao">16</td>
+<td class="shuju">53.0</td>
+<td class="shuju">56.3</td>
+<td class="shuju">165.2</td>
+<td class="shuju">166.8</td>
+<td class="shuju">49.2</td>
+<td class="shuju">50.8</td>
+<td class="shuju">156.0</td>
+<td class="shuju">157.5</td>
+</tr>
+<tr><td class="zhibiao">17</td>
+<td class="shuju">54.9</td>
+<td class="shuju">58.0</td>
+<td class="shuju">166.3</td>
+<td class="shuju">168.3</td>
+<td class="shuju">51.2</td>
+<td class="shuju">51.6</td>
+<td class="shuju">157.0</td>
+<td class="shuju">158.1</td>
+</tr>
+<tr><td class="zhibiao">18</td>
+<td class="shuju">56.8</td>
+<td class="shuju">59.0</td>
+<td class="shuju">167.2</td>
+<td class="shuju">167.9</td>
+<td class="shuju">51.7</td>
+<td class="shuju">52.6</td>
+<td class="shuju">157.5</td>
+<td class="shuju">157.2</td>
+</tr>
+<tr><td class="zhibiao">19</td>
+<td class="shuju">58.8</td>
+<td class="shuju">61.8</td>
+<td class="shuju">168.3</td>
+<td class="shuju">167.2</td>
+<td class="shuju">52.3</td>
+<td class="shuju">52.6</td>
+<td class="shuju">157.0</td>
+<td class="shuju">156.9</td>
+</tr>
+</table>
+<table class="exp" id="tab1">
+<tr><td>资料来源:2002.2012年中国居民营养与健康监测.</td></tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国卫生和计划生育统计年鉴2015》</div>
+</div>
+</body>
+</html>
